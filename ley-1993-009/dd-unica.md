@@ -1,0 +1,2 @@
+Disposición derogatoria única.
+Quedan sin efecto el Decreto del Consejo General Interinsular, de 28 de junio de 1982, de Delegación de Competencias a los Consejos Insulares de Mallorca, de Menorca y de Ibiza y Formentera en materia de información turística, y la autorización, el control y la tutela de las entidades del Fomento del Turismo, publicado en el «Boletín Oficial del Consejo General Interinsular de las Islas Baleares» número 30, de 20 de agosto de 1982, así como cualquier otra disposición contraria a esta Ley.
