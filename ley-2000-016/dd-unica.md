@@ -1,0 +1,7 @@
+Disposición derogatoria única.
+1. Queda derogado el artículo 15 de la ley 12/1999, de 23 de diciembre, de Medidas Tributarias, Administrativas y de Función Pública y Económicas. No obstante, se aplicarán las reglas siguientes:
+a) Conservan su vigencia, con rango legal, las disposiciones relativas a la duración de los procedimientos afectados por lo establecido en los apartados 1.a) y 5 del artículo 15 de la Ley 12/1999, en los que se hubiera fijado un plazo superior a seis meses para dictar y notificar la resolución.
+b) En los procedimientos regulados en las disposiciones afectadas por lo dispuesto en el apartado 1.b) del artículo 15 de la Ley 12/1999, mientras el Gobierno de las illes Balears no establezca otro plazo para dictar y notificar la resolución, de acuerdo con la disposición adicional segunda de la presente Ley, serán de aplicación los plazos que originariamente figuraban en las citadas disposiciones.
+2. Se deroga el capítulo I del título III de la Ley 11/1998, de 14 de diciembre, sobre el régimen específico de tasas de la Comunidad Autónoma de las Illes Balears, relativo a la tasa por la expedición de títulos emitidos por el IBAP.
+3. Se deroga la Orden del Consejero de Educación y Cultura, de 1 de septiembre de 2000, por la cual se estableció el precio público por la prestación del servicio relativo a la utilización del auditorio del Conservatorio.
+4. Asimismo, quedan derogadas cuantas disposiciones de igual o inferior rango se opongan a lo dispuesto en la presente Ley.
