@@ -1,0 +1,2 @@
+Disposición transitoria.
+Hasta tanto entre en vigor la normativa a que se refiere la Disposición Final tercera, los beneficios que la Administración establezca para la promoción de la artesanía serán otorgados por la Consellería de Comercio e Industria, previo informe de la Comisión de Artesanía de las Islas Baleares, sin necesidad de acreditar la posesión del documento de calificación previsto en el artículo 4.º de esta Ley.
