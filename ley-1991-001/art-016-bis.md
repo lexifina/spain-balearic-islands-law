@@ -1,0 +1,6 @@
+Art. 16 bis.
+1. En las fincas ubicadas en área natural de especial interés o en área rural de interés paisajístico, en las que en aplicación de la superficie mínima de parcela establecida para la zona de que se trate sea posible edificar dos o más viviendas, éstas podrán concentrarse siguiendo la normativa exigida en los planeamientos municipales respectivos para la no formación de núcleo de población.
+2. Para hacer uso de la facultad prevista en el apartado anterior, deberá afectarse al conjunto de viviendas que se construyan la superficie mínima exigida en los artículos 12 y 14 de la presente Ley, cuya afección deberá inscribirse en el Registro de la Propiedad.
+3. En el supuesto de que se quiera proceder a la enajenación o segregación de las viviendas construidas al amparo del presente artículo, deberá, cada una de ellas, quedar incorporada físicamente a una finca que disponga de la superficie mínima prevista en los citados artículos 12 y 14 de esta Ley, debiendo inscribirse la nueva finca en el Registro de la Propiedad como indivisible a todos los efectos.
+Cuando no se den las circunstancias previstas en el epígrafe anterior, no será posible la enajenación o segregación de las viviendas construidas.
+Se modifica por el art. único.4 de la Ley 7/1992, de 23 de diciembre. Ref. BOE-A-1993-4521.

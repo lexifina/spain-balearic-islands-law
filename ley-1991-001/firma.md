@@ -1,6 +1,7 @@
 ANEXO I
 Cartografía
 En suplemento anexo del BOIB núm. 31 de 9 de marzo de 1991 se publican los planos correspondientes al anexo I, cartografía.
+Se modifica por el art. único.9 de la Ley 7/1992, de 23 de diciembre. Ref. BOE-A-1993-4521.
 ANEXO II
 1. Relación de suelos urbanizables o aptos para la urbanización situados total o parcialmente en la delimitación de la Serra de Tramuntana de Mallorca que se mantienen
 Andratx:
