@@ -1,6 +1,7 @@
 ANEXO I
 Cartografía
 En suplemento anexo del BOIB núm. 31 de 9 de marzo de 1991 se publican los planos correspondientes al anexo I, cartografía.
+Se modifica por el art. único.1 de la Ley 1/2000, de 9 de marzo. Ref. BOE-A-2000-5834.
 Se modifica por el art. único.9 de la Ley 7/1992, de 23 de diciembre. Ref. BOE-A-1993-4521.
 ANEXO II
 1. Relación de suelos urbanizables o aptos para la urbanización situados total o parcialmente en la delimitación de la Serra de Tramuntana de Mallorca que se mantienen
@@ -10,7 +11,6 @@ Plan Parcial de Ses Egos (aprobación definitiva, 17 de septiembre de, 1973).
 Plan Parcial de Monport 1.ª fase (aprobación definitiva, 3 de junio, de 1974, 5 de abril de 1988).
 Plan Parcial de Monport 2.ª y 3.ª fase (aprobación definitiva, 3 de junio de 1974, 5 de abril de 1988).
 Plan Parcial de Can Borràs (aprobación definitiva, 8 de septiembre de 1981).
-Plan Parcial de S'Almudaina (aprobación definitiva, 16 de septiembre de 1988).
 Plan Parcial de Son Mas (aprobación definitiva, 13 de febrero de 1978).
 Banyalbufar:
 Plan Parcial primer sector 1.ª fase Polígono T-2, Port des Canonge (aprobación definitiva, 7 de abril de 1975).
@@ -37,6 +37,7 @@ Sant Joan de Labritja:
 Plan Parcial Sector «Allá Dins» (aprobación definitiva, 30 de mayo de 1980).
 Plan Parcial «Benirrás» (aprobación definitiva, 19 de junio de 1984).
 Parte del Plan Parcial «Na Xamena», Polígono 3 (aprobación definitiva, 2 de septiembre de 1980).
+Se modifica el apartado 1 por el art. único.2 de la Ley 1/2000, de 9 de marzo. Ref. BOE-A-2000-5834.
 ANEXO III
 Relación de suelos urbanizables o aptos para la urbanización con plan parcial en vigor situados en áreas distintas de la Serra de Tramuntana de Mallorca y de Els Amunts de Eivissa que se mantienen
 Palma:
