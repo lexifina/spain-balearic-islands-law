@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan sin efecto el Decreto del Consejo General Interinsular de 28 de junio de 1982, de delegación de competencias a los Consejos Insulares de Mallorca y de Menorca y de Ibiza y Formentera, en materia de servicios sociales y asistencia social, y el Decreto 49/1986, de 15 de mayo, para la aplicación actualizada de la delegación de competencias en materia de servicios y asistencia social al Consejo Insular de Menorca, así como cualquier disposición de igual o inferior rango que se oponga a lo dispuesto por la presente Ley.
