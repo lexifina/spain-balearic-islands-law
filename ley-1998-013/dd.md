@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas todas las disposiciones que se opongan a lo que se establece en esta Ley y, en particular, el Decreto del Consejo General Interinsular de las Illes Balears, de 28 de junio de 1982, de delegación de competencias en los Consejos Insulares de Mallorca, de Menorca y de Eivissa y Formentera en materia de transportes, publicado en el «Boletín Oficial del Consejo General Interinsular de las Illes Balears», número 30, de día 30 de agosto de 1982.
