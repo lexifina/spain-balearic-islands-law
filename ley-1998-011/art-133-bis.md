@@ -16,7 +16,7 @@ De 125,1 a 250, 0,45 euros/ha; 1,50 euros/ha.
 De 250,1 a 500, 0,30 euros/ha; 1,20 euros/ha.
 A partir de 500,1, 0,24 euros/ha; 0,90 euros/ha.
 3. Se establece un recargo para campos de adiestramiento de perros en cotos no intensivos de 240,00 euros.
-4. En el caso de sujetos pasivos que constituyan sociedades de cazadores federadas cuya función social sea reconocida por la Consejería de Medio Ambiente, la cuantía de la tasa derivada de la expedición de la matrícula anual de cotos privados de caza y de la autorización para campos de adiestramiento de perros, será objeto de bonificación en un 75 por 100 de la cuota correspondiente.
+4. Se aplicará una reducción del 75% de la matrícula anual y de la tasa para campos de entrenamiento de perros a todos los cotos de caza de las Illes Balears de los cuales sean titulares o acrediten la gestión directa sociedades federadas de cazadores.
 5. Cuotas:
 Conceptos:
 Creación, ampliación o segregación de coto de caza 25,00 euros/unidad.
@@ -24,5 +24,6 @@ Por gasto de replanteo 8,00 euros/km.
 Por la realización de informe e inscripción 7,00 euros/unidad.
 Por el cambio de titular o baja del coto 7,00 euros/unidad.
 4. Devengo.
-La tasa se devengará cuando se solicite la actividad administrativa o la prestación del servicio que constituye su hecho imponible, con excepción de aquellas que hayan de ser realizadas sin necesidad de solicitud previa, en cuyo caso la tasa de devengará en el momento de su efectiva realización.»
+La tasa se devengará cuando se solicite la actividad administrativa o la prestación del servicio que constituye su hecho imponible, con excepción de aquellas que hayan de ser realizadas sin necesidad de solicitud previa, en cuyo caso la tasa de devengará en el momento de su efectiva realización.
+Se modifica el apartado 3.4 por el art. 27.7 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
 Se añade por el art. 16 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-8

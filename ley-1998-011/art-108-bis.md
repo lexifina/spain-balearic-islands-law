@@ -1,7 +1,9 @@
 CAPÍTULO II
-Tasas por la prestación de determinados servicios relacionados con la Consejería de Medio Ambiente
+Tasas por la prestación de determinados servicios relacionados con la Consejería de Medio ambiente y la Consejería de Obras Públicas, Vivienda y Transportes
+Se modifica por el art. 27.4 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
 Se modifica por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
-Sección 1.ª Tasa por la prestación de servicios de fotocopias, copias y expedición de certificados
+Sección 1.ª Tasa por la prestación de servicios de fotocopias, copias y expedición de certificados de la Consejería de Medio Ambiente
+Se modifica por el art. 27.4 de la Ley 8/2004, de 23 de diciembre. Ref. BOE-A-2005-953
 Se añade por el art. 6 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a6
 Artículo 108 bis. Tasa por la prestación de servicios de fotocopias, copias y expedición de certificados.
 1. Hecho imponible.
