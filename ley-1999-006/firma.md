@@ -4,31 +4,38 @@ MIGUEL RAMIS SOCIAS, | JAUME MATAS I PALOU,
 Consejero de Medio Ambiente, Ordenación del Territorio i Litoral | Presidente
 ANEXO I
 Matriz de ordenación del suelo rústico
- | Sector primario | Sector secundario | Equipamientos | Otros
-Actividades extensivas | Actividades intensivas | Actividades complemen-tarias | Industria transformación agraria | Industria general | Sin construcción | Resto de equipamientos | Actividades extractivas | Infraestructuras | Vivienda unifa. aislada | Protección y educación ambiental
-S R P | AANP ANEI ARIP APR APT | 1 1 1 1 1 | 2 2 2 2 2 | 2-3 2 2 2 2 | 2-3 2-3 2 3 2 | 3 3 3 3 3 | 2-3 2 2 2-3 2 | 3 3 2 3 3 | 3 2-3 2-3 2-3 2-3 | 2-3 2 2 2-3 2 | 3 2 2 3 2-3 | 2 1 1 2 1
-S R C | AT AIA SRG | 1 1 1 | 1 1 1 | 2 2 2 | 2 2 2 | 3 2-3 2-3 | 2 2 2 | 2 2 2 | 3 2-3 2-3 | 2 2 2 | 2 2 2 | 1 1 1
+Sector primario | Sector secundario | Equipamientos | Otros
+Actividades extensivas | Actividades intensivas | Actividades complement. | Industria transformación agraria | Industria general | Sin construcción | Resto equipamientos | Actividades extractivas | Infraestructuras | Vivienda unifamiliar aislada | Protección educación ambiental
+AANP 1 | 2 | 2-3 | 2-3 | 3 | 2-3 | 3 | 3 | 2-3 | 3 | 2
+ANEI 1 | 2 | 2 | 2-3 | 3 | 2 | 3 | 2-3 | 2 | 3 | 1
+ARIP 1 | 2 | 2 | 2 | 3 | 2 | 2 | 2-3 | 2 | 2 | 1
+APR 1 | 2 | 2 | 3 | 3 | 2-3 | 3 | 2-3 | 2-3 | 3 | 2
+APT 1 | 2 | 2 | 2 | 3 | 2 | 3 | 2-3 | 2 | 3 | 1
+AIA 1 | 1 | 2 | 2 | 2-3 | 2 | 2 | 2-3 | 2 | 2 | 1
+AT 1 | 1 | 2 | 2 | 3 | 2 | 2 | 3 | 2 | 2 | 1
+SRG 1 | 1 | 2 | 2 | 2-3 | 2 | 2 | 2-3 | 2 | 2 | 1
 Categorías de suelo:
-SRP: Suelo Rústico Protegido:
-AANP: Área natural de especial interés de alto nivel de protección.
-ANEI: Área natural de especial interés.
-ARIP: Área rural de interés paisajístico.
-APR: Área de prevención de riesgos (1).
-APT: Área de protección territorial.
-SRC: Suelo rústico común:
-AT: Área de transición.
-AIA: Área de interés agrario.
-SRG: Suelo rústico de régimen general.
+SRP: Suelo Rústico Protegido.
+AANP: Área Natural de Especial Interés de alto nivel de protección.
+ANEI: Área Natural de Especial Interés.
+ARIP: Área Rural de Interés Paisajístico.
+APR: Área de Prevención de Riesgos (1).
+APT: Área de Protección Territorial.
+SRC: Suelo Rústico Común.
+AIA: Área de Interés Agrario.
+AT: Área de Transición.
+SRG: Suelo Rústico de Régimen General.
 Regulación de los usos:
-1. Admitido sin perjuicio del cumplimiento de la normativa específica.
-2. Condicionado según establezca el Plan Territorial Parcial.
-2-3. Prohibido con las especificaciones que establezca el Plan Territorial Parcial (3).
-Transitoriamente las excepciones serán las del instrumento del planeamiento general vigente o las de la declaración de interés general (2).
-3. Prohibido.
+Admitido sin perjuicio del cumplimiento de la normativa específica.
+Condicionado según establece el Plan Territorial Parcial.
+Transitoriamente las condiciones serán las del instrumento de planeamiento general vigente o las de la declaración de interés general (2).
+2-3 Prohibido con las excepciones que establezca el Plan Territorial Parcial (3).
+Transitoriamente las excepciones serán las del instrumento de planeamiento general vigente o las de la declaración de interés general (2).
+3 Prohibido.
 Normas específicas:
-(1) En las áreas de prevención de riesgo de incendios, cuando se destinen a usos o actividades que supongan vivienda e incorporen medidas de seguridad vial para garantizar el acceso de personas y vehículos, depósitos de agua para una primera situación de emergencia, así como actuaciones en la vegetación, en un radio de 30 metros alrededor de las edificaciones al objeto de reducir la carga de combustible, se les aplicará el régimen de usos previstos en la categoría de suelo que les correspondería en ausencia de este riesgo de incendio.
-(2) A los efectos de la aplicación transitoria de esta matriz, respecto al sector primario, se entenderán incluidos los usos a que se refiere la Ley 19/1995, de 4 de julio, de Modernización de las Explotaciones Agrarias, aunque no estén contemplados en los instrumentos de planeamiento general.
-(3) Se permitirá, sin perjuicio del cumplimiento de la normativa específica, la edificación de viviendas unifamiliares a que se refiere la disposición adicional tercera.1 de esta Ley.
+En las áreas de prevención de riesgo de incendios, cuando se destinen a usos o actividades que supongan viviendas e incorporen medidas de seguridad vial para garantizar el acceso de personas y vehículos, depósitos de agua para una primera situación de emergencia así como actuaciones en la vegetación en un radio de 30 metros alrededor de las edificaciones para reducir la carga de combustible, se les aplicará el régimen de usos previstos en la categoría de suelo que les correspondería en ausencia de este riesgo de incendio.
+A los efectos de la aplicación transitoria de esta matriz, en cuanto al sector primario, se entenderán incluidos los usos a que se refiere la Ley 19/1995, de 4 de julio, de modernización de las explotaciones agrarias, aunque no estén contemplados en los instrumentos de planeamiento general.
+Se permitirá, sin perjuicio del cumplimiento de la normativa específica, la edificación de viviendas unifamiliares a que se refiere la disposición adicional tercera.1 de esta Ley.
 DEFINICIÓN DE LAS ACTIVIDADES REGULADAS EN LA MATRIZ DE ORDENACIÓN DEL SUELO RÚSTICO
 A) Protección y educación ambiental
 Son las actividades propias de la protección y la educación ambiental.
@@ -71,6 +78,7 @@ Son un conjunto amplio de instalaciones superficiales, subterráneas o aéreas, 
 5. Grandes instalaciones técnicas de servicios de carácter no lineal, como grandes superficies de estacionamiento de vehículos al aire libre, infraestructuras hidráulicas, energéticas y de tratamiento de residuos, de superficie superior a 200 metros cuadrados, aeropuertos y cualquier otra instalación de interés general o de impacto semejante sobre el medio físico.
 F) Vivienda unifamiliar aislada
 Se trata de la construcción de edificios unifamiliares destinados a vivienda de nueva planta en el suelo rústico, vinculados o no a la explotación agraria.
+Se modifica la matriz de ordenación del suelo rústico por el art. 3 de la Ley autonómica 9/1999, de 6 de octubre. Ref. BOE-A-1999-22243.
 ANEXO II
 Representación gráfica de las determinaciones reguladas en el artículo 19 y en la disposición adicional duodécima de esta Ley
 1. Representación de las aristas exteriores de la explanación para medir el área de protección territorial (APT) de las carreteras, definida en el artículo 19.1.e).2 de esta Ley.
