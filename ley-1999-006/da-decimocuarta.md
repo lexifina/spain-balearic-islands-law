@@ -1,0 +1,7 @@
+Disposición adicional decimocuarta.
+1. Se modifica el segundo párrafo del artículo 18 de la Ley 1/1991, de 30 de enero, de Espacios Naturales y de Régimen Urbanístico de las Áreas de Especial Protección de las Illes Balears, que queda redactado de la siguiente manera:
+«Por declaración de interés general podrán autorizarse nuevos usos a las edificaciones a que hace referencia el párrafo anterior, así como a otras edificaciones del medio rural.»
+2. Se añade un tercer párrafo al artículo 18 de la Ley 1/1991, de 30 de enero, de Espacios Naturales y de Régimen Urbanístico de las Áreas de Especial Protección de las Illes Balears, que queda redactado de la siguiente manera:
+«En ausencia del planeamiento de ordenación del espacio, se aplicarán los usos legalmente previstos.»
+3. Se modifica la disposición adicional quinta de la Ley 1/1991, de 30 de enero, de Espacios Naturales y de Régimen Urbanístico de las Áreas de Especial Protección de las Illes Balears, que queda redactada de la siguiente manera:
+«Las disposiciones de la presente Ley tienen carácter de mínimas y, en consecuencia, prevaldrán las determinaciones de los planes de ordenación territorial y de los instrumentos de planeamiento general que supongan una mayor restricción; ello no obstante, los planes de ordenación territorial podrán fijar unos límites de restricción, en función de las características de cada territorio y del nivel de protección que se requiera, que vincularán el planeamiento urbanístico municipal.»

@@ -1,0 +1,2 @@
+Disposición transitoria decimotercera.
+Sin perjuicio de lo que dispone el artículo 4.2 de la presente Ley y mientras no se adapten los instrumentos de ordenación territorial y de planeamiento general a esta Ley, la Matriz de Ordenación del Suelo Rústico del anexo I y sus definiciones, cuando sean de aplicación al sector primario, tendrán los efectos previstos en el artículo 18.2 de la Ley 8/1987, de 1 de abril, de Ordenación Territorial de las Illes Balears.

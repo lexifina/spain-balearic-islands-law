@@ -1,0 +1,3 @@
+Disposición adicional decimoquinta.
+Se añade un punto 5 al artículo 26 de la Ley 6/1997, de 8 de julio, del Suelo Rústico de las Illes Balears, que quedará redactado de la siguiente manera:
+«5. Las limitaciones establecidas en los puntos anteriores no serán de aplicación a las declaraciones de interés general relativas a dotaciones de servicios contempladas en el artículo 30.3 de esta Ley, ni a las relativas a infraestructuras públicas a que se refiere el artículo 24.2 de la presente Ley, a las cuales resultarán de aplicación las limitaciones específicas definidas en esta Ley para ambos tipos de actividades.»
