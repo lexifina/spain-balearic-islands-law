@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Hasta que se apruebe una nueva regulación de la administración instrumental de la comunidad autónoma de las Illes Balears, todas las referencias que esta ley hace a la administración instrumental se entenderán hechas, mientras continúe en vigor, a la Ley 3/1989, de 29 de marzo, de entidades autónomas y empresas públicas y vinculadas de la comunidad autónoma de las Illes Balears.
