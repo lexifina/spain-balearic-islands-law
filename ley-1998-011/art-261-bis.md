@@ -1,3 +1,4 @@
-Artículo 261. Devengo.
-1. La tasa se devengará en el momento en que se inicien las operaciones a que se refiere el hecho imponible.
-2. Las cantidades adeudadas serán exigibles en el momento en que se efectúe la liquidación correspondiente.
+Artículo 261 bis. Bonificaciones al tráfico marítimo interinsular.
+1. Las exenciones y bonificaciones que el Estado aplique a las tasas que graven el pasaje y las mercancías cuando se trate de tráfico marítimo interinsular por razón de circunstancias de alejamiento y de insularidad en los puertos de interés general, se aplicarán también a la tasa G-3 prevista en este capítulo para los puertos de competencia de la comunidad autónoma de las Illes Balears.
+2. Se faculta al Gobierno para que fije porcentualmente las exenciones y bonificaciones fiscales de la tasa G-3 hasta un máximo de un 100 por cien, de manera que se adapten a la regulación estatal que apruebe el régimen económico específico y de prestación de servicios en los puertos insulares de interés general en lo que se refiere al tráfico marítimo interinsular.
+Se añade por el art. 4.15 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741

@@ -7,7 +7,8 @@ Constituye el hecho imponible de esta tasa la inscripción en los ejercicios de 
 2. Sujeto pasivo.
 Son sujetos pasivos las personas físicas, jurídicas y entidades del artículo 33 de la Ley general tributaria que soliciten la prestación de los servicios que constituyen su hecho imponible.
 3. Cuantía.
-La tasa por inscripción en ejercicios de intercomparación será de 42,07 euros por muestra.
+La tasa por inscripción a INLABAG será de 70,00 euros por muestra.
 4. Devengo.
 La tasa se devengará en el momento en que se solicite la prestación de los servicios que constituyen su hecho imponible.
+Se modifica el apartado 3 por el art. 4.11 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741
 Se añade por el art. 7 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a7
