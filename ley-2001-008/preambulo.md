@@ -1,0 +1,5 @@
+EL PRESIDENTE DEL GOBIERNO DE LAS ILLES BALEARS
+Sea notorio a todos los ciudadanos que el Parlamento de las Illes Balears ha aprobado y yo, en nombre del Rey, y de acuerdo con lo que se establece en el artículo 27.2 del Estatuto de Autonomía, tengo a bien promulgar la siguiente Ley.
+EXPOSICIÓN DE MOTIVOS
+La Comunidad Autónoma de las Illes Balears, de acuerdo con el artículo 55 del Estatuto de Autonomía; la Ley 38/1988, de 28 de diciembre, y la Disposición transitoria primera de la Ley 37/1999, de 28 de octubre, de modificación parcial de la Ley 38/1988, de 28 de diciembre, de demarcación y planta judicial, puede fijar, mediante ley, las sedes de los juzgados Penal, Contencioso Administrativo, Social y de Menores con jurisdicción inferior o superior a la provincia.
+La Comunidad Autónoma de las Illes Balears tiene la voluntad de fijar la sede de los Juzgados de lo Social y de lo Penal con jurisdicción en todos los partidos judiciales de la isla de Menorca tal como establecen las normas que se han citado en el párrafo anterior.
