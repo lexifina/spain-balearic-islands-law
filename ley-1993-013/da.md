@@ -1,0 +1,2 @@
+Disposición adicional. Comisiones paritarias.
+Se creará, por acuerdo entre el Govern de la Comunidad Autónoma de las Islas Baleares y el consejo insular correspondiente, una Comisión paritaria cuya misión será la de instrumentar el traspaso de medios y documentación que la presente Ley determina, así como la de garantizar que los expedientes en trámite sean resueltos en los plazos establecidos por la legislación vigente.
