@@ -1,0 +1,2 @@
+Disposición derogatoria.
+Quedan derogadas todas las disposiciones que se opongan a lo que se establece en la presente Ley, y en particular queda sin efecto el Decreto del Consejo General Interinsular, de 28 de junio de 1982, de Delegación de Competencias a los Consejos Insulares de Mallorca, de Menorca y de Ibiza y Formentera en materia de Administración Local, publicados en el «Boletín Oficial del Consejo General Interinsular de las Islas Baleares», número 30, de 20 de agosto.
