@@ -1,17 +1,19 @@
 Artículo 88 bis. Tasa por la prestación de servicios docentes al Conservatorio Superior de Música y Danza de las Illes Balears.
-1. Hecho imponible. Constituye el hecho imponible de esta tasa la prestación del servicio docente, en relación con la actividad desarrollada en el Conservatorio Superior de Música y Danza de las Illes Balears.
-2. Sujeto pasivo. Son sujetos pasivos de esta tasa los que soliciten la prestación de los servicios que constituyen su hecho imponible.
-3. Devengo: La tasa se devengará en el momento de la solicitud de los servicios por parte de los sujetos pasivos.
-4. Cuota. La tasa se exigirá de acuerdo con las siguientes tarifas:
-A) Conservatorio Superior de Música y Danza de las Illes Balears:
-Inscripción (por primera vez): 2.920 pesetas.
-Asignaturas complementarias: 13.400 pesetas. Especialidades: 15.060 pesetas.
-Prueba de acceso al grado superior: 6.000 pesetas. Servicios generales: 1.150 pesetas.
-B) Centros autorizados de Música y Danza:
-Inscripción (por primera vez): 2.920 pesetas. Servicios generales: 1.150 pesetas.
-5. Exenciones, bonificaciones y aplazamientos:
-Los miembros de familias numerosas tendrán reconocidas las exenciones o bonificaciones en las tarifas que, de acuerdo con su categoría, se prevén en la disposición final cuarta de la Ley 42/1994, de 30 de diciembre, de Medidas fiscales y administrativas y de orden social, y en el Real Decreto 1801/1995, previa su solicitud al centro correspondiente.
-Los beneficiarios de becas o ayudas para el estudio estarán exentos del pago de las cuotas que se establecen en el punto anterior.
-Los alumnos solicitantes de convalidaciones de asignaturas no tendrán que abonar la cuota correspondiente a la asignatura. A pesar de ello, en el supuesto de denegación de la convalidación, los alumnos tendrán que hacer efectivas las tarifas de acuerdo con las reglas generales.
-Los alumnos solicitantes de becas o ayudas para el estudio podrán formalizar la matrícula en el centro sin tener que pagar las tarifas, siempre que presenten la documentación acreditativa de haber formalizado la solicitud de la ayuda. Tan pronto se resuelva la convocatoria de ayudas, los beneficiarios tendrán que justificar esta condición ante el centro. En otro caso, deberán satisfacer las tarifas correspondientes de acuerdo con las reglas generales.
+1. Hecho imponible. Constituye el hecho imponible de la tasa la prestación de servicios derivada de la actividad docente desarrollada por las escuelas oficiales de idiomas.
+2. Sujeto pasivo. Son sujetos pasivos de esta tasa los que soliciten la prestación de los servicios a que se refiere el apartado anterior.
+3. Cuantía. La tasa se exigirá de acuerdo con las tarifas siguientes:
+1. Alumnos oficiales:
+Apertura de expediente: 2.701 pesetas (16,23 euros).
+Matrícula por asignaturas: 15.000 pesetas (90,14 euros).
+Servicios generales: 1.082 pesetas (6,50 euros).
+2. Alumnos de enseñanza libre:
+Apertura de expediente: 2.701 pesetas (16,23 euros).
+Derechos de examen del ciclo elemental: 15.000 pesetas (90,14 euros).
+Derechos de examen del ciclo superior: 15.000 pesetas (90,14 euros).
+Servicios generales: 1.082 pesetas (6,50 euros).
+4. Exenciones y bonificaciones. Los miembros de las familias numerosas tendrán la exención o reducción de las tarifas de acuerdo con su categoría según las disposiciones vigentes, una vez hayan hecho una solicitud previa a los centros prestadores del servicio y hayan acreditado documentalmente su situación en el momento de la inscripción.
+No estarán obligados a pagar la tasa por servicios académicos los alumnos que reciban becas oficiales.
+Los alumnos que al formalizar la matrícula se acojan a la exención de precios por el hecho de haber solicitado la concesión de una beca y posteriormente no obtengan la condición de becario o les sea revocada la beca concedida se verán obligados al pago de la tasa correspondiente a la matrícula que efectuaron; el hecho de no pagarla conllevará la anulación de la matrícula en todas las materias, asignaturas o disciplinas, de acuerdo con lo que prevé la legislación vigente.
+5. Devengo. La tasa se devengará cuando se soliciten los servicios correspondientes al hecho imponible. Cuando éstos se presten sin necesidad de solicitud previa, las tasas se devengarán en el momento de la prestación.
+Se modifica por el art. 12 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a1-4
 Se añade por el art. 6 de la Ley 12/1999, de 23 de diciembre. Ref. BOE-A-2000-1014
