@@ -1,0 +1,4 @@
+Disposición derogatoria.
+1. Quedan derogadas todas las disposiciones de igual o inferior rango que se oponen a lo establecido en esta ley y, en especial, los artículos 26 y 27 de la Ley 1/1991, de espacios naturales y régimen urbanístico de las áreas de especial protección de las Islas Baleares.
+2. Sin perjuicio de lo establecido en la disposición adicional tercera se derogan el Decreto 24/2002, de 15 de febrero, por el cual se declaran el Parque natural de Cala d'Hort, Cap Llentrisca y sa Talaia y las reservas naturales del Vedrà, el Vedranell y los islotes de Ponent, y el acuerdo del Consejo de Gobierno de 15 de febrero de 2002 de aprobación del Plan de ordenación de los recursos naturales de Cala d'Hort, Cap de Llentrisca y sa Talaia.
+3. Se deroga la disposición adicional decimoséptima de la Ley 10/2003, de 22 de diciembre, de Medidas Tributarias y Administrativas.
