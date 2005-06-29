@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Las normas contenidas en los artículos 33, 34, 38, 67, 91, 92 y 94 de este Decreto Legislativo en relación con las fundaciones del sector público autonómico no serán de aplicación a estas entidades hasta el ejercicio presupuestario del año 2008, con excepción del apartado 4 del artículo 92 relativo a los consorcios, el cual se aplicará a estas entidades. En todo caso, serán de aplicación a estas entidades las normas contenidas en los artículos 74.4, 75, 86, 87 y 90 del presente Decreto Legislativo.
