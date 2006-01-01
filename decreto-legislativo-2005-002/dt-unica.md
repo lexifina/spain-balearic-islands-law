@@ -1,0 +1,3 @@
+Disposición transitoria única. Régimen transitorio de los procedimientos.
+1. Los procedimientos administrativos de concesión de subvenciones y los de justificación, control financiero y reintegro ya iniciados a la entrada en vigor del presente Decreto Legislativo se regirán por la normativa vigente al tiempo de su iniciación.
+2. El régimen sancionador previsto en el presente Decreto Legislativo será de aplicación a los beneficiarios y a las entidades colaboradoras, en lo que concierne a las acciones u omisiones cometidas antes de su entrada en vigor, siempre que sea más favorable que el establecido en la legislación anterior.
