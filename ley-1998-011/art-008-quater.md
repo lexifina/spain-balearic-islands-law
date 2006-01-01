@@ -1,0 +1,5 @@
+Artículo 8 quater. Exenciones.
+1. Están exentos del pago de la tasa la Administración General del Estado, las administraciones de las comunidades autónomas, las entidades que integran la Administración local y los demás entes de derecho público, territoriales o institucionales, cuando actúan en interés propio y directo para el cumplimiento de sus fines.
+2. La exención se concederá a petición previa de la entidad interesada, que deberá acreditar la concurrencia de los requisitos indicados anteriormente.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.

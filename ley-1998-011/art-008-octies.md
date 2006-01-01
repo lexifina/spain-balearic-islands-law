@@ -1,0 +1,4 @@
+Artículo 8 octies. Gestión, comprobación e inspección.
+La gestión, comprobación e inspección de las obligaciones derivadas de la tasa corresponderá a los órganos competentes de la consejería competente en materia de hacienda.
+Se añade por el art. 38.1 de la Ley 13/2005, de 27 de diciembre. Ref. BOE-A-2006-1526
+Téngase en cuenta que la efectividad o exigencia de la tasa por la inscripción en el registro de vehículos afectos a la actividad de arrendamiento sin conductor previsto en la normativa reguladora del impuesto sobre la circulación de vehículos de arrendamiento sin conductor, se demora hasta que entren en vigor los decretos de desarrollo a que se refiere la disposición final.2.2 de la citada ley, por la que se faculta del Gobierno de las Islas Balears por decreto, publicado únicamente en el BOIB.
