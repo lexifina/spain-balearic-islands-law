@@ -1,0 +1,7 @@
+Sección 3.ª bis. De los servicios de farmacia y depósitos de medicamentos en los centros sanitarios proveedores de asistencia sanitaria sin internamiento
+Se añade por el art. 22.3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
+Artículo 52 bis.
+1. En los centros sanitarios proveedores de asistencia sanitaria sin internamiento a los que se refiere el Real Decreto 1277/2003, de 10 de octubre, se puede autorizar la existencia de un servicio de farmacia o de un depósito de medicamentos.
+2. Los servicios de farmacia de los centros sanitarios proveedores de asistencia sanitaria sin internamiento tienen por objeto la adquisición, custodia, conservación y dispensación de medicamentos y productos sanitarios únicamente para su aplicación en el correspondiente centro o en los centros pertenecientes a una misma institución, y deberán estar bajo la responsabilidad de un farmacéutico.
+3. En el supuesto de que los centros sanitarios a los que se refiere el presente artículo opten por solicitar la autorización de un depósito de medicamentos a la consejería competente en materia de sanidad, los citados depósitos deben estar vinculados necesariamente a una oficina de farmacia ubicada en la misma zona farmacéutica. El titular de la oficina de farmacia será el responsable de su funcionamiento, no pudiendo estar vinculado más de un depósito a la misma oficina de farmacia.
+Se añade por el art. 22.3 de la Ley 25/2006, de 27 de diciembre. Ref. BOE-A-2007-4374
