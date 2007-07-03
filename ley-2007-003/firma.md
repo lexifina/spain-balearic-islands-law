@@ -1,0 +1,6 @@
+Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
+Palma, 27 de marzo de 2007.–El Presidente, Jaume Matas Palou.–El Consejero de Interior, José M.ª Rodríguez Barberá.
+Información relacionada
+Téngase en cuenta que se autoriza al Gobierno de las Illes Balears para que una vez que entre en vigor el Estatuto Básico del Empleado Público, lleve a cabo las modificaciones que sean necesarias, por norma publicada únicamente en el BOIB, para adecuar el contenido de la presente ley, según establece la disposición final 2.
+Véanse las disposiciones transitorias de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177, en cuanto a los requisitos de conocimiento de lengua catalana.
+Téngase en cuenta que se suspende la vigencia y aplicación de los preceptos de la presente Ley, con efectos de 16 de junio de 2022, de manera excepcional y transitoria, limitada a la tramitación de los procesos de estabilización que se regulan en el Decreto-ley 6/2022, de 13 de junio, y únicamente en aquello que se oponga a los procedimientos que se establecen, según determina la disposición transitoria 4 del mismo. Ref. BOE-A-2022-13798#dt-4
