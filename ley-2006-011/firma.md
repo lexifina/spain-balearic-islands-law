@@ -91,7 +91,7 @@ c) Instalaciones de desalación de agua con un volumen nuevo o adicional superio
 d) Acueductos y conducciones que supongan trasvases de unidades hidrogeológicas o de acuíferos.
 e) Proyectos para la extracción de aguas subterráneas o la recarga artificial de acuíferos, si el volumen anual de agua extraída o aportada es igual o superior a 500.000 m3.
 f) Emisarios submarinos de aguas depuradas y de plantas de desalación.
-g) Instalaciones de conducción de agua cuando la longitud sea superior a 2 kilómetros y, en todo caso, las situadas en ANEI de alto nivel de protección.
+g) Instalaciones de conducción de agua en suelo rústico cuando la longitud sea superior a 2 kilómetros y, en todo caso, las situadas dentro de ANEI de alto nivel de protección.
 Grupo 9. Proyectos de tratamiento y gestión de residuos
 a) Instalaciones para tratar o eliminar (incluida la incineración) residuos peligrosos [definidas en el artículo 3.c) de la Ley 10/1998, de 21 de abril, de residuos], en cualquier caso.
 b) Instalaciones de almacenamiento de residuos peligrosos [definidas en el artículo 3.n) de la Ley 10/1998, de 21 de abril, de residuos], con una capacidad superior a 100 toneladas.
@@ -131,6 +131,7 @@ k) Pistas de carreras y de pruebas para vehículos a motor.
 l) Hundimientos de buques de eslora superior a 25 metros para crear escollos artificiales.
 m) Cualquier modificación o extensión de un proyecto previo a este anexo, cuando dicha modificación o extensión cumpla, por si sola, los posibles umbrales establecidos en este anexo.
 El fraccionamiento de proyectos de iguales naturaleza y hechos en el mismo espacio físico no impide la aplicación de los umbrales que establece este anexo, y a este efecto se han de acumular las magnitudes o dimensiones de cada uno de los proyectos considerados.
+Se modifica la letra g) del grupo 8 por la disposición adicional 10.9 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651.
 ANEXO II
 Proyectos sujetos a evaluación de impacto ambiental cuando lo decida el órgano ambiental
 Se exceptúan de la siguiente lista los proyectos sujetos directamente a evaluación de impacto ambiental en el anexo I de esta ley.
@@ -148,7 +149,7 @@ c) Instalaciones para construir y reparar aeronaves.
 d) Instalaciones para fabricar material ferroviario.
 Grupo 4. Proyectos de infraestructuras
 a) Proyectos de zonas industriales.
-b) Proyectos de desarrollo urbano, incluida la construcción de centros comerciales y aparcamientos de vehículos.
+b) Proyectos de urbanización, incluida la construcción de centros comerciales y aparcamientos de vehículos.
 c) Construcción de instalaciones de transbordo intermodal y de terminales intermodales.
 Grupo 5. Industrias de productos alimenticios
 a) Instalaciones industriales para la elaboración de grasas y aceites vegetales y animales, siempre que se den de forma simultánea las siguientes circunstancias:
@@ -192,6 +193,7 @@ n) Instalaciones o bancos de prueba de motores, turbinas o reactores.
 o) Instalaciones para recuperar o destruir sustancias explosivas.
 El fraccionamiento de proyectos de igual naturaleza y realizados en el mismo espacio físico no impide la aplicación de los límites que establece este anexo, y a este efecto se tienen que acumular las magnitudes o dimensiones de cada uno de los considerados proyectos.
 En el caso de los proyectos incluidos en el planeamiento territorial o urbanístico, la evaluación de impacto ambiental tendrá en cuenta la evaluación ambiental estratégica del planeamiento que los incluye y evaluará únicamente los aspectos propios del proyecto que no hayan sido evaluados en la evaluación ambiental estratégica.
+Se modifica la letra b) del grupo 4 por la disposición adicional 10.10 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651.
 ANEXO III
 Planes y programas sujetos a evaluación ambiental estratégica
 Grupo 1. Planes que supongan ordenación del territorio urbano o rural o utilización del suelo
