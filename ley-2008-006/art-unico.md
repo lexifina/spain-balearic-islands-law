@@ -1,0 +1,3 @@
+Artículo único.
+1. Las personas que hayan ocupado la Presidencia del Parlamento de las Illes Balears tienen derecho a recibir, con carácter permanente, el tratamiento de Molt Honorable Senyor o Senyora y las atenciones honoríficas y protocolarias correspondientes, siempre que no hayan cesado por sentencia firme de los tribunales que las inhabiliten para ostentar el cargo de diputado o por incompatibilidad declarada y publicada, de acuerdo con la normativa específica de aplicación.
+2. En todo caso, en las actividades estrictamente parlamentarias, prevalecerá el tratamiento que corresponda al cargo que, en el momento de celebrarse, ostenten las personas referidas en el punto primero de este artículo.
