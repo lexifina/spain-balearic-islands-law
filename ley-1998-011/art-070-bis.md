@@ -1,9 +1,13 @@
 CAPÍTULO V
-Tasa por prestación de servicios relacionados con el Instituto Balear de Seguridad Pública
+Tasa por la prestación de servicios relacionados con la Escuela Balear de Administración Pública
+Se modifica por la disposición final 3.5 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
 Se añade por el art. 8 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a8
 Artículo 70 bis. Hecho imponible.
-Constituye el hecho imponible de esta tasa la prestación de los servicios que se detallan a continuación por parte del Instituto Balear de Seguridad Pública:
-1. Cotejar documentos.
-2. Expedición de título con posterioridad a la primera expedición.
+Constituye el hecho imponible de esta tasa la prestación, por parte de la Escuela Balear de Administración Pública, de los siguientes servicios:
+1. Compulsar documentos.
+2. Realizar fotocopias.
+3. Expedir temarios entregados en fotocopias.
+4. Expedir temarios en formato CD.
+Se modifica por la disposición final 3.5 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
 Se modifica por el art. 11.1 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a1-3
 Se añade por el art. 8 de la Ley 16/2000, de 27 de diciembre. Ref. BOE-A-2001-2481#a8

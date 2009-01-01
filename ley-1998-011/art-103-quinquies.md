@@ -1,0 +1,5 @@
+Artículo 103 quinquies. Exenciones y bonificaciones.
+Los miembros de familias numerosas tienen derecho a la exención o a la bonificación que, de acuerdo con su categoría, pueda corresponderles según las disposiciones vigentes, siempre que la soliciten al centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción.
+El alumnado que reciba becas u otras ayudas de carácter oficial no está obligado a pagar la tasa por matrícula. El alumnado que en el momento de formalizar la matrícula se acoja a la exención por haber solicitado la concesión de una beca y posteriormente no obtenga la condición de becario o le sea revocada la beca concedida, queda obligado al pago de la tasa correspondiente a la matrícula que formalizó. El hecho de no pagarla comporta la anulación de esta matrícula en el curso.
+El traslado de expedientes entre las escuelas oficiales de idiomas de las Illes Balears, o entre éstas y sus centros adscritos, no comportará ningún gasto para el alumnado.
+Se añade por la disposición final 3.10 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315
