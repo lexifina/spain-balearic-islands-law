@@ -1,0 +1,2 @@
+Disposición final decimotercera. Registro Unificado de ámbito insular.
+Los consejos insulares, con los trámites previos procedentes, aprobarán las normas reglamentarias del Registro Unificado, sección insular, para fijar los requisitos y el procedimiento para la inscripción de las entidades, los centros y los servicios de servicios sociales de ámbito insular en el plazo máximo de treinta meses desde la entrada en vigor de esta ley.

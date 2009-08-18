@@ -1,0 +1,2 @@
+Disposición final decimosexta. Acreditación de entidades de iniciativa privada de ámbito insular.
+Los consejos insulares, con los trámites previos procedentes, aprobarán las normas reglamentarias para fijar los requisitos y el procedimiento para la acreditación de las entidades de iniciativa privada de ámbito insular a que se refiere el capítulo III del título VII de esta ley, en el plazo máximo de treinta meses desde que entre en vigor esta ley.
