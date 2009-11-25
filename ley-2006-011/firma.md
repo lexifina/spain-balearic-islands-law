@@ -119,8 +119,8 @@ m) Concentraciones parcelarias.
 Grupo 11. Otros proyectos
 a) Parques temáticos.
 b) Todas las actuaciones que de acuerdo con el plan de ordenación de los recursos naturales han de ser objeto de un estudio de evaluación de impacto ambiental.
-c) Equipamientos sanitarios y docentes no previstos en el planeamiento urbanístico con una ocupación de parcela superior a 2.700 m2.
-d) Equipamientos deportivos no previstos en el planeamiento urbanístico con una ocupación de parcela superior a 1.600 m2.
+c) Equipamientos sanitarios y docentes no previstos en el planeamiento urbanístico con una ocupación de parcela superior a 2.700 m.2
+d) Equipamientos deportivos no previstos en el planeamiento urbanístico con una ocupación de parcela superior a 1.600 m.2
 e) Equipamientos comerciales no previstos en el planeamiento urbanístico con una superficie construida superior a 400 m2.
 f) Campos de golf y de pitch & putt.
 g) Pistas de esquí, remontes y teleféricos y construcciones asociadas.
@@ -131,6 +131,7 @@ k) Pistas de carreras y de pruebas para vehículos a motor.
 l) Hundimientos de buques de eslora superior a 25 metros para crear escollos artificiales.
 m) Cualquier modificación o extensión de un proyecto previo a este anexo, cuando dicha modificación o extensión cumpla, por si sola, los posibles umbrales establecidos en este anexo.
 El fraccionamiento de proyectos de iguales naturaleza y hechos en el mismo espacio físico no impide la aplicación de los umbrales que establece este anexo, y a este efecto se han de acumular las magnitudes o dimensiones de cada uno de los proyectos considerados.
+Se modifican las letras c) y d) del grupo 11 por el art. 22 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
 Se modifican las letras c) y d) del grupo 11 por el art. 22 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
 Se modifica la letra g) del grupo 8 por la disposición adicional 10.9 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651.
 ANEXO II
@@ -192,10 +193,12 @@ m) Cualquier cambio o ampliación de los proyectos que figuran en los anexos I y
 5. Afección a áreas de especial protección designadas por la Ley 4/1989, de 27 de marzo, de conservación de los espacios naturales y de la flora y la fauna silvestres, por la Ley 5/2005, de 26 de mayo, de conservación de los espacios de relevancia ambiental (LECO) o en zonas húmedas incluidas en la lista del Convenio de Ramsar.
 n) Instalaciones o bancos de prueba de motores, turbinas o reactores.
 o) Instalaciones para recuperar o destruir sustancias explosivas.
-p) Equipamientos sanitarios y docentes no previstos en el planeamiento urbanístico con una ocupación de parcela inferior a 2.700 m2.
-q) Equipamientos deportivos no previstos en el planeamiento urbanístico con una ocupación de parcela inferior a 1.600 m2.
+p) Equipamientos sanitarios y docentes no previstos en el planeamiento urbanístico con una ocupación de parcela inferior a 2.700 m.2
+q) Equipamientos deportivos no previstos en el planeamiento urbanístico con una ocupación de parcela inferior a 1.600 m.2
 El fraccionamiento de proyectos de igual naturaleza y realizados en el mismo espacio físico no impide la aplicación de los límites que establece este anexo, y a este efecto se tienen que acumular las magnitudes o dimensiones de cada uno de los considerados proyectos.
 En el caso de los proyectos incluidos en el planeamiento territorial o urbanístico, la evaluación de impacto ambiental tendrá en cuenta la evaluación ambiental estratégica del planeamiento que los incluye y evaluará únicamente los aspectos propios del proyecto que no hayan sido evaluados en la evaluación ambiental estratégica.
+Se añaden las letras p) y q) al grupo 7 por el art. 23 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+Téngase en cuenta que las letras p) y q) ya fueron añadidas por el Decreto-ley 3/2009, de 29 de mayo.
 Se añaden las letras p) y q) al grupo 7 por el art. 23 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
 Se modifica la letra b) del grupo 4 por la disposición adicional 10.10 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651.
 ANEXO III
@@ -211,17 +214,17 @@ a) Planes generales de ordenación urbana y normas subsidiarias de planeamiento.
 b) Planes parciales.
 c) Planes especiales.
 3. La modificación, revisión y/o adaptación de los instrumentos de planificación territorial y urbanística a que se refiere este grupo, sin perjuicio de lo que establece el artículo 17 de esta ley.
-4. En todo caso, se considera que no tienen efectos significativos en el medio ambiente y, por tanto no se sujetan a los procedimientos de evaluación ambiental estratégica, las modificaciones menores de planes de este grupo que tengan como objeto exclusivo alguna de las finalidades expresadas a continuación:
+4. En todo caso, se considera que no tienen efectos significativos en el medio ambiente y, por tanto, no se sujetan a los procedimientos de evaluación ambiental estratégica las modificaciones menores de planes de este grupo que tengan como objeto exclusivo alguna de las finalidades expresadas a continuación:
 a) Disminución de coeficientes de edificabilidad o de porcentajes de ocupación de las edificaciones.
 b) Disminución de la altura máxima de las edificaciones.
 c) Cambio de usos plurifamiliares a unifamiliares.
 d) Aumento de la superficie, o reajuste por razones funcionales, de zonas de equipamiento, espacios libres públicos o infraestructuras, siempre que este cambio de calificación o clasificación no afecte a terrenos clasificados como suelo rústico.
 e) Aumento de la superficie de la parcela mínima para poder construir o implantar un uso urbanístico.
 f) Cambios de la clasificación de suelo urbano, urbanizable o apto para la urbanización con el fin de reconvertirlos en suelo rústico.
-g) Implementación o extensión de medidas de protección del medio ambiente, del suelo rústico o de los bienes integrantes del patrimonio histórico, incluyendo las modificaciones de los catálogos de protección del patrimonio histórico, los planes de ordenación de los recursos naturales y los planes rectores de uso y gestión.
+g) Implementación o extensión de medidas de protección del medio ambiente, del suelo rústico o de los bienes integrantes del patrimonio histórico, incluyendo las modificaciones de los catálogos de protección del patrimonio histórico, de los planes de ordenación de los recursos naturales y de los planes rectores de uso y gestión.
 h) Establecimiento o modificación de los índices de uso turístico o residencial siempre que supongan disminución de la capacidad de población.
 i) Modificación de delimitación del ámbito de polígonos o unidades de actuación y cambio de sistema de actuación.
-5. Los catálogos de protección del patrimonio histórico, los planes de ordenación de los recursos naturales, los planes rectores de uso y gestión, en la medida que supongan un mayor grado de protección al medio ambiente y al patrimonio histórico, no se sujetan a evaluación ambiental estratégica. El Plan Especial de la «Xarxa d'Àrees de Lleure a la Natura», previsto en la disposición adicional única del Decreto 19/2007, de 16 de marzo, se someterá a evaluación ambiental estratégica cuando el órgano ambiental lo decida siguiendo el procedimiento que establecen los artículos 95 a 97 de esta Ley.
+5. Los catálogos de protección del patrimonio histórico, los planes de ordenación de los recursos naturales, los planes rectores de uso y gestión, en la medida que supongan un mayor grado de protección del medio ambiente y del patrimonio histórico, no se sujetan a evaluación ambiental estratégica. El Plan especial de la Xarxa d'Àrees de Lleure a la Natura, previsto en la disposición adicional única del Decreto 19/2007, de 16 de marzo, se someterá a evaluación ambiental estratégica cuando el órgano ambiental lo decida siguiendo el procedimiento que establecen los artículos 95 a 97 de esta ley.
 Grupo 2. Otros planes y programas
 a) Planes y programas no incluidos en los grupos anteriores, que establezcan el marco para la futura autorización de proyectos legalmente sometidos a evaluación de impacto ambiental en las siguientes materias:
 1. Agricultura y ganadería.
@@ -239,6 +242,8 @@ a) Planes y programas no incluidos en los grupos anteriores, que establezcan el 
 13. Turismo.
 b) Los que requieran una evaluación de conformidad con la normativa reguladora de la Red Ecológica Europea Natura 2000.
 c) La modificación, revisión y/o adaptación de los planes y programas a que se refiere este grupo, sin perjuicio de lo que establece el artículo 17 de esta ley.
+Se añaden los apartados 4 y 5 al grupo 1 por el art. 24 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
+Téngase en cuenta que estos apartados ya fueron añadidos por el Decreto-ley 3/2009, de 29 de mayo.
 Se añaden los apartados 4 y 5 al grupo 1 por el art. 24 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
 Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales y las Autoridades a los que correspondan la hagan guardar.
 Palma, 14 de septiembre de 2006.
