@@ -1,0 +1,3 @@
+Disposición adicional única. Referencias a autorizaciones de procedimientos administrativos afectados por la Directiva 123/2006 CE.
+Al efecto de la configuración del hecho imponible de las tasas reguladas en esta ley, ha de entenderse que todas las referencias a autorizaciones cuyos procedimientos administrativos resulten afectados por la Directiva 123/2006 CE del Parlamento Europeo y del Consejo, de 12 de diciembre, relativa a los servicios en el mercado interior, incluyen, también, las declaraciones responsables y las comunicaciones previas que, en su caso, las sustituyan.
+Se añade por la disposición final 4.22 de la Ley 9/2009, de 21 de diciembre. Ref. BOE-A-2010-1401
