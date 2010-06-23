@@ -1,0 +1,1 @@
+Se deja sin efecto esta disposición, únicamente en relación con la modernización de establecimientos turísticos en los términos y plazos indicados, según establece la disposición derogatoria única de la Ley 4/2010 de 16 de junio. Ref. BOE-A-2010-10714.
