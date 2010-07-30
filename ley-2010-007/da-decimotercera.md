@@ -1,0 +1,2 @@
+Disposición adicional decimotercera. Personal estatutario del Servicio de Salud de las Illes Balears y personal docente no laboral.
+Las referencias al personal funcionario contenidas en la presente ley ha de entenderse que comprenden, también, al personal estatutario del Servicio de Salud de las Illes Balears y al personal docente no laboral al servicio de la comunidad autónoma de las Illes Balears.

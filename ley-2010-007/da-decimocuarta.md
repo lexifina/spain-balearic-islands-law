@@ -1,0 +1,2 @@
+Disposición adicional decimocuarta. Régimen específico de los órganos colegiados superiores de dirección de determinados entes.
+Las normas relativas a los órganos colegiados superiores de dirección que contiene el artículo 20.3 de la presente ley no han de aplicarse a las entidades del sector público instrumental que, de acuerdo con las leyes sectoriales aplicables, dispongan de una regulación específica.
