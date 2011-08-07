@@ -1,1 +1,1 @@
-Incluye la corrección de errores publicada en el BOIB núm. 88, de 18 de julio de 2000. Ref. BOE-A-2000-16562
+Téngase en cuenta que las menciones que se hacen a la consejería competente en materia de trabajo deberán entenderse hechas a la consejería competente en materia de educación, según establece la disposición adicional del Decreto-ley 4/2011, de 5 de agosto. Ref. BOIB-i-2011-90083
