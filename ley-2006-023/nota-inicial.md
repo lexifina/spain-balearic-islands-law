@@ -1,1 +1,1 @@
-Téngase en cuenta que se sustituye en el título y en todo el texto de la Ley la denominación "Palma de Mallorca" por "Palma" según establece el art. 1.1 de la Ley 8/2008, de 5 de junio. Ref. BOE-A-2008-12052.
+Téngase en cuenta que se sustituye en el título y en todo el texto de la Ley la denominación "Palma" por "Palma de Mallorca" según establece el art. 1 de la Ley 6/2012, de 6 de junio. Ref. BOE-A-2012-9373.
