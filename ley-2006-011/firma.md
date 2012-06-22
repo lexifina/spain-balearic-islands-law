@@ -23,7 +23,7 @@ Grupo 3. Energía
 a) Refinerías de petróleo bruto, como también las instalaciones de gasificación/regasificación y de licuefacción.
 b) Centrales térmicas y otras instalaciones de combustión.
 c) Instalaciones industriales para producir electricidad, vapor y agua caliente con potencia térmica de, como mínimo, 50 MW.
-d) Tuberías para transportar gas y petróleo en suelo rústico a partir de 1 km de longitud.
+d) Tuberías para transportar gas y petróleo en suelo rústico a partir de 10 km de longitud con un diámetro de tubería máximo de 160 mm.
 e) Oleoductos y gasoductos, incluidos los submarinos.
 f) Subestaciones de transformación de energía eléctrica a partir de 10 MW.
 g) Líneas de transporte de energía eléctrica entre 15 y 66 kV en suelo rústico protegido, con la calificación de ANEI y ARIP, espacios protegidos al amparo de la Ley 4/1989, de 27 de marzo, de conservación de los espacios naturales y de la flora y fauna silvestres, y espacios de relevancia ambiental de la Ley 5/2005, de 26 de mayo, de conservación de los espacios de relevancia ambiental (LECO).
@@ -31,7 +31,7 @@ h) Líneas de transporte de energía eléctrica de tensión igual o superior a 6
 i) Instalaciones para almacenar productos petrolíferos con una capacidad superior a 500 m3 o que ocupen más de 3.500 m2.
 j) Producción y almacenamiento de gases combustibles a partir de 100 m3 de capacidad.
 k) Instalaciones eólicas de 100 kW o superiores, incluidos los tendidos de conexión a la red.
-l) Instalaciones fotovoltaicas de 100 kW o superiores, incluidos los tendidos de conexión a la red.
+l) Instalaciones fotovoltaicas en suelo rústico de más de 100 kW, incluidos los tendidos de conexión a la red. Se exceptúan las instalaciones fotovoltaicas de cualquier potencia en cualquier tipo de cubierta que no estén dentro una zona de especial protección.
 m) Centrales nucleares y otros reactores nucleares, así como las instalaciones vinculadas a la producción, el tratamiento o el almacenamiento de materiales radioactivos.
 Grupo 4. Industria siderúrgica y del mineral. Producción y elaboración de metales
 a) Plantas siderúrgicas integrales. Instalaciones para producir metales en bruto no ferrosos a partir de minerales, de concentrados o de materias primas secundarias mediante procesos metalúrgicos, químicos o electrolíticos.
@@ -131,6 +131,7 @@ k) Pistas de carreras y de pruebas para vehículos a motor.
 l) Hundimientos de buques de eslora superior a 25 metros para crear escollos artificiales.
 m) Cualquier modificación o extensión de un proyecto previo a este anexo, cuando dicha modificación o extensión cumpla, por si sola, los posibles umbrales establecidos en este anexo.
 El fraccionamiento de proyectos de iguales naturaleza y hechos en el mismo espacio físico no impide la aplicación de los umbrales que establece este anexo, y a este efecto se han de acumular las magnitudes o dimensiones de cada uno de los proyectos considerados.
+Se modifican las letras d) y l) del grupo 3 por la disposición final 5 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030.
 Se modifican las letras c) y d) del grupo 11 por el art. 22 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
 Se modifican las letras c) y d) del grupo 11 por el art. 22 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
 Se modifica la letra g) del grupo 8 por la disposición adicional 10.9 de la Ley 6/2007, de 27 de diciembre. Ref. BOE-A-2008-5651.
@@ -139,11 +140,11 @@ Proyectos sujetos a evaluación de impacto ambiental cuando lo decida el órgano
 Se exceptúan de la siguiente lista los proyectos sujetos directamente a evaluación de impacto ambiental en el anexo I de esta ley.
 Grupo 1. Agricultura, silvicultura, acuicultura y ganadería
 a) Proyectos no incluidos en el anexo I, para destinar a explotación agrícola intensiva áreas naturales o seminaturales.
-b) Aprovechamientos forestales que se hagan en superficies superiores a 5 hectáreas o que utilicen maquinaria pesada.
+b) (Derogada)
 c) Instalaciones ganaderas y avícolas de especies no incluidas en el apartado d) del grupo 1 del anexo I.
 Grupo 2. Energía
 a) Líneas de transporte de energía eléctrica inferiores a 15 kV ubicadas en suelo rústico protegido, con la calificación de ANEI y ARIP, espacios protegidos al amparo de la Ley 4/1989, de 27 de marzo, de conservación de los espacios naturales y de la flora y la fauna silvestres, y espacios de relevancia ambiental de la Ley 5/2005, de 26 de mayo, de conservación de los espacios de relevancia ambiental (LECO).
-b) Instalaciones fotovoltaicas de menos de 100 kV que ocupen una superficie de más de 500 m2 en suelo rústico y 1.500 m2 en suelo urbano o industrial, incluidos los tendidos de conexión a la red.
+b) (Derogada)
 Grupo 3. Industria siderúrgica y del mineral. Producción y elaboración de metales
 a) Instalaciones para fabricar fibras minerales artificiales.
 b) Astilleros para buques de hasta 1.000 toneladas.
@@ -176,13 +177,13 @@ Grupo 7. Otros proyectos
 a) Instalaciones de residuos no previstas en el anexo I.
 b) Campamentos permanentes para tiendas de campaña o caravanas.
 c) Recuperación de tierras al mar.
-d) Antenas de telefonía móvil ubicadas en suelo rústico protegido, con la calificación de ANEI y ARIP, espacios protegidos al amparo de la Ley 4/1989, de 27 de marzo, de conservación de los espacios naturales y de la flora y la fauna silvestres, y espacios de relevancia ambiental de la Ley 5/2005, de 26 de mayo, de conservación de los espacios de relevancia ambiental (LECO).
+d) (Derogada)
 e) Dragados.
 f) Jardines botánicos y zoológicos.
 g) Obras de canalización y proyectos de defensa de cursos naturales.
 h) Urbanizaciones de vacaciones y establecimientos hoteleros fuera de áreas urbanas y construcciones asociadas.
 i) Infraestructuras de telecomunicación o energía que unen los diversos territorios insulares.
-j) Infraestructuras de telecomunicación ubicadas en suelo rústico protegido, con la calificación de ANEI y ARIP, espacios protegidos al amparo de la Ley 4/1989, de 27 de marzo, de conservación de los espacios naturales y de la flora y la fauna silvestres, y espacios de relevancia ambiental de la Ley 5/2005, de 26 de mayo, de conservación de los espacios de relevancia ambiental (LECO).
+j) (Derogada)
 k) Cualquier proyecto o actuación que pueda afectar a los ecosistemas marinos.
 l) Paseos marítimos o senderos litorales que alteren la orografía del dominio público marítimo-terrestre.
 m) Cualquier cambio o ampliación de los proyectos que figuran en los anexos I y II, ya autorizados, ejecutados o en proceso de ejecución (modificación o extensión no recogida en el anexo I) que puedan tener efectos adversos significativos sobre el medio ambiente, es decir, cuando se produzca alguna de las siguientes incidencias:
@@ -197,6 +198,7 @@ p) Equipamientos sanitarios y docentes no previstos en el planeamiento urbaníst
 q) Equipamientos deportivos no previstos en el planeamiento urbanístico con una ocupación de parcela inferior a 1.600 m.2
 El fraccionamiento de proyectos de igual naturaleza y realizados en el mismo espacio físico no impide la aplicación de los límites que establece este anexo, y a este efecto se tienen que acumular las magnitudes o dimensiones de cada uno de los considerados proyectos.
 En el caso de los proyectos incluidos en el planeamiento territorial o urbanístico, la evaluación de impacto ambiental tendrá en cuenta la evaluación ambiental estratégica del planeamiento que los incluye y evaluará únicamente los aspectos propios del proyecto que no hayan sido evaluados en la evaluación ambiental estratégica.
+Se derogan la letra b) del grupo 1, la letra b) del grupo 2, y las letras d) y j) del grupo 7 por la disposición derogatoria única.1 del Decreto-ley 7/2012, de 15 de junio. Ref. BOIB-i-2012-90030.
 Se añaden las letras p) y q) al grupo 7 por el art. 23 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
 Téngase en cuenta que las letras p) y q) ya fueron añadidas por el Decreto-ley 3/2009, de 29 de mayo.
 Se añaden las letras p) y q) al grupo 7 por el art. 23 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
