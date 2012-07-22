@@ -1,2 +1,3 @@
 Disposición adicional. Locales en establecimientos turísticos o en parcelas vinculadas.
-Los locales existentes en establecimientos turísticos o en parcelas vinculadas con autorización de la administración turística correspondiente con anterioridad a la Ley 2/1999, de 24 de mayo, general turística de las Illes Balears, y que tengan acceso independiente desde la vía pública, podrán mantener su actividad y ser objeto de obras de conservación, mantenimiento y reforma sin que les sean de aplicación los artículos 16 y 17 de la citada ley.
+(Derogado)
+Se deroga por la disposición derogatoria de la Ley autonómica 8/2012, de 19 de julio. Ref. BOE-A-2012-10610.
