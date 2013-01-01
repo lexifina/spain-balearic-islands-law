@@ -1,3 +1,5 @@
 Artículo 328 ter. Autorización vinculada.
 Los usuarios previamente autorizados por Puertos de las Illes Balears por el amarre en base de embarcaciones de esparcimiento que estén al corriente de pago con el ente público pueden acceder a una tarjeta acreditativa de usuario que permite estacionar durante seis (6) horas adicionales al horario aplicable a los estacionamientos en zonas con horario limitado.
+La tarjeta ha de solicitarse por escrito y ha de abonarse la tasa por formación de expediente, apertura y tramitación. Esta tarjeta tiene un plazo de vigencia máximo de tres años y en cualquier caso se extingue en la fecha de finalización de la autorización temporal de amarre en base. Si se solicita la renovación del amarre, ha de solicitarse una nueva tarjeta acreditativa y ha de abonarse otra vez la tasa.
+Se añade el segundo párrafo por la disposición final 5.8 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
 Se añade por la disposición final 1.7 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272

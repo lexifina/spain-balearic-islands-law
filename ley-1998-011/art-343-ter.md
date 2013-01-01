@@ -9,12 +9,13 @@ La tasa se aplicará cuando se trate de parques y reservas naturales de la Comun
 2. Sujeto pasivo.
 Son sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades del artículo 33 de la Ley general tributaria que soliciten la autorización correspondiente para la realización de las actividades que constituyen su hecho imponible.
 3. Cuantía.
-La tasa se exigirá de acuerdo con las tarifas siguientes:
-1. Reportaje fotográfico sin intervención de modelos ni alteración del espacio: 146,67 euros/día.
-2. Reportaje fotográfico con modelos o inclusión de productos: 293,35 euros/día.
-3. Reportaje cinematográfico o videográfico sin intervención de modelos ni alteración del espacio: 293,35 euros/día.
-4. Reportaje cinematográfico o videográfico con modelos o inclusión de productos: 586,70 euros/día.
-5. Recargo por trabajo nocturno: 50 por 100.
+La tasa se exigirá de acuerdo con las siguientes tarifas:
+a) Fotografía sin intervención de modelos ni alteración del espacio: 222,80 euros/día.
+b) Reportaje fotográfico con modelos o inclusión de productos: 445,62 euros/día.
+c) Reportaje cinematográfico o videográfico sin intervención de modelos ni alteración del espacio: 445,62 euros/día.
+d) Reportaje cinematográfico o videográfico con modelos o inclusión de productos: 890,32 euros/día.
+e) Recargo por el trabajo nocturno: 50%.
 4. Devengo.
 La tasa se devengará en el momento en que se obtenga la autorización correspondiente de la Consejería de Medio Ambiente para la realización de la actividad a que se refiere su hecho imponible.
+Se modifica el apartado 3 por la disposición final 5.12 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
 Se añade por el art. 8 de la Ley 20/2001, de 21 de diciembre. Ref. BOE-A-2002-919#a8
