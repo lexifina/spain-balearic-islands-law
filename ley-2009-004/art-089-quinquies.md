@@ -1,0 +1,6 @@
+Artículo 89 quinquies. Requisitos exigibles para acceder al régimen de concierto.
+1. Para poder subscribir conciertos, las entidades tendrán que contar con la oportuna acreditación administrativa de sus centros y servicios y figurar inscritas en el registro de entidades, centros y servicios sociales, así como cumplir los otros requisitos específicos que se determinen reglamentariamente.
+2. Las entidades tendrán que acreditar, en todo caso, la disposición de medios y recursos suficientes para garantizar el cumplimiento de las condiciones establecidas para cada servicio, así como el cumplimiento de la normativa que con carácter general o específico les sea aplicable, tanto por la naturaleza jurídica de la entidad como por el tipo de servicio objeto de concertación.
+3. Aquellas entidades con las cuales se subscriban conciertos de ocupación o de reserva de plazas tendrán que acreditar la titularidad del centro o su disponibilidad por cualquier título jurídico válido por un periodo no inferior al de vigencia del concierto.
+4. Para el establecimiento de conciertos, las administraciones públicas darán prioridad, cuando existan análogas condiciones de eficacia, calidad y rentabilidad social, a las entidades sin ánimo de lucro.
+Se añade por el art. 2 de la Ley 10/2013, de 23 de diciembre. Ref. BOE-A-2014-658
