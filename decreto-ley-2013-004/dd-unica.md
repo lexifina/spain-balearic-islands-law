@@ -1,2 +1,0 @@
-Disposición derogatoria única
-Quedan derogadas las disposiciones del mismo rango que este decreto ley, o de un rango inferior, que se opongan a lo que se establece en él, y en particular el artículo 3 de la Ley 10/2010, de 27 de julio, de medidas urgentes relativas a determinadas infraestructuras y equipamientos de interés general en materia de ordenación territorial, urbanismo y de impulso a la inversión.
