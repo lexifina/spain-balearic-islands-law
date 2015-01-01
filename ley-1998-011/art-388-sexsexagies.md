@@ -1,0 +1,3 @@
+Artículo 388 sexsexagies. Devengo y pago.
+La tasa se devengará cuando se presente la correspondiente solicitud, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se realizará mediante el ingreso de la autoliquidación correspondiente, que se tiene que adjuntar a la solicitud.
+Se añade por la disposición final 1.12 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
