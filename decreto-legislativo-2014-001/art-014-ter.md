@@ -1,0 +1,3 @@
+Artículo 14 ter. Tipo de gravamen reducido aplicable en caso de transmisiones de determinados bienes de carácter deportivo.
+El tipo aplicable a las transmisiones onerosas de bienes muebles imprescindibles para la práctica del deporte es del 1% cuando dichos bienes sean incorporados por la parte adquirente a una empresa, actividad o proyecto de carácter deportivo, siempre que la persona que adquiere el bien lo mantenga en su patrimonio, afecto a la empresa, la actividad o el proyecto deportivo, durante por lo menos cinco años desde su adquisición.
+Se añade por la disposición final 1.2 de la Ley 6/2015, de 30 de marzo. Ref. BOE-A-2015-4791.
