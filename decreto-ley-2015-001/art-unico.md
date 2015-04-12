@@ -1,0 +1,2 @@
+Artículo único. Aprobación de la Instrucción de planificación hidrográfica.
+Se aprueba la Instrucción de Planificación Hidrológica de la demarcación hidrográfica de las Illes Balears, anexo a este Decreto Ley, en transposición de la Directiva 2000/60/CE del Parlamento Europeo y del Consejo, de 23 de octubre, por la que se establece un marco comunitario de actuación en el ámbito de la política de aguas.
