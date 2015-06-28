@@ -1,0 +1,2 @@
+Disposición transitoria única. Consulta al Registro de Voluntades Anticipadas.
+No obstante lo previsto en el artículo 4.2 de la Ley 1/2006, de 3 de marzo, hasta que el contenido de la declaración de voluntad anticipada se incorpore a la historia clínica, según lo que prevé el artículo 9.2 de esta ley, los profesionales sanitarios responsables de los pacientes que se encuentren en el proceso de morir estarán obligados a consultar el Registro de Voluntades Anticipadas.
