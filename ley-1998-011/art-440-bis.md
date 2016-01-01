@@ -1,6 +1,8 @@
 CAPÍTULO III
 Tasa por la solicitud de revisión del grado de discapacidad
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
 Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
 Artículo 440 bis. Hecho imponible.
-Constituirá el hecho imponible de esta tasa la solicitud de revisión del grado de discapacidad efectuada en virtud del Real Decreto 1971/1999, de 23 de diciembre, para el reconocimiento, la declaración y la calificación del grado de discapacidad, o la norma que lo sustituya.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
 Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631

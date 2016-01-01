@@ -1,3 +1,4 @@
 Artículo 440 decies. Exenciones.
-Quedarán exentas del pago de esta tasa las personas que soliciten la revisión del grado de discapacidad en previsión del vencimiento del plazo indicado en la resolución de reconocimiento correspondiente.
+(Derogado)
+Se deroga por la disposición derogatoria única.e) de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
 Se añade por la disposición final 5.27 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
