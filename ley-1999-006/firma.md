@@ -33,7 +33,7 @@ Regulación de los usos:
 3. Prohibido.
 Las determinaciones de los usos de esta matriz tienen el carácter de nivel de protección mínima del suelo rústico, y se pueden incrementar por los instrumentos de ordenación territorial y de planeamiento urbanístico.
 Normas específicas:
-(1) Los usos ubicados en las áreas de prevención de riesgos, excepto en los casos de erosión y vulnerabilidad de acuíferos, sólo se podrán autorizar previo informe favorable de la Administración competente en materia de medio ambiente, quedan exceptuados del mencionado informe preceptivo las APR de erosión y vulnerabilidad de acuíferos.
+(1) Los usos ubicados en las áreas de prevención de riesgos solo se pueden autorizar con el informe previo favorable de la administración competente en materia de medio ambiente. Quedan exceptuados del citado informe preceptivo las APR de erosión y las de contaminación o vulnerabilidad de acuíferos.
 A efectos de la autorización de nuevas viviendas en suelo rústico en APR, la parcela mínima será la correspondiente a la calificación del suelo rústico subyacente, y si no fuera conocida, la correspondiente al suelo rústico colindante. Si fueran varias las calificaciones de suelos rústicos colindantes, se aplicará la más restrictiva.
 Asimismo:
 a) En las áreas de prevención de riesgos de incendios, cuando se destinen a usos o actividades que supongan viviendas deberán incorporar medidas de seguridad vial para garantizar el acceso de personas y vehículos, depósitos de aguas para una primera situación de emergencia, así como actuaciones en la vegetación en un radio de 30 metros alrededor de las edificaciones para reducir la carga de combustible, y se les aplicará el régimen de usos previstos a la categoría de suelo que se correspondería en ausencia de este riesgo de incendio.
@@ -61,7 +61,6 @@ c) Las actividades relacionadas con la conservación del espacio natural y la pr
 d) Las actividades de turismo rural y agroturísticas, concepto que incluye las actividades previstas en el artículo 85 de la Ley agraria de las Illes Balears.
 e) Las actividades cinegéticas y artesanales.
 f) La actividad ecuestre, prevista en el artículo 59.2 de la Ley agraria de las Illes Balears.
-g) Los albergues, casas de colonias, los refugios e instalaciones destinadas a alojamientos de grupos no sometidos a la Ley agraria, o similares, participan de la consideración de otros equipamientos y de actividades de educación ambiental, por lo que tendrán la consideración de uso condicionado en toda clase de suelo rústico, siempre y cuando sean de titularidad pública, sin perjuicio de los que sean expresamente previstos como admitidos en el planeamiento territorial o ambiental.
 3. Agricultura extensiva: la agricultura que se lleva a cabo adaptando los factores de producción agrícola a la extensión y las características de la superficie utilizada. En el caso de la agricultura bajo plástico, la que se realice en estructuras de hasta 50 m2 por unidad de producción.
 4. Agricultura intensiva: la agricultura que se lleva a cabo modificando los factores de producción agrícola, con elevados inputs de capital, medios, tecnología y trabajo, que se caracteriza por realizarse bajo plástico en estructuras con cubiertas superiores a los 50 m2 por unidad de producción.
 5. Ganadería extensiva: la ganadería que no se lleva a cabo en estabulación permanente o tiene lugar en explotaciones agrarias con un factor agroambiental inferior a la cantidad máxima de nitrógeno admisible.
@@ -88,6 +87,9 @@ Son un conjunto amplio de instalaciones superficiales, subterráneas o aéreas, 
 5. Grandes instalaciones técnicas de servicios de carácter no lineal, como grandes superficies de estacionamiento de vehículos al aire libre, infraestructuras hidráulicas, energéticas y de tratamiento de residuos, de superficie superior a 200 metros cuadrados, aeropuertos y cualquier otra instalación de interés general o de impacto semejante sobre el medio físico.
 F) Vivienda unifamiliar aislada
 Se trata de la construcción de edificios unifamiliares destinados a vivienda de nueva planta en el suelo rústico, vinculados o no a la explotación agraria.
+G) Albergues, refugios y similares
+Los albergues, las casas de colonias, los refugios y las instalaciones destinadas a alojamientos de grupos no sometidos a la Ley Agraria, o similares, participan de la consideración de otros equipamientos y de actividades de educación ambiental, por lo que tendrán la consideración de uso condicionado en todo tipo de suelo rústico, siempre y cuando sean de titularidad pública, sin perjuicio de los que sean expresamente previstos como admitidos en el planeamiento territorial o ambiental.
+Se modifica el punto 1 de las normas específicas y se añade el apartado G) a las definiciones, por el art. 2 del Decreto-ley 1/2016, de 12 de enero, en la redacción dada por el art. 2 del Decreto-ley 2/2016, de 22 de enero. Ref. BOE-A-2016-2226.
 Se modifica la matriz y se añade la letra 2.g) al punto 2 de la definición por el art. 2 del Decreto-ley 1/2016, de 12 de enero. Ref. BOE-A-2016-2225.
 Se modifica la matriz de ordenación del suelo rústico por la disposición final 1 de la Ley 12/2014, de 16 de diciembre. Ref. BOE-A-2015-951.
 Se modifica la matriz de ordenación del suelo rústico por la disposición adicional 15 de la Ley 10/2003, de 22 de diciembre. Ref. BOE-A-2004-1741.
