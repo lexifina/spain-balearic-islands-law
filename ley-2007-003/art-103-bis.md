@@ -1,0 +1,3 @@
+Artículo 103 bis. Excedencia voluntaria por nombramiento provisional en un grupo o subgrupo superior.
+Se declarará en situación de excedencia voluntaria por nombramiento provisional en un grupo o subgrupo superior, el personal funcionario de carrera cuando ocupe, como personal funcionario interino, un puesto de trabajo de la misma administración que esté adscrito a un cuerpo, escala o especialidad superior al que pertenezca. El periodo de permanencia en esta situación da derecho a la reserva del puesto de trabajo de origen del cual sea titular.
+Se añade por la disposición adicional 3 de la Ley 4/2016, de 6 de abril. Ref. BOE-A-2016-4177
