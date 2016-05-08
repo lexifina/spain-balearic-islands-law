@@ -1,0 +1,1 @@
+Palma, 6 de mayo de 2016.-La Presidenta, P.S. (Ley 4/2001, de 14 de marzo, y Decreto 8/2015, de 2 de julio), la Consejera de Presidencia, Pilar Costa i Serra.-La Consejera de Hacienda y Administraciones Públicas, Catalina Cladera i Crespí.
