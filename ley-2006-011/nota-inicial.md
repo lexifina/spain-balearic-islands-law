@@ -1,0 +1,1 @@
+Norma derogada, salvo las disposiciones adicionales tercera, cuarta y quinta, , con efectos de 21 de agosto de 2016, por la disposición derogatoria única.2.a) de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#dd.

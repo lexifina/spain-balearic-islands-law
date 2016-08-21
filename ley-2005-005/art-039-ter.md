@@ -1,5 +1,5 @@
 Artículo 39 ter. Actividades ambientales en espacio de relevancia ambiental.
-1. Las actividades ambientales previstas o amparadas en los planes y proyectos a los que se refiere el artículo anterior, promovidas o autorizadas por cualquier dirección general o entidad de derecho público vinculada o dependiente de la consejería competente en medio ambiente, dentro de un espacio natural protegido o dentro el ámbito de la Red Natura 2000, tendrán en cuenta, en todo caso, los objetivos de conservación de dicho lugar y su normativa reguladora.
-2. La actividad ambiental será tramitada, aprobada y, en su caso, autorizada, por la dirección general o por la entidad de derecho público vinculada o dependiente, competente por razón de la materia, que debe aplicar la normativa sustantiva y la normativa reguladora del espacio de relevancia ambiental.
-3. En el caso de que se estime necesaria o conveniente la consulta a otras direcciones generales o entidades de derecho público vinculadas o dependientes, la citada consulta, que puede ser telemática, se debe evacuar en el plazo máximo de diez días hábiles.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.c) de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#dd.
+Se modifica por el art. 31 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
 Se añade por el art. 31 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.

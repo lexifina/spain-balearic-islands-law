@@ -4,8 +4,7 @@ Se añade por el art. 31 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-2
 Téngase en cuenta que este título ya había sido añadido por el Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
 Se añade por el art. 31 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
 Artículo 39 bis. Planes y proyectos de gestión ambiental que afecten a espacios de relevancia ambiental.
-1. Los planes de gestión ambiental promovidos por cualquier dirección general o entidad de derecho público vinculada o dependiente de la consejería competente en materia de medio ambiente, y los proyectos o las actuaciones que se deriven de ellos, que tengan como objeto el mantenimiento de los procesos ecológicos y de los sistemas vitales básicos, así como la preservación de la biodiversidad y del paisaje, se considera que no tienen repercusiones negativas en relación al ámbito del espacio de relevancia ambiental afectado.
-2. En cualquier caso, si estos planes, proyectos o actuaciones de gestión ambiental afectan al ámbito competencial de otras direcciones generales o de sus entidades de derecho público vinculadas o dependientes, el actuante les comunicará su inicio, otorgando un plazo no inferior a quince días con la finalidad de la formulación de alegaciones, observaciones o sugerencias, que serán resueltas de forma conjunta o, en caso de discrepancia, por el consejero, previo informe del comité técnico a que se refiere el artículo 48.3 de la Ley 11/2006.
-3. Todas las direcciones generales y sus entidades de derecho público vinculadas o dependientes tienen la obligación de contribuir y colaborar en la ejecución y el desarrollo de los referidos planes, proyectos y actuaciones.
+(Derogado).
+Se deroga por la disposición derogatoria única.2.c) de la Ley 12/2016, de 17 de agosto. Ref. BOE-A-2016-8518#dd.
 Se modifica por el art. 31 de la Ley 6/2009, de 17 de noviembre. Ref. BOE-A-2009-20658.
 Se añade por el art. 31 del Decreto-ley 3/2009, de 29 de mayo. Ref. BOIB-i-2009-90007.
