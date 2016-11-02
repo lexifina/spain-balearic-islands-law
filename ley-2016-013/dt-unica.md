@@ -1,0 +1,2 @@
+Disposición transitoria única.
+Durante el periodo de liquidación del colegio y hasta el momento en el que se produzca la baja en el Registro de Colegios Profesionales de las Illes Balears, la corporación conserva su personalidad jurídica y la capacidad de obrar queda restringida a los actos de liquidación patrimonial que realice la comisión liquidadora. Durante este periodo, el colegio se debe identificar en sus relaciones de tráfico jurídico como corporación en liquidación.
