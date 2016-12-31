@@ -3,7 +3,9 @@ Artículo 5 quater. Deducción autonómica por donaciones a determinadas entidad
 a) La Administración de la comunidad autónoma de las Illes Balears o las entidades instrumentales que dependen de ella cuya finalidad esencial sea el fomento de la lengua catalana.
 b) La Universidad de las Illes Balears, los centros de investigación y los centros superiores de enseñanzas artísticas de la comunidad autónoma de las Illes Balears.
 c) Las entidades sin finalidad lucrativa a las que se refieren los artículos 2 y 3 de la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin finalidades lucrativas y de los incentivos fiscales al mecenazgo, siempre que el fin exclusivo o principal que persigan sea en el territorio el fomento de la lengua catalana, y estén inscritas en el Registro de Fundaciones de la Administración de la comunidad autónoma de las Illes Balears.
+d) Las entidades parcialmente exentas del impuesto sobre sociedades a que se refiere el artículo 9.3 de la Ley 27/2014, de 27 de noviembre, del Impuesto sobre Sociedades.
 2. La efectividad de dichas donaciones en cada periodo impositivo se deberá acreditar mediante un certificado de la entidad donataria.
 Asimismo, en los casos de la letra c) del apartado anterior, la aplicación de la deducción exige que la consejería competente en materia de política lingüística declare, mediante una resolución, que la entidad donataria verifica los requisitos establecidos en la citada letra c).
 3. Esta deducción es incompatible con la deducción regulada en el artículo 5 bis del presente texto refundido.
+Se añade la letra d) al apartado 1 por la disposición final 3.2 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558.
 Se añade por la disposición final 2.5 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824.
