@@ -1,3 +1,0 @@
-Artículo 62 bis. Informe sobre el cumplimiento de los plazos de pago.
-De acuerdo con lo establecido en el artículo 4.2 de la Ley 15/2010, de 5 de julio, de modificación de la Ley 3/2004, de 29 de diciembre, por la que se establecen medidas de lucha contra la morosidad en las operaciones comerciales, el interventor general de la comunidad autónoma de las Illes Balears publicará trimestralmente en la página web de la Consejería de Hacienda y Presupuestos la información sobre el cumplimiento de los plazos previstos para el pago en dicha ley.
-Se añade por la disposición final 7.4 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656.
