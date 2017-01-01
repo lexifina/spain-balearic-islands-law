@@ -1,0 +1,3 @@
+Artículo 102 bis. Exenciones.
+Quedarán exentas del pago de esta tasa las personas en situación legal de desempleo, las víctimas de violencia de género, las personas con una discapacidad igual o superior al 33 % y los miembros de familias numerosas que tengan reconocida dicha condición, así como las víctimas de terrorismo y sus cónyuges e hijos. Para disfrutar de la exención, las personas interesadas deberán acreditar documentalmente, en el momento de la inscripción en las pruebas, que se encuentran en alguna de estas situaciones.
+Se añade por la disposición final 2.8 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558

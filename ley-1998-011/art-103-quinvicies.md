@@ -1,3 +1,7 @@
-Artículo 103 quinvicies. Exenciones y bonificaciones.
-Están exentas del pago de esta tasa las personas que se presenten a las pruebas en situación de desempleo, las personas con una discapacidad igual o superior al 33% y los miembros de familias numerosas, siempre que lo soliciten al centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción.
+Artículo 103 quinvicies. Exenciones.
+Quedarán exentas del pago de la tasa:
+a) Las personas en situación legal de desempleo, las personas con una discapacidad igual o superior al 33 %, los miembros de familias numerosas, los miembros de unidades familiares que perciban la renta mínima de inserción, las personas sujetas a medidas privativas de libertad y los jóvenes tutelados y extutelados en vías de emancipación, siempre que acrediten documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+b) Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante la correspondiente resolución administrativa. En el caso del cónyuge y los hijos, también deberá presentarse el Libro de Familia.
+c) Las víctimas de violencia de género, así como los hijos que dependan de ellas, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante cualquiera de los documentos previstos por la normativa vigente. En el caso de los hijos dependientes, también deberá presentarse el Libro de Familia.
+Se modifica por la disposición final 2.14 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
 Se añade por la disposición final 3.14 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315

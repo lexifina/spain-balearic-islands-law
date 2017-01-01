@@ -1,3 +1,8 @@
-Artículo 103 vicies. Exenciones y bonificaciones.
-Están exentas del pago de esta tasa las personas que se presenten a las pruebas en situación de desempleo, las personas con una discapacidad igual o superior al 33% y los miembros de familias numerosas, siempre que lo soliciten al centro prestador del servicio y acrediten documentalmente su situación en el momento de la inscripción.
+Artículo 103 vicies. Exenciones.
+Quedarán exentas del pago de la tasa:
+a) Las personas en situación legal de desempleo, las personas con una discapacidad igual o superior al 33 % y los miembros de familias numerosas, siempre que acrediten documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+b) Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante la correspondiente resolución administrativa. En el caso del cónyuge y los hijos, también deberá presentarse el libro de familia.
+c) Las víctimas de violencia de género, así como los hijos que dependan de ellas, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante cualquiera de los documentos previstos por la normativa vigente. En el caso de los hijos dependientes, también deberá presentarse el libro de familia.
+d) En el caso de los miembros de unidades familiares que perciban la renta mínima de inserción, las personas sujetas a medidas privativas de libertad y los jóvenes tutelados y extutelados en vías de emancipación, la exención sólo será aplicable al pago de la tasa por la realización de pruebas de acceso a los ciclos formativos de formación profesional y siempre que acrediten documentalmente, en el momento de la inscripción, que se encuentran en alguna de estas situaciones.
+Se modifica por la disposición final 2.13 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
 Se añade por la disposición final 3.13 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315

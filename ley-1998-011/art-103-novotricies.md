@@ -1,9 +1,7 @@
-Artículo 103 novotricies. Bonificaciones.
-Tendrán derecho a una bonificación del 50% del importe de la tasa:
-a) Los sujetos pasivos que acrediten estar en posesión del Carné Joven Europeo.
-b) Las personas que están en situación de desempleo.
-c) Las personas recluidas en un centro penitenciario.
-d) Las que perciban una pensión pública.
-e) Las que pertenezcan a familias numerosas.
-f) Las que tengan un grado de discapacidad igual o superior al 33%.
+Artículo 103 novotricies. Bonificaciones y exenciones.
+1. Los miembros de familias numerosas tendrán derecho a la exención o a la bonificación de la tasa que, de acuerdo con su categoría, les corresponda según las disposiciones vigentes, siempre que acrediten documentalmente su situación en el momento de la inscripción.
+2. Las personas que hayan sido víctimas de actos terroristas, así como el cónyuge y los hijos, quedarán exentas del pago de la tasa, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante la correspondiente resolución administrativa. En el caso del cónyuge y los hijos, también deberá presentarse el libro de familia.
+3. Las víctimas de violencia de género, así como los hijos que dependan de ellas, quedarán exentas del pago de la tasa, siempre que acrediten documentalmente su situación en el momento de la inscripción. Esta condición se acreditará mediante cualquiera de los documentos previstos por la normativa vigente. En el caso de los hijos dependientes, también deberá presentarse el libro de familia.
+4. Los jóvenes tutelados y extutelados en vías de emancipación, así como los jóvenes en proceso de autonomía personal en el marco de la Ley 7/2015, de 10 de abril, por la que se establece el marco regulador de los procesos de autonomía personal de menores que han sido sometidos a una medida de protección o reforma, tendrán derecho a la exención total de la tasa. Esta condición se acreditará mediante el correspondiente certificado acreditativo expedido por la administración competente en el momento de la inscripción.
+Se modifica por la disposición final 2.16 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
 Se añade por la disposición final 4.21 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656

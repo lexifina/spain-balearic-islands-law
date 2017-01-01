@@ -16,6 +16,7 @@ La tasa se exige de acuerdo con las siguientes tarifas:
 – Servicios generales: 10,00 euros.
 – Derechos de examen de la prueba de certificación de un nivel: 40,00 euros. Los derechos de examen permiten presentarse a las convocatorias de junio y de septiembre del año en el que se pagan estos derechos.
 – Expedición de certificado que acredita el dominio de determinadas habilidades correspondientes a un nivel: 8,00 euros.
-– Derechos de examen de la prueba de certificación oficial del conocimiento de las lenguas para el alumnado que ha cursado enseñanzas de educación secundaria o de formación profesional: 20,00 euros.
+– Derechos de examen de la prueba de certificación oficial del conocimiento de las lenguas para los alumnos de enseñanza de Educación Secundaria inscritos en el Programa EOIES: 22,19 euros.
+Se modifica el último inciso por la disposición final 2.9 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
 Se modifica el apartado 1 por la disposición final 4.14 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
 Se añade por la disposición final 3.10 de la Ley 9/2008, de 19 de diciembre. Ref. BOE-A-2009-1315

@@ -1,3 +1,6 @@
-Artículo 388 novotricies. Devengo.
-La tasa se devenga en el momento en que se lleven a cabo las actividades de inspección y control de establecimientos, y de control de la producción y de la comercialización.
+Artículo 388 novotricies. Devengo y pago.
+1. La tasa se devengará en el momento en que se realicen las actividades de inspección y control de establecimientos, y de control de la producción y de la comercialización.
+2. La tasa se exigirá en régimen de autoliquidación, entre los días 1 y 20 de los meses de enero, abril, junio y octubre referidos al trimestre natural anterior, salvo en los supuestos de alta o baja de la actividad, en los que estas circunstancias determinarán, respectivamente, el inicio y el final del periodo de liquidación. Para efectuar la autoliquidación podrá utilizarse el modelo publicado en la página web de la Consejería de Salud.
+3. Los órganos de la consejería competente en materia sanitaria ejercerán la gestión, la comprobación y la inspección de las obligaciones derivadas del devengo de la tasa. Además, podrán practicar las liquidaciones provisionales pertinentes con los datos, los elementos, los antecedentes o los documentos de todo tipo de que disponga la administración.
+Se modifica por la disposición final 2.32 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
 Se añade por la disposición final 1.23 de la Ley 9/2011, de 23 de diciembre. Ref. BOE-A-2012-2272
