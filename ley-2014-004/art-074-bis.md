@@ -1,0 +1,12 @@
+Sección 4.ª Actividad de alquiler de vehículos con conductor
+Se añade por el art. 2 del Decreto-ley 2/2017, de 26 de mayo. Ref. BOE-A-2017-8528
+Artículo 74 bis. Actividad de alquiler de vehículos con conductor.
+1. La actividad de alquiler de vehículos con conductor viene regulada por la normativa estatal, conforme a la cual la utilización del servicio de alquiler de vehículos con conductor está condicionada a su contratación previa. A estos efectos, se llevará obligatoriamente en el vehículo la documentación acreditativa de esta contratación.
+Queda prohibida la captación de clientela fuera de las oficinas o de los locales de la empresa de alquiler.
+2. En el ámbito territorial de las Islas Baleares, la acreditación del plazo máximo de deslocalización de los vehículos provistos de la autorización de alquiler con conductor expedida en otras comunidades autónomas se hará documentalmente con la presentación, si se requiere, de los billetes de desplazamiento de ida y vuelta.
+3. Los consejos insulares, en su respectivo ámbito territorial, podrán crear un registro de los vehículos provistos de la autorización de alquiler con conductor deslocalizados de sus respectivas comunidades autónomas con los datos que consideren oportunos.
+En cualquier caso, en el funcionamiento del registro se respetará lo que disponga la normativa legal de protección de datos.
+4. De acuerdo con lo que establece el artículo 6 de la Ley 4/2014, de 20 de junio, de Transportes Terrestres y Movilidad Sostenible de las Islas Baleares, los consejos insulares podrán crear autorizaciones de alquiler de vehículos con conductor de ámbito insular, bien sean de carácter permanente o temporal, para las que establecerán el correspondiente régimen jurídico así como las condiciones de otorgamiento, modificación, extinción o otras que consideren necesarias.
+5. La actividad de alquiler de vehículos con conductor está sometida al régimen sancionador establecido en la Ley 16/1987, de 30 de julio, de Ordenación de los Transportes Terrestres, modificada por la Ley 9/2013, de 4 de julio; así como en el capítulo VI del título I de la Ley 4/2014, de 20 de junio, de Transportes Terrestres y Movilidad Sostenible de las Islas Baleares, que le sea de aplicación.
+Se añade por el art. 2 del Decreto-ley 2/2017, de 26 de mayo. Ref. BOE-A-2017-8528
+Téngase en cuenta la disposición adicional única del citado Decreto-ley, en cuanto a los órganos de gestión en materia de transportes.
