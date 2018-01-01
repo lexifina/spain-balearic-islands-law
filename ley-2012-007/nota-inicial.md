@@ -1,1 +1,1 @@
-veargaaer
+Norma derogada, con efectos de 1 de enero de 2018 por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd y por la disposición derogatoria única.1.f) de la Ley 2/2014, de 25 de marzo. Ref. BOE-A-2014-6438#ddunica

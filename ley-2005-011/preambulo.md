@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 1 de enero de 2018, por la disposición derogatoria única.1 de la Ley 12/2017, de 29 de diciembre. Ref. BOE-A-2018-806#dd y la disposición derogatoria.5 de la Ley 4/2008, de 14 de mayo. Ref. BOE-A-2008-9686#dd
