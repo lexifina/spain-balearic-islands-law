@@ -1,0 +1,3 @@
+Disposición adicional decimocuarta. Modificación de la letra b) del punto 1 del artículo 44 de la Ley 8/2012, de 19 de julio, de turismo de las Illes Balears.
+Se modifica la letra b) del punto 1 del artículo 44 de la Ley 8/2012, de 19 de julio, de turismo de las Illes Balears, que queda redactada de la siguiente manera:
+«b) Agroturismos: son los establecimientos que prestan el servicio de alojamiento turístico ubicados en edificaciones construidas antes del 1 de enero de 1960, situadas en suelo rústico y en una finca o fincas que tengan una superficie mínima de 21.000 m2 y que constituyan una explotación agraria, ganadera o forestal preferente.»

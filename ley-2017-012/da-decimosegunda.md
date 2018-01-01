@@ -1,0 +1,3 @@
+Disposición adicional decimosegunda. Modificación de la disposición transitoria segunda de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears.
+Se modifica el punto 2 de la disposición transitoria segunda de la Ley 6/1997, de 8 de julio, del suelo rústico de las Illes Balears, que queda redactado de la siguiente manera:
+«2. Las viviendas existentes en suelo rústico, implantadas legalmente de acuerdo con el planeamiento urbanístico aplicable en el momento de la autorización, pero que no se ajusten a las determinaciones sobre el parámetro de parcela mínima de acuerdo con la legislación y el planeamiento de ordenación territorial y urbanístico en vigor, no podrán ser objeto de actuaciones que comporten su ampliación.»

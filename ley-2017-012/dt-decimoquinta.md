@@ -1,0 +1,2 @@
+Disposición transitoria decimoquinta. Aplicación de la Disposición adicional sexta de la Ley 2/2014, de 25 de marzo, de ordenación y uso del suelo.
+En el ámbito territorial de la isla de Eivissa, en los procedimientos relativos a revisiones de planes que se encuentren en tramitación a la entrada en vigor de esta ley y hayan superado el trámite de aprobación inicial, podrá aplicarse la disposición adicional sexta de la Ley 2/2014, de 25 de marzo, de ordenación y uso del suelo en las Illes Balears.

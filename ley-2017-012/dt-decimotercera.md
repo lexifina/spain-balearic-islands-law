@@ -1,0 +1,2 @@
+Disposición transitoria decimotercera. Expedientes expropiatorios en tramitación.
+Una vez constituida la Comisión de Valoraciones de Expropiación de las Illes Balears, la fijación definitiva del precio justo en vía administrativa corresponderá a este órgano, incluidos los expedientes que en el momento de su constitución se encuentren en tramitación en el Jurado Provincial de Expropiación, que deberán remitirse a dicha Comisión.

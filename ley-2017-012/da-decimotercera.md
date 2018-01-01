@@ -1,0 +1,18 @@
+Disposición adicional decimotercera. Adición de una nueva disposición transitoria a la Ley 11/2014, de 15 de octubre, de comercio de las Illes Balears.
+Se adiciona una nueva disposición transitoria a la Ley 11/2014, de 15 de octubre, de comercio de las Illes Balears, con la siguiente redacción:
+«Disposición transitoria cuarta.
+1. En tanto no se desarrolle reglamentariamente el procedimiento de concesión de las autorizaciones reguladas en el artículo 13, la solicitud iniciadora del procedimiento irá acompañada, sin perjuicio de lo que dispone el artículo 14, de la siguiente documentación:
+a) Proyecto técnico de actividad, junto con una memoria descriptiva referida a las características del establecimiento, su ubicación y la distribución de la superficie útil comercial, que irá acompañado de planos generales y de la documentación exigible para la autorización de la actividad de acuerdo con la Ley 7/2013, de 26 de noviembre, de régimen jurídico de instalación, acceso y ejercicio de actividades en las Illes Balears.
+b) Informe del ayuntamiento competente en el que se acredite que el establecimiento proyectado se ubicará en una parcela con clasificación de suelo urbano de acuerdo con el planeamiento urbanístico municipal, como también la condición de solar.
+c) Documento acreditativo del abono del importe de la tasa correspondiente.
+d) Cualquier otra que se establezca legal y reglamentariamente.
+2. La instrucción del procedimiento incluirá, al menos, los siguientes trámites:
+a) Informe favorable del ayuntamiento competente sobre la instalación y las obras del establecimiento. Este informe tendrá el contenido y la consideración de título habilitante de la instalación y de las obras a los efectos de la Ley 7/2013, de 26 de noviembre, de régimen jurídico de instalación, acceso y ejercicio de actividades en las Illes Balears, ya citada.
+b) Informe favorable del ayuntamiento competente sobre la incidencia del proyecto en las infraestructuras y los servicios públicos de ámbito municipal.
+c) Informe favorable del consejo insular competente sobre la incidencia del proyecto en las infraestructuras y los servicios públicos de carácter supramunicipal.
+El procedimiento quedará suspendido hasta la recepción del informe al que se refiere la letra a) anterior.
+Los informes a que se refieren las letras b) y c) anteriores podrán condicionar su carácter favorable a la adopción de medidas compensadoras de las externalidades negativas que genere la implantación o la ampliación de un gran establecimiento comercial.
+3. Pondrá fin al procedimiento la resolución motivada que dicte el consejero competente en materia de comercio. Notificada la resolución, el ayuntamiento competente entregará a la persona interesada el cartel informativo previsto en las obras en la normativa urbanística.
+4. En caso de que se hayan superado los plazos máximos para iniciar y finalizar las obras de construcción del establecimiento, la caducidad del título habilitante se determinará por el ayuntamiento competente siguiendo los trámites previstos en la normativa urbanística de aplicación. La caducidad declarada por el ayuntamiento determinará, mediante resolución motivada del consejero competente en materia de comercio, la caducidad de la licencia comercial.
+5. Una vez realizada la obra en la instalación, para la apertura del establecimiento se procederá de acuerdo con la citada Ley 7/2013, de 26 de noviembre.
+6. En los términos que se determinen reglamentariamente se podrán autorizar ampliaciones de la superficie útil de exposición y venta de los grandes establecimientos comerciales, siempre que no supongan, en ningún caso, aumento de la superficie edificada.»
