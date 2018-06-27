@@ -1,0 +1,3 @@
+Artículo 59 bis. Garantía de los viajes vinculados.
+Los empresarios domiciliados en las Illes Balears o que abran establecimiento en estas, que comercialicen estos tipos de servicios, definidos por la Directiva UE 2015/2302, del Parlamento Europeo y del Consejo, relativa a los viajes combinados y a los servicios vinculados, están obligados a mantener una garantía para cubrir su responsabilidad en casos de insolvencia, de conformidad con la Directiva mencionada y la normativa de transposición estatal, así como en los términos que se desarrollen reglamentariamente.
+Se añade por el art. 1.6 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
