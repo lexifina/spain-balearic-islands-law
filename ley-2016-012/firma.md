@@ -5,11 +5,12 @@ Francesca Lluch Armengol Socias.
 ANEXO 1
 Proyectos sometidos a evaluación de impacto ambiental ordinaria
 Grupo 1. Agricultura, silvicultura, acuicultura y ganadería
-1. Explotaciones ganaderas intensivas con una capacidad superior a 175 UBM y explotaciones extensivas con una capacidad superior a 350 UBM, y, en todo caso, por exigencias de la legislación estatal básica, cuando superen las siguientes capacidades:
+1. Instalaciones destinadas a la cría de animales en explotaciones ganaderas intensivas que superen las siguientes capacidades:.
 1.º 40.000 plazas para gallinas.
 2.º 55.000 plazas para pollos.
-3.º 12.000 plazas para cerdos de engorde.
+3.º 2.000 plazas para cerdos de engorde.
 4.º 750 plazas para cerdas de cría.
+5.º Resto de explotaciones ganaderas intensivas con una capacidad superior a 175 UBM y explotaciones extensivas con capacidad superior a 350 UBM.
 2. Instalaciones para la acuicultura intensiva.
 Grupo 2. Industria extractiva
 1. Canteras: restauración o extracción.
@@ -36,9 +37,9 @@ Grupo 3. Energía
 11. Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos), incluidos los tendidos de conexión en la red y los siguientes accesos:
 – Instalaciones de más de cuatro aerogeneradores en zona de aptitud alta de acuerdo con el PDS de energía.
 – Instalaciones de más de 1 MW de potencia fuera de las zonas de aptitud alta del PDS de energía.
-12. Instalaciones para la producción de energía eléctrica a partir de la energía solar, incluidos los siguientes tendidos de conexión en la red:
-– Instalaciones con una ocupación total de más de 4 ha situadas en suelo rústico en las zonas de aptitud alta del PDS de energía, excepto las situadas en cualquier tipo de cubierta.
-– Instalaciones con una ocupación total de más de 1 ha situadas en suelo rústico fuera de las zonas de aptitud alta del PDS de energía, excepto las situadas en cualquier tipo de cubierta.
+12. Instalaciones para la producción de energía eléctrica a partir de la energía solar, incluidos los siguientes tendidos de conexión a la red:
+– Instalaciones con una ocupación total de más de 4 ha situadas en suelo rústico en las zonas de aptitud alta y media del PDS de energía, excepto las que estén situadas en cualquier tipo de cubierta.
+– Instalaciones con una ocupación total de más de 1 ha situadas en suelo rústico fuera de las zonas de aptitud alta y media del PDS de energía, excepto las que estén situadas en cualquier tipo de cubierta.
 – Instalaciones con una ocupación total de más de 1.000 m2 que estén situadas en suelo rústico protegido.
 13. Centrales nucleares y otros reactores nucleares, así como las instalaciones vinculadas a la producción, el tratamiento o el almacenaje de materiales radiactivos.
 Grupo 4. Industria siderúrgica y del mineral. Producción y elaboración de metales
@@ -61,7 +62,7 @@ c) Aplicación de capas protectoras de metal fundido con una capacidad de tratam
 14. Instalaciones permanentes para fabricar aglomerados asfálticos en caliente.
 15. Plantas de tratamiento de áridos y plantas de fabricación de materiales de construcción.
 Grupo 5. Industria química, petroquímica, textil y papelera
-1. Instalaciones para la fabricación a escala industrial de sustancias mediante transformación química que se utilicen para:
+1.Instalaciones para la producción a escala industrial de sustancias mediante transformación química o biológica, de los productos o grupos de productos siguientes:
 a) La producción de productos químicos orgánicos o inorgánicos básicos.
 b) La producción de fertilizantes simples o compuestos que contengan fósforo, nitrógeno o potasio.
 c) La producción de productos fitosanitarios básicos y de biocidas.
@@ -134,6 +135,7 @@ Grupo 11. Otros proyectos
 13. Emplazamientos de almacenaje de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenaje geológico de dióxido de carbono.
 14. Instalaciones para la captura de flujos de CO2 con fines de almacenaje geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenaje geológico de dióxido de carbono, procedente de instalaciones incluidas en este anexo, o cuando la captura total anual de CO2 sea igual o superior a 1,5 Mt.
 El fraccionamiento de proyectos no impide la aplicación de los umbrales que establece este anexo y, a este efecto, se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
+Se modifican los grupos 1, 3 y 5 por el art. único.17 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
 ANEXO 2
 Proyectos sometidos a la evaluación de impacto ambiental simplificada
 Grupo 1. Agricultura, silvicultura, acuicultura y ganadería
@@ -166,9 +168,9 @@ Grupo 3. Industria siderúrgica y del mineral. Producción y elaboración de met
 5. Instalaciones para fabricar cemento, clinca u hormigón preparado no incluidas en el anexo 1 de esta ley.
 6. Instalaciones industriales para fabricar productos cerámicos mediante horno; en particular, tejas, ladrillos, baldosas, arenisca o porcelana, no incluidas en el anexo 1 de esta ley.
 Grupo 4. Proyectos de infraestructuras
-1. Proyectos de zonas industriales.
-2. Proyectos de urbanización.
-3. Construcción de centros comerciales.
+1. Proyectos de urbanización en general y los proyectos de dotaciones de servicios en polígonos industriales.
+2. Centros generadores de movilidad que prevé la disposición adicional tercera de la Ley 12/2017, de 29 de diciembre, de urbanismo de las Illes Balears.
+3. Grandes establecimientos comerciales según la definición establecida en el artículo 12 de la Ley 11/2014, de 15 de octubre, de comercio de las Illes Balears, o la legislación que la sustituya.
 4. Aparcamientos y marinas secas en suelo rústico.
 5. Construcción de instalaciones de transbordo intermodal y de terminales intermodales.
 6. Helipuertos.
@@ -203,7 +205,7 @@ Grupo 6. Proyectos de gestión de residuos
 2. Instalaciones de almacenaje de chatarra, de almacenaje de vehículos fuera de uso, centros autorizados para la recogida y la descontaminación de vehículos que no se desarrollen en el interior de una nave en polígono industrial.
 3. Instalaciones de almacenaje de residuos peligrosos fuera del lugar de producción (incluidas operaciones previas al tratamiento) que hagan operaciones de la D13 a la D15 del anexo 1 u operaciones R12 y R13 del anexo 2 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, que no se desarrollen en el interior de una nave en polígono industrial.
 4. Instalaciones de almacenaje de residuos no peligrosos fuera del lugar de producción (incluidas operaciones previas al tratamiento) que hagan operaciones de la D13 a la D15 del anexo 1 y operaciones R12 y R13 del anexo 2 de la Ley 22/2011, de 28 de julio, de residuos y suelos contaminados, con una capacidad superior a 100 t y que no se desarrollen en el interior de una nave en polígono industrial.
-5. Vertederos de residuos no peligrosos con una capacidad de tratamiento inferior o igual a 10 t/día y capacidad total igual o inferior a 25.000 t, así como los proyectos de clausura de estos vertederos cuando no estuvieran incluidos en su autorización inicial, o no hayan sido sometidos a tratamiento ambiental.
+5. Vertederos de residuos no peligrosos con una capacidad de tratamiento inferior o igual a 10 t/día y capacidad total igual o inferior a 25.000 t, así como los proyectos de clausura de vertederos cuando no estén incluidos en su autorización inicial o no hayan sido sometidos a tramitación ambiental.
 Grupo 7. Otros proyectos
 1. Campamentos permanentes para tiendas de campaña o caravanas.
 2. Recuperación de tierras al mar.
@@ -219,53 +221,14 @@ Grupo 7. Otros proyectos
 12. Instalaciones para recuperar o destruir sustancias explosivas.
 13. Equipamientos sanitarios, docentes y deportivos no previstos en el planeamiento urbanístico con una ocupación de parcela inferior a 2.700 m².
 14. Todas las actuaciones que, de acuerdo con el plan de ordenación de los recursos naturales, el plan rector de uso y gestión o el plan de gestión de la zona donde se ubiquen, serán objeto de un estudio de evaluación de impacto ambiental.
+15. Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 40 ha en suelo rústico común, o igual o superior a 20 ha en áreas de especial protección de la Ley 1/1991, de 30 de enero, de espacios naturales, no incluidos en el anexo 1.
 El fraccionamiento de proyectos no impide la aplicación de los umbrales que establece este anexo, y a este efecto se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
-En el caso de los proyectos incluidos en el planeamiento territorial o urbanístico, la evaluación de impacto ambiental tendrá en cuenta la evaluación ambiental estratégica del planeamiento que los incluye y evaluará únicamente los aspectos propios del proyecto que no hayan sido evaluados en la evaluación ambiental estratégica, siempre que la declaración ambiental esté vigente.
+Se modifican los grupos 4 y 6, se añade el apartado 15 al grupo 7 y se suprime el último párrafo por el art. único.17 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
 ANEXO 3
 Criterios para determinar si un proyecto del anexo 2 anterior se debe someter a evaluación de impacto ambiental ordinaria
-1. Características de los proyectos: las características de los proyectos se considerarán, en particular, desde los siguientes puntos de vista:
-a) Las dimensiones del proyecto.
-b) La acumulación con otros proyectos.
-c) La utilización de recursos naturales.
-d) La generación de residuos.
-e) Contaminación y otros inconvenientes.
-f) El riesgo de accidentes, considerando en particular las sustancias y las tecnologías utilizadas.
-2. Ubicación de los proyectos. La sensibilidad ambiental de las áreas geográficas que se puedan ver afectadas por los proyectos se considerará teniendo en cuenta los principios de sostenibilidad, en particular:
-a) El uso existente del suelo.
-b) La abundancia relativa, la calidad y la capacidad regenerativa de los recursos naturales del área.
-c) La capacidad de carga del medio natural, con especial atención a las siguientes áreas:
-1.º Pantanales.
-2.º Zonas costeras.
-3.º Áreas de montaña y de bosque.
-4.º Reservas naturales y parques.
-5.º Áreas clasificadas o protegidas por la legislación del Estado o de las comunidades autónomas; lugares Red Natura 2000.
-6.º Áreas en las que se han superado ya los objetivos de calidad ambiental establecidos en la legislación comunitaria.
-7.º Áreas de gran densidad demográfica.
-8.º Paisajes con significación histórica, cultural o arqueológica.
-9.º Áreas con potencial afección al patrimonio cultural.
-3. Características del impacto potencial. Los potenciales efectos significativos de los proyectos se considerarán en relación con los criterios establecidos en los apartados 1 y 2 anteriores y, en particular, teniendo presente:
-a) La extensión del impacto (área geográfica y magnitud de la población afectada).
-b) El carácter transfronterizo del impacto.
-c) La magnitud y la complejidad del impacto.
-d) La probabilidad del impacto.
-e) La duración, la frecuencia y la reversibilidad del impacto.
+(Suprimido).
+Se suprime por el art. único.17 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
 ANEXO 4
 Criterios para valorar en la evaluación ambiental estratégica simplificada para determinar si un plan o programa se debe someter a evaluación ambiental estratégica ordinaria
-1. Las características de los planes y programas. En particular, se considerará:
-a) La medida en que el plan o el programa establece un marco para proyectos y otras actividades, bien en relación con la ubicación, la naturaleza, las dimensiones y las condiciones de funcionamiento o bien en relación con la asignación de recursos.
-b) La medida en que el plan o el programa influye en otros planes o programas, incluidos los que estén jerarquizados.
-c) La pertinencia del plan o el programa para la integración de consideraciones ambientales, con el objeto, en particular, de promover el desarrollo sostenible.
-d) Problemas ambientales significativos relacionados con el plan o el programa.
-e) La pertinencia del plan o el programa para la implantación de la legislación comunitaria o nacional en materia de medio ambiente como, entre otros, los planes o los programas relacionados con la gestión de residuos o la protección de los recursos hídricos.
-2. Las características de los efectos y del área probablemente afectada, considerando en particular:
-a) La probabilidad, la duración, la frecuencia y la reversibilidad de los efectos.
-b) El carácter acumulativo de los efectos.
-c) El carácter transfronterizo de los efectos.
-d) Los riesgos para la salud humana o el medio ambiente (debidos, por ejemplo, a accidentes).
-e) La magnitud y el alcance espacial de los efectos (área geográfica y magnitud de la población que se puedan ver afectadas).
-f) El valor y la vulnerabilidad del área probablemente afectada a causa de:
-1.º Las características naturales especiales.
-2.º Los efectos en el patrimonio cultural.
-3.º La superación de valores límite o de objetivos de calidad ambiental.
-4.º La explotación intensiva del suelo.
-5.º Los efectos en áreas o paisajes con rango de protección reconocido en los ámbitos nacional, comunitario o internacional.
+(Suprimido).
+Se suprime por el art. único.17 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
