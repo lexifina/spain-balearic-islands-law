@@ -1,0 +1,2 @@
+Disposición adicional única. Régimen supletorio aplicable.
+En todas las cuestiones no previstas expresamente en el capítulo II de esta ley, sobre las reglas específicas de contratación pública de servicios sociales dirigidos a las personas, se aplicará la Ley 9/2017, de 8 de noviembre, de contratos del sector público, por la que se transponen al ordenamiento jurídico español las Directivas del Parlamento Europeo y del Consejo 2014/23/UE y 2014/24/UE, de 26 de febrero de 2014.
