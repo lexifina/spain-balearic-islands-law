@@ -1,0 +1,1 @@
+El presente Decreto-ley se entiende tácitamente sustituido, con efectos de 3 de abril de 2019, por la Ley 14/2019, de 29 de marzo, de proyectos industriales estratégicos de las Illes Balears. Ref. BOE-A-2019-6699
