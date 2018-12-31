@@ -6,7 +6,8 @@ La deducción se aplica a la declaración del ejercicio en el que se inicia el c
 Si los descendientes conviven con dos o más ascendientes y éstos tributan de manera individual, la deducción se prorrateará por partes iguales en la declaración de cada uno.
 3. Esta deducción no es de aplicación en los siguientes casos:
 a) Cuando los estudios no completen un curso académico o un mínimo de 30 créditos.
-b) Cuando haya oferta educativa pública en la isla de residencia, diferente a la virtual o a distancia, para realizar los estudios que determinen el traslado a otro lugar para cursarlos.
-c) Cuando la base imponible total del contribuyente en el impuesto sobre la renta de las personas físicas del ejercicio sea superior a 30.000 euros en tributación individual o a 48.000 en tributación conjunta.
-d) Cuando el descendiente que genera el derecho a deducción obtenga durante el ejercicio rentas superiores a 8.000 euros.
+b) Cuando la base imponible total del contribuyente en el impuesto sobre la renta de las personas físicas del ejercicio sea superior a 30.000 euros en tributación individual o a 48.000 en tributación conjunta.
+c) Cuando el descendiente que genera el derecho a la deducción obtenga durante el ejercicio rentas superiores a 8.000 euros.
+d) Cuando haya oferta educativa pública, diferente a la virtual o a distancia, en la isla de Mallorca para realizar los estudios correspondientes y el traslado implique cursar estos estudios fuera de las Illes Balears.
+Se modifica el apartado 3 por la disposición final 2.1 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
 Se añade por la disposición final 2.3 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
