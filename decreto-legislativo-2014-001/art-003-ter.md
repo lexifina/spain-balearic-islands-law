@@ -1,0 +1,4 @@
+Artículo 3 ter. Deducción por determinadas subvenciones y ayudas otorgadas por razón de una declaración de zona afectada gravemente por una emergencia de protección civil.
+Se establece una deducción en la cuota íntegra del impuesto a favor de los contribuyentes que integren en la base imponible general rendimientos correspondientes a subvenciones o ayudas públicas otorgadas por la comunidad autónoma de las Illes Balears por razón de daños que lleven causa de emergencias que, de acuerdo con el artículo 23 de la Ley 17/2015, de 9 de julio, del Sistema Nacional de Protección Civil, hayan sido declaradas por el Consejo de Ministros como zonas afectadas gravemente por una emergencia de protección civil.
+El importe de esta deducción será el resultado de aplicar el tipo mediano de gravamen al importe de la subvención en la base liquidable.
+Se añade por la disposición final 2.6 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996

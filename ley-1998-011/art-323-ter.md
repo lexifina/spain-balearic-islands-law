@@ -3,5 +3,7 @@ Artículo 323 ter. Uso de rampas de lanzamiento de embarcaciones mediante vehíc
 La tarjeta se expedirá a nombre de la entidad solicitante y solo podrá utilizarse para embarcaciones de la lista 7ª en las que la entidad solicitante haya realizado trabajos de reparación y mantenimiento o de invernaje, o bien para embarcaciones de la lista 6ª que sean de titularidad de la entidad solicitante.
 2. Serán sujetos pasivos de la presente tasa las personas físicas y jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que obtengan la tarjeta acreditativa a que se refiere el hecho imponible.
 3. La cuantía de la tasa es de 300 euros.
+La tarjeta se expide a nombre de la entidad solicitante y sólo se puede utilizar para las embarcaciones en las cuales la entidad solicitante haya realizado trabajos de reparación y mantenimiento o de invernaje.
 4. La tasa se devengará en el momento en que se expida la tarjeta identificativa, y se abonará a partir de la correspondiente liquidación.
+Se modifica el apartado 3 por la disposición final 1.26 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
 Se añade por la disposición final 1.15 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059

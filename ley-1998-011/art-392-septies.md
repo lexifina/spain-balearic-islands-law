@@ -5,11 +5,11 @@ Constituye el hecho imponible de esta tasa la expedición de la autorización pa
 Serán sujetos pasivos de esta tasa las personas físicas, jurídicas y entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la correspondiente autorización para la realización de las actividades a que se refiere el hecho imponible.
 3. Cuota.
 La tasa se ha de exigir de acuerdo con las tarifas siguientes:
-a) Autorización de buceo individual en las reservas marinas, en función del período autorizado en cada lugar:
-1. Autorizaciones semanales en las reservas marinas del Toro y de las islas Malgrats: 15,24 euros
-2. Autorizaciones quincenales en el resto de reservas marinas: 10,16 euros.
-3. Autorizaciones diarias en las reservas marinas de las Illes Balears: 5,08 euros.
-4. Autorizaciones anuales en las reservas marinas del Migjorn de Mallorca y de los Freus d'Eivissa y Formentera: 50,80 euros.
+a) Autorización de buceo individual en las reservas marinas, en función del periodo autorizado en cada lugar:
+1. Autorizaciones semanales en las reservas marinas de la isla de El Toro y de las islas Malgrats: 15,41 euros.
+2. Autorizaciones quincenales en el resto de reservas marinas: 10,27 euros.
+3. Autorizaciones diarias en las reservas marinas de las Illes Balears: 5,14 euros.
+4. Autorizaciones anuales en todas las reservas marinas excepto las reservas marinas de la isla de El Toro y de las islas Malgrats: 51,36 euros.
 b) Autorización de buceo colectivo en las reservas marinas:
 1. En las reservas marinas con sistema de reserva de boyas: 10,16 euros/reserva de turno de boya o 914,40 euros/año.
 2. En las otras reservas marinas: 20,32 euros/día o 457,20 euros/año.
@@ -17,6 +17,7 @@ b) Autorización de buceo colectivo en las reservas marinas:
 (Sin contenido)
 5. Devengo y pago.
 La tasa se devengará cuando se presente la correspondiente solicitud de autorización, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa ha de realizarse mediante la presentación y el ingreso de la correspondiente autoliquidación, al tiempo de la presentación de la solicitud.
+Se modifica el apartado 3.a) por la disposición final 1.33 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
 Se modifican los apartados 1 y 3 por la disposición final 1.21 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
 Se modifica el apartado 3 por la disposición final 1.36 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
 Se modifica el apartado 3 y se deja sin contenido el 4 por la disposición final 4.33 y 34 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
