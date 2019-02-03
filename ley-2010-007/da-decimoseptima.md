@@ -1,0 +1,3 @@
+Disposición adicional decimoséptima. Los entes instrumentales autonómicos como medios propios de los consejos insulares.
+Los entes instrumentales de la Administración de la comunidad autónoma se pueden considerar medios propios de los consejos insulares, a los efectos de que estas instituciones les puedan encargar actuaciones en el ámbito de sus competencias, siempre que, previamente, los entes instrumentales cumplan los requisitos que establece el artículo 32 de la Ley 9/2017, de 8 de noviembre, de contratos del sector público.»
+Se añade por la disposición final 8 de la Ley 1/2019, de 31 de enero. Ref. BOE-A-2019-2862#df-8
