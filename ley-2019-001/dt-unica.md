@@ -1,0 +1,2 @@
+Disposición transitoria única. Adaptación a la administración electrónica.
+Mientras no entren en vigor las normas que regulan el archivo electrónico único de la Administración de la comunidad autónoma o no se disponga de los medios electrónicos necesarios que permitan la tramitación electrónica íntegra de los expedientes electrónicos previstos en esta ley, se podrán mantener los mismos canales, medios y sistemas vigentes de tramitación de los procedimientos hasta la fecha de entrada en vigor de esta ley.
