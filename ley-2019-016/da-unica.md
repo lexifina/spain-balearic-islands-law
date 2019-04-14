@@ -1,0 +1,2 @@
+Disposición adicional única.
+En un plazo no superior a cinco meses desde la constitución del Consejo de Capitalidad, este tendrá que contar con un estudio y una valoración completos que determinen con precisión la cuantificación de los costes económicos y sociales para cuantificar la inversión anual a que se refiere el título III de esta ley, y la determinación de los objetivos a los cuales se destinará esta inversión.
