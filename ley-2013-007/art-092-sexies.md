@@ -1,0 +1,5 @@
+Artículo 92 sexies. Suspensión y pérdida de la habilitación.
+1. Las ECAC deben solicitar la suspensión, parcial o total, de su habilitación cuando se modifiquen los requisitos que justificaron su otorgamiento.
+2. La suspensión se acuerda por resolución del órgano competente en materia de habilitación, al cual corresponde también levantar la suspensión a petición de la entidad colaboradora y con la comprobación previa de que han desaparecido las causas que la motivaron. La suspensión no puede tener una duración superior a un año.
+3. El transcurso del plazo de suspensión de la habilitación sin que la entidad colaboradora cumpla con los requisitos preceptivos supone la pérdida de la habilitación.
+Se añade por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914

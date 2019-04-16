@@ -1,0 +1,4 @@
+Artículo 92 ter. Actas, informes y certificaciones.
+1. Los hechos constatados por el personal técnico habilitado de las ECAC en el ejercicio de las funciones de inspección y control, y también cualquier actuación técnica que les sea encargada, se documentan en las actas, los informes y las certificaciones correspondientes, en los términos que fija esta ley y el resto de normativa sectorial. En todo caso se debe hacer constar expresamente la condición de ECAC.
+2. Las actas, los informes y las certificaciones emitidos por el personal técnico habilitado de las entidades colaboradoras en el ejercicio de las funciones de inspección y control tienen la misma validez jurídica que los emitidos por el personal de la administración encargado de estas funciones.
+Se añade por el art. 30 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
