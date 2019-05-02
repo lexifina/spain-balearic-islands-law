@@ -34,13 +34,24 @@ Grupo 3. Energía
 8. Líneas de transmisión de energía eléctrica de tensión igual o superior a 66 kV a partir de 500 m de longitud.
 9. Instalaciones para almacenar productos petroleros, petroquímicos o químicos con una capacidad superior a 5.000 t.
 10. Producción y almacenaje de gases combustibles a partir de 2.500 t de capacidad.
-11. Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos), incluidos los tendidos de conexión en la red y los siguientes accesos:
+11. Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos), incluidos los tendidos de conexión a la red y los siguientes accesos:
+– Instalaciones de más de seis aerogeneradores en zona de aptitud alta de acuerdo con el PDS de energía o en zonas definidas como aptas para dichas instalaciones en el correspondiente plan territorial insular.
+– Instalaciones de más de 1 MW de potencia fuera de dichas zonas.
+12. Instalaciones para la producción de energía eléctrica a partir de la energía solar, incluidos los siguientes tendidos de conexión a la red:
+– Instalaciones con una ocupación total de más de 20 ha situadas en suelo rústico definidas como aptas para dichas instalaciones en el correspondiente plan territorial insular.
+– Instalaciones con una ocupación total de más de 10 ha situadas en suelo rústico en las zonas de aptitud alta del PDS de energía, excepto las situadas en cualquier tipo de cubierta o en zonas definidas como aptas para dichas instalaciones en el correspondiente plan territorial insular.
+– Instalaciones con una ocupación total de más de 4 ha situadas en suelo rústico en las zonas de aptitud media del PDS de energía, excepto las situadas en cualquier tipo de cubierta o en zonas definidas como aptas para dichas instalaciones en el correspondiente plan territorial insular.
+– Instalaciones con una ocupación total de más de 1 ha situadas en suelo rústico fuera de las zonas de aptitud alta o media del PDS de energía, excepto las situadas en cualquier tipo de cubierta o en zonas definidas como aptas para dichas instalaciones en el correspondiente plan territorial insular.
+– Instalaciones con una ocupación total de más de 1.000 m² que estén situadas en suelo rústico protegido.
+Téngase en cuenta que la modificación de los puntos 11 y 12, establecida por la disposición final 2.5 de la Ley 10/2019, de 22 de febrero. Ref. BOE-A-2019-5579#df-2, entra en vigor el 2 de mayo de 2019, según determina la disposición final 5.1 de la citada ley:
+Redacción anterior:
+"11. Instalaciones para la utilización de la fuerza del viento para la producción de energía (parques eólicos), incluidos los tendidos de conexión en la red y los siguientes accesos:
 – Instalaciones de más de cuatro aerogeneradores en zona de aptitud alta de acuerdo con el PDS de energía.
 – Instalaciones de más de 1 MW de potencia fuera de las zonas de aptitud alta del PDS de energía.
 12. Instalaciones para la producción de energía eléctrica a partir de la energía solar, incluidos los siguientes tendidos de conexión a la red:
 – Instalaciones con una ocupación total de más de 4 ha situadas en suelo rústico en las zonas de aptitud alta y media del PDS de energía, excepto las que estén situadas en cualquier tipo de cubierta.
 – Instalaciones con una ocupación total de más de 1 ha situadas en suelo rústico fuera de las zonas de aptitud alta y media del PDS de energía, excepto las que estén situadas en cualquier tipo de cubierta.
-– Instalaciones con una ocupación total de más de 1.000 m2 que estén situadas en suelo rústico protegido.
+– Instalaciones con una ocupación total de más de 1.000 m2 que estén situadas en suelo rústico protegido."
 13. Centrales nucleares y otros reactores nucleares, así como las instalaciones vinculadas a la producción, el tratamiento o el almacenaje de materiales radiactivos.
 Grupo 4. Industria siderúrgica y del mineral. Producción y elaboración de metales
 1. Plantas siderúrgicas integrales. Instalaciones para producir metales en bruto no ferrosos a partir de minerales, de concentrados o de materias primas secundarias mediante procesos metalúrgicos, químicos o electrolíticos.
@@ -135,6 +146,8 @@ Grupo 11. Otros proyectos
 13. Emplazamientos de almacenaje de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenaje geológico de dióxido de carbono.
 14. Instalaciones para la captura de flujos de CO2 con fines de almacenaje geológico de conformidad con la Ley 40/2010, de 29 de diciembre, de almacenaje geológico de dióxido de carbono, procedente de instalaciones incluidas en este anexo, o cuando la captura total anual de CO2 sea igual o superior a 1,5 Mt.
 El fraccionamiento de proyectos no impide la aplicación de los umbrales que establece este anexo y, a este efecto, se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
+Se modifican los puntos 11 y 12 del grupo 3 por la disposición final 2.5 de la Ley 10/2019, de 22 de febrero. Ref. BOE-A-2019-5579#df-2
+Esta modificación entra en vigor el 2 de mayo de 2019, según establece la disposición final 5.1 de la citada ley.
 Se modifican los grupos 1, 3 y 5 por el art. único.17 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
 ANEXO 2
 Proyectos sometidos a la evaluación de impacto ambiental simplificada
@@ -158,8 +171,14 @@ Grupo 2. Energía
 4. Producción y almacenaje de gases combustibles a partir de 500 t de capacidad.
 5. Instalaciones para la utilización de la fuerza del viento para la producción de energía de más de 100 kW, incluidos los tendidos de conexión a la red y los accesos.
 6. Instalaciones para la producción de energía eléctrica a partir de la energía solar, incluidos los siguientes tendidos de conexión a la red:
+– Instalaciones con una ocupación total de más de 2 ha situadas en suelo rústico definidas como aptas para dichas instalaciones en el correspondiente plan territorial insular.
+– Instalaciones con una ocupación total de más de 1.000 m², excepto las situadas en cualquier tipo de cubierta o en zonas definidas como aptas para dichas instalaciones en el correspondiente plan territorial insular.
+– Instalaciones con una ocupación total de más de 100 m² situadas en suelo rústico protegido.
+Téngase en cuenta que la modificación del apartado 6, establecida por la disposición final 2.6 de la Ley 10/2019, de 22 de febrero. Ref. BOE-A-2019-5579#df-2, entra en vigor el 2 de mayo de 2019, según determina la disposición final 5.1 de la citada ley:
+Redacción anterior:
+"6. Instalaciones para la producción de energía eléctrica a partir de la energía solar, incluidos los siguientes tendidos de conexión a la red:
 – Instalaciones con una ocupación total de más de 1.000 m2, excepto las situadas en cualquier tipo de cubierta.
-– Instalaciones con una ocupación total de más de 100 m2 situadas en suelo rústico protegido.
+– Instalaciones con una ocupación total de más de 100 m2 situadas en suelo rústico protegido."
 Grupo 3. Industria siderúrgica y del mineral. Producción y elaboración de metales
 1. Instalaciones para la fabricación de fibras minerales artificiales.
 2. Astilleros para barcos de hasta 1.000 t.
@@ -223,6 +242,8 @@ Grupo 7. Otros proyectos
 14. Todas las actuaciones que, de acuerdo con el plan de ordenación de los recursos naturales, el plan rector de uso y gestión o el plan de gestión de la zona donde se ubiquen, serán objeto de un estudio de evaluación de impacto ambiental.
 15. Cualquier proyecto que suponga un cambio de uso del suelo en una superficie igual o superior a 40 ha en suelo rústico común, o igual o superior a 20 ha en áreas de especial protección de la Ley 1/1991, de 30 de enero, de espacios naturales, no incluidos en el anexo 1.
 El fraccionamiento de proyectos no impide la aplicación de los umbrales que establece este anexo, y a este efecto se acumularán las magnitudes o dimensiones de cada uno de los proyectos considerados.
+Se modifica el punto 6 del grupo 2 por la disposición final 2.6 de la Ley 10/2019, de 22 de febrero. Ref. BOE-A-2019-5579#df-2
+Esta modificación entra en vigor el 2 de mayo de 2019, según establece la disposición fin 5.1 de la citada ley.
 Se modifican los grupos 4 y 6, se añade el apartado 15 al grupo 7 y se suprime el último párrafo por el art. único.17 de la Ley 9/2018, de 31 de julio. Ref. BOE-A-2018-13194
 ANEXO 3
 Criterios para determinar si un proyecto del anexo 2 anterior se debe someter a evaluación de impacto ambiental ordinaria
