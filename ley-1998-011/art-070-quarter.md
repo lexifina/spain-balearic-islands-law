@@ -1,17 +1,35 @@
 Artículo 70 quater. Cuantía.
 1. La tasa por la prestación de servicios relacionados con la Escuela Balear de Administración Pública se exigirá de acuerdo con las siguientes tarifas:
-1.1. Compulsa de documentos. | 0,40 €
-1.2. Fotocopias: | 
-a) Fotocopias en DIN A4, hasta cinco hojas (por hoja). | 3,17 €
-b) Fotocopias en DIN A4, de más de cinco hojas: | 
-b.1) Las primeras cinco hojas. | 3,17 €
-b.2) A partir de seis hojas. | 0,119049
-c) Fotocopias en DIN A3, hasta cinco hojas. | 5,29 €
-d) Fotocopias en DIN A3, de más de cinco hojas: | 
-d.1) Las primeras cinco hojas. | 5,29 €
-d.2) A partir de seis hojas (por hoja). | 0,190480 €
+ | Euros
+1.1. Copia auténtica de documentos. | 
+a) Soporte papel (por hoja). | 0,40 €
+b) Soporte electrónico (por hoja). | 0,40 €
+1.2. Copias de documentos. | 
+1.2.1. Soporte papel. | 
+a) Copias en DIN A4. | 
+a.1) Hasta 5 hojas (por hoja). | 1 €
+a.2) De 6 a 25 hojas (por hoja). | 0,25 €
+a.3) De 26 a 100 hojas (por hoja). | 0,35 €
+a.4) Más de 100 hojas (por hoja). | 0,50 €
+b) Copias en DIN A3. | 
+b.1) Hasta 5 hojas (por hoja). | 2 €
+b.2) De 6 a 25 hojas (por hoja). | 0,25 €
+b.3) De 26 a 100 hojas (por hoja). | 0,35 €
+b.4) Más de 100 hojas (por hoja). | 0,50 €
+1.2.2. Soporte electrónico. | 
+a) Copias en DIN A4. | 
+a.1) Hasta 5 hojas (por hoja). | 1 €
+a.2) De 6 a 25 hojas (por hoja). | 0,25 €
+a.3) De 26 a 100 hojas (por hoja). | 0,35 €
+a.4) Más de 100 hojas (por hoja). | 0,50 €
+b) Copias en DIN A3. | 
+b.1) Hasta 5 hojas (por hoja). | 2 €
+b.2) De 6 a 25 hojas (por hoja). | 0,25 €
+b.3) De 26 a 100 hojas (por hoja). | 0,35 €
+b.4) Más de 100 hojas (por hoja). | 0,50 €
 2. Quedan exentos de esta tasa los servicios de compulsa que se presten en los procedimientos selectivos o de provisión convocados por la Consejería de Hacienda y Administraciones Públicas y los servicios de compulsa que se presten en los procedimientos que tramita la EBAP que ya estén sujetos al pago de una tasa.
 3. Las familias en situación de protección especial previstas en el artículo 5 de la Ley 8/2018, de 31 de julio, de apoyo a las familias, tienen una bonificación de la tasa de un 75%.
+Se modifica el apartado 1 por la disposición final 1.2 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
 Se modifica por la disposición final 1.4 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
 Se modifica por la disposición final 4.10 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
 Se modifica por la disposición final 5.1 de la Ley 15/2012, de 27 de diciembre. Ref. BOE-A-2013-631
