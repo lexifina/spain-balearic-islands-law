@@ -1,0 +1,2 @@
+Disposición transitoria única. Venta de bebidas alcohólicas.
+La prohibición de venta de bebidas alcohólicas por los establecimientos de alojamiento turístico incluidas en un precio global, establecida en el artículo 3.3, o en el artículo 6.2 en relación con los establecimientos de restauración, no es de aplicación, si se acredita que este servicio ha sido vendido o reservado, tanto directamente como a través de entidades intermediarias, antes de la entrada en vigor de este decreto-ley. En ningún caso es de aplicación esta excepción a partir del día 1 de enero de 2021.
