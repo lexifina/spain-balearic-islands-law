@@ -1,0 +1,2 @@
+Disposición adicional única. Plan especial de los terrenos del ParcBit.
+El plan especial de los terrenos del ParcBit que prevé el apartado 2 de la disposición adicional novena de la Ley 12/2017, o el instrumento de ordenación correspondiente, debe recoger las actividades de las empresas que, en el momento en que entre en vigor este Decreto-ley, ocupen el ParcBit, así como las actividades para proyectos futuros definidos en el artículo 2.
