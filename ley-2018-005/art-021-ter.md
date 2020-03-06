@@ -1,0 +1,10 @@
+Artículo 21 ter. Alcance de la declaración de áreas de conservación y rehabilitación.
+La declaración de un área de conservación y rehabilitación podrá suponer:
+a) La aprobación de normas, planes, programas o proyectos de conservación y rehabilitación de viviendas o su entorno que especifiquen justificadamente el deber de conservación y rehabilitación de todos o algunos inmuebles concretos incluidos en el área delimitada.
+b) La adopción de órdenes de ejecución dirigidas al cumplimiento del deber de conservación y rehabilitación. Si el coste de las obras supera el límite del deber imputable a los propietarios, la Comunidad Autónoma o los entes locales podrán sufragar, a solicitud de los propietarios, la parte de exceso y suspender, si procede, los procedimientos de declaración de ruina iniciados.
+c) La sujeción de las transmisiones de bienes inmuebles incluidos en el área a los derechos de tanteo y retracto a favor de la administración actuante.
+d) La exigencia de que cualquier procedimiento iniciado ante la Administración del Estado al amparo de la legislación de arrendamientos urbanos para obtener la autorización para el derribo de inmuebles ocupados deba disponer de un informe favorable de la consejería competente en materia de vivienda que pondere la necesidad de incrementar de forma inmediata el parque residencial.
+e) La creación de un órgano administrativo o un ente gestor que impulse el proceso de rehabilitación, movilice a los sectores concernidos y asesore y proteja los derechos de los ocupantes legales de los inmuebles residenciales, especialmente si sufren situaciones de presión para hacerles abandonar los inmuebles.
+f) La suscripción de convenios de rehabilitación, de acuerdo con el artículo 21 quater, que podrán dotarse de un fondo económico específico.
+g) La obligación de incorporar al mercado inmobiliario los inmuebles desocupados en un plazo concreto y de acuerdo con lo establecido en la propia declaración.
+Se añade por la disposición adicional 3.5 del Decreto-ley 3/2020, de 28 de febrero. Ref. BOE-A-2020-5020#da-3

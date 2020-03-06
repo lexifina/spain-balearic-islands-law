@@ -1,0 +1,6 @@
+Artículo 26 ter. Derecho de tanteo y retracto sobre la totalidad de un inmueble.
+1. Cualquier transmisión del dominio de la totalidad de un inmueble que disponga de más de una vivienda, cuando al menos una de ellas esté arrendada, quedará sujeta a un derecho de tanteo y retracto legal a favor de la consejería competente en materia de vivienda u otro ente del sector público que ésta designe.
+A los efectos del derecho de tanteo y retracto previstos en esta Ley, se considerará transmisión el cambio producido en la sociedad propietaria del inmueble como consecuencia de la fusión, transformación o escisión de la sociedad, así como la venta de las acciones o participaciones sociales que representen un porcentaje superior al 50% de su capital social.
+2. El ejercicio de este derecho de tanteo y retracto estará sujeto a los términos previstos en la normativa aplicable a efectos de notificación y ejercicio del mismo.
+3. La Administración de la Comunidad Autónoma ejercerá los derechos de adquisición preferente en beneficio propio, del municipio, del consejo insular, de otras entidades vinculadas que dependan de estos, o de sociedades mercantiles de capital íntegramente público.
+Se añade por la disposición adicional 3.8 del Decreto-ley 3/2020, de 28 de febrero. Ref. BOE-A-2020-5020#da-3

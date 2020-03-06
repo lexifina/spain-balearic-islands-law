@@ -1,0 +1,5 @@
+Artículo 75 ter. El derecho de tanteo de la Administración.
+1. En los procesos de transmisión de viviendas protegidas, como también de suelos no edificados con calificación urbanística para viviendas protegidas o destino asimilable, la Administración de la Comunidad Autónoma se reservará un derecho de tanteo legal.
+2. El ejercicio del derecho de tanteo deberá fundamentarse en la necesidad de la administración que lo ejerza o del ente beneficiario de poseer un parque suficiente de viviendas vinculadas a políticas sociales y atender a situaciones de necesidades socialmente perentorias.
+3. La Administración no podrá ejercer el derecho de adquisición en caso de transmisiones gratuitas entre vivos en favor de ascendientes y descendientes, del cónyuge o de la pareja de hecho y en caso de transmisiones por causa de muerte, sin perjuicio de que la vivienda continúe sujeta al régimen de protección oficial y de que el nuevo titular deba destinarla a residencia habitual y permanente.
+Se añade por la disposición adicional 3.21 del Decreto-ley 3/2020, de 28 de febrero. Ref. BOE-A-2020-5020#da-3
