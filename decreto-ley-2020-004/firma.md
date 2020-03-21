@@ -1,0 +1,3 @@
+Palma, 20 de marzo de 2020.–La Presidenta, Francesca Lluch Armengol i Socias.–La Consejera de Presidencia, Cultura e Igualdad, Pilar Costa i Serra.–La Consejera de Hacienda y Relaciones Exteriores, Rosario Sánchez Grau.–El Consejero de Educación, Universidad e Investigación, Martí X. March i Cerdà.–La Consejera de Asuntos Sociales y Deportes, Fina Santiago Rodríguez.–El Consejero de Medio Ambiente y Territorio, Miquel Mir Gual.
+Información relacionada
+El Decreto-ley 4/2020, de 20 de marzo, ha sido convalidado por Acuerdo del Parlamento de las Illes Balears publicado por Resolución de 14 de abril de 2020. Ref. BOIB-i-2020-90107
