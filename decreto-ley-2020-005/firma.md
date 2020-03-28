@@ -1,0 +1,1 @@
+Palma, 27 de marzo de 2020.–La Presidenta, Francesca Lluch Armengol i Socias.–La Consejera de Hacienda y Relaciones Exteriores, Rosario Sánchez Grau.–La Consejera de Administraciones Públicas y Modernización, Isabel Castro Fernández.
