@@ -1,0 +1,1 @@
+Palma, 1 de abril de 2020.–La Presidenta, Francesca Lluch Armengol i Socias.–La Consejera de Asuntos Sociales y Deportes, Fina Santiago i Rodríguez.–La Consejera de Salud y Consumo, Patricia Juana Gómez i Picard.–El Consejero de Movilidad y Vivienda, Marc Pons i Pons.–El Consejero de Medio Ambiente i Territorio, Miquel Mir i Gual.
