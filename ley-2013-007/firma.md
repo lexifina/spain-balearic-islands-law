@@ -128,6 +128,7 @@ CONDICIONES TÉCNICAS QUE DEBE CONTENER EL PROYECTO BÁSICO DE OBRA PARA EDIFICI
 a) Determinación de las entradas y salidas de vehículos con las dimensiones y características de estas.
 b) Determinación de los elementos de evacuación de personas con sus características.
 c) Determinación de los elementos estructurales necesarios para los medios de extinción de incendios y para la ventilación y los exutorios de humo de acuerdo con la normativa que les sea de aplicación.
+Téngase en cuenta que se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades y la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.5 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
 2. Proyecto tipo de actividades itinerantes
 El proyecto de actividades itinerantes debe contener, como mínimo, una estructura compuesta de: memoria, planos, pliego de condiciones y otros.
 El proyecto de actividades itinerantes se debe basar principalmente en la descripción de las diferentes operativas, así como los condicionantes que se establecen y las medidas correctoras aplicadas en las operaciones de:
@@ -180,6 +181,7 @@ Y las medidas previstas para evitar las posibles molestias, nocividad, insalubri
 3. Las certificaciones anteriores no pueden tener una antigüedad superior a seis meses en la fecha de presentación en el Registro Autonómico de Actividades Itinerantes.
 3. Modificación del anexo
 El contenido de este anexo se puede modificar por orden de la persona titular de la consejería competente en materia de actividades del Gobierno de las Illes Balears con el fin de mantener un estándar en los contenidos de los proyectos de actividades.
+Se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades y la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.5 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
 Se modifica por el art. 42 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
 Información relacionada
 Téngase en cuenta que las referencias hechas en esta Ley a la Sección 1a (actividades permanentes) del Registro autonómico de actividades se entenderán realizadas a los registros municipales de actividades permanentes, según se establece en la disposición final 3.14 del Decreto-ley 9/2022, de 7 de noviembre. Ref. BOE-A-2023-2981#df-3
