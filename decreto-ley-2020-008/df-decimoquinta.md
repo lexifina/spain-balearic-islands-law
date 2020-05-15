@@ -1,0 +1,3 @@
+Disposición final decimoquinta. Modificación de la Ley 13/2012, de 20 de noviembre, de Medidas Urgentes para la Activación en Materia de Industria y Energía, Nuevas Tecnologías, Residuos, Aguas, Otras Actividades y Medidas Tributarias.
+Se modifica el apartado 1 del artículo 2, que queda redactado con el tenor literal siguiente:
+«1. Las instalaciones de producción de energía eléctrica a partir de fuentes de energía renovables (energía eólica, solar o hidráulica, biomasa, energía procedente del mar u otras de similares) según su interés energético o de aprovechamiento de espacios degradados, podrán ser declaradas de utilidad pública por la dirección general competente en materia de energía.»
