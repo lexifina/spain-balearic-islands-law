@@ -1,0 +1,1 @@
+Norma derogada, con efectos de 30 de agosto de 2020, excepto la referencia a la disposición adicional quinta de la Ley 11/2006, de 14 de septiembre, por la disposición derogatoria única.3.a) del Decreto Legislativo 1/2020, de 28 de agosto. Ref. BOE-A-2020-11724#dd
