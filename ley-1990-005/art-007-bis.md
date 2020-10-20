@@ -10,4 +10,6 @@ a) La sección del trazado (ancho mínimo y recomendado de los carriles, condici
 b) Las intersecciones.
 c) La pavimentación.
 d) La integración paisajística.
+No obstante lo anterior, a carreteras interurbanas donde haya carriles bici ejecutados en algún tramo de la vía podrán llevarse a cabo proyectos que permitan dar continuidad al carril bici existente a fin de mejorar la movilidad sostenible. El proyecto de mejora tendrá que obtener previamente el informe favorable del órgano ambiental competente.
+Se añade el último párrafo por la disposición final 6.1 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-6
 Se añade por la disposición final 4 de la Ley 4/2014, de 20 de junio. Ref. BOE-A-2014-7536

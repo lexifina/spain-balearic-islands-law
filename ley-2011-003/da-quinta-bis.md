@@ -1,0 +1,4 @@
+Disposición adicional quinta bis.
+Cuando la solicitud para cubrir puestos vacantes por falta de personal funcionario interino o personal laboral temporal no se pueda atender por carencia de bolsas vigentes de este personal, la vacante se tendrá que cubrir mediante las bolsas de personal funcionario interino o personal laboral temporal correspondientes a clases de personal funcionario o grupo profesional equivalente con la titulación adecuada del Consejo Insular de Menorca.
+En este supuesto, la solicitud de cobertura irá acompañada del nombre de la persona propuesta y de una certificación del departamento de recursos humanos en que quede constancia que esta persona figura en la correspondiente bolsa de interinos del Consejo Insular de Menorca.
+Se añade por la disposición final 25 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-25

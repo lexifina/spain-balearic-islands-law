@@ -42,6 +42,7 @@ Se modifica por el art. 41 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-39
 ANEXO II
 Contenido mínimo de la documentación técnica
 Téngase en cuenta que el contenido de este anexo se puede modificar por orden de la persona titular de la consejería competente en materia de actividades del Gobierno de las Illes Balears que se publicará únicamente en el BOIB, según se establece en el punto 3 del mismo.
+Téngase en cuenta que se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades que consta en este anexo II, y se suprime la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.4 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
 1. Proyecto tipo de actividades permanentes
 El proyecto tipo de actividades permanentes debe contener como mínimo una estructura compuesta de: ficha resumen, memoria, presupuesto, planos, pliego de condiciones y otros.
 A continuación se establece una tabla para poder determinar de una manera sencilla los contenidos de los que debe disponer un proyecto de obras y actividades y un proyecto sólo de actividades. Las tablas se organizan en tres columnas: la primera es de información común que debe constar en cualquier tipo de proyecto, después en función del tipo de proyecto se añade el contenido de una columna o de las dos columnas restantes.
@@ -128,7 +129,6 @@ CONDICIONES TÉCNICAS QUE DEBE CONTENER EL PROYECTO BÁSICO DE OBRA PARA EDIFICI
 a) Determinación de las entradas y salidas de vehículos con las dimensiones y características de estas.
 b) Determinación de los elementos de evacuación de personas con sus características.
 c) Determinación de los elementos estructurales necesarios para los medios de extinción de incendios y para la ventilación y los exutorios de humo de acuerdo con la normativa que les sea de aplicación.
-Téngase en cuenta que se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades y la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.5 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
 2. Proyecto tipo de actividades itinerantes
 El proyecto de actividades itinerantes debe contener, como mínimo, una estructura compuesta de: memoria, planos, pliego de condiciones y otros.
 El proyecto de actividades itinerantes se debe basar principalmente en la descripción de las diferentes operativas, así como los condicionantes que se establecen y las medidas correctoras aplicadas en las operaciones de:
@@ -181,6 +181,7 @@ Y las medidas previstas para evitar las posibles molestias, nocividad, insalubri
 3. Las certificaciones anteriores no pueden tener una antigüedad superior a seis meses en la fecha de presentación en el Registro Autonómico de Actividades Itinerantes.
 3. Modificación del anexo
 El contenido de este anexo se puede modificar por orden de la persona titular de la consejería competente en materia de actividades del Gobierno de las Illes Balears con el fin de mantener un estándar en los contenidos de los proyectos de actividades.
+Se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades que consta en este anexo II, y se suprime la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.4 de la Ley 2/2020, de 15 de octubre. Ref. BOE-A-2020-14467#df-2
 Se suprime la obligación de presentar la ficha resumen en los casos en los que no es preceptiva la redacción del proyecto de actividades y la mención en su punto 5 del contenido del proyecto de actividades relativa a la necesidad de incluir el plan de autoprotección, por la disposición final 2.5 del Decreto-ley 8/2020, de 13 de mayo. Ref. BOE-A-2020-8011#df-2
 Se modifica por el art. 42 de la Ley 6/2019, de 8 de febrero. Ref. BOE-A-2019-3914
 Información relacionada
