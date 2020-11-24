@@ -1,0 +1,2 @@
+Disposición adicional. Autorización al Gobierno.
+Se autoriza al Gobierno de las Illes Balears para que, en un plazo de un año, apruebe el texto refundido de las disposiciones vigentes de la Ley de consejos escolares de las Illes Baleares, cuyo texto refundido se aprobó por el Decreto Legislativo 112/2001, de 7 de septiembre. Esta autorización incluye la posibilidad de regularizar, aclarar y armonizar los textos legales que se tienen que refundir.
