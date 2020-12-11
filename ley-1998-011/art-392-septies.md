@@ -9,14 +9,15 @@ a) Autorización de buceo individual en las reservas marinas, en función del pe
 1. Autorizaciones semanales en las reservas marinas de la isla de El Toro y de las islas Malgrats: 15,41 euros.
 2. Autorizaciones quincenales en el resto de reservas marinas: 10,27 euros.
 3. Autorizaciones diarias en las reservas marinas de las Illes Balears: 5,14 euros.
-4. Autorizaciones anuales en todas las reservas marinas excepto las reservas marinas de la isla de El Toro y de las islas Malgrats: 51,36 euros.
+4. Autorizaciones anuales en todas las reservas marinas, excepto las reservas marinas de la isla del Toro y de las islas Malgrats: 52,40 euros/por isla.
 b) Autorización de buceo colectivo en las reservas marinas:
 1. En las reservas marinas con sistema de reserva de boyas: 10,16 euros/reserva de turno de boya o 914,40 euros/año.
-2. En las otras reservas marinas: 20,32 euros/día o 457,20 euros/año.
+2. A las otras reservas marinas, por isla: 20,96 euros/día o 471,52 euros/año.
 4. Bonificación.
 (Sin contenido)
 5. Devengo y pago.
 La tasa se devengará cuando se presente la correspondiente solicitud de autorización, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa ha de realizarse mediante la presentación y el ingreso de la correspondiente autoliquidación, al tiempo de la presentación de la solicitud.
+Se modifican las letras a) 4 y b) 2 del apartado 3 por el art. 7.2 y 3 del Decreto-ley 14/2020, de 9 de diciembre. Ref. BOE-A-2021-906
 Se modifica el apartado 3.a) por la disposición final 1.33 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
 Se modifican los apartados 1 y 3 por la disposición final 1.21 de la Ley 13/2017, de 29 de diciembre. Ref. BOE-A-2018-929
 Se modifica el apartado 3 por la disposición final 1.36 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
