@@ -1,0 +1,4 @@
+Artículo 408 ter. Sujeto pasivo.
+1. Son sujetos pasivos de esta tasa, en la condición de contribuyente, aquellos en interés de los cuales se hagan las actuaciones administrativas que constituyen el hecho imponible.
+2. Son sujetos pasivos sustitutos del contribuyente aquellos que requieran las actuaciones administrativas cuando sean prestadas a favor de cualquier persona que no sea el solicitante.
+Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665

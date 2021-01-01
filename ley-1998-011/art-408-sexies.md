@@ -1,0 +1,4 @@
+Artículo 408 sexies. Devengo.
+1. La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+2. Por actuaciones de oficio, la tasa se devenga cuando se inicia la prestación del servicio o el desarrollo de la actividad, sin perjuicio de exigir su depósito previo, de acuerdo con lo dispuesto en el artículo 10.1.a) de la Ley 2/1997, de 3 de junio, de tasas de la Comunidad Autónoma de las Illes Balears.
+Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
