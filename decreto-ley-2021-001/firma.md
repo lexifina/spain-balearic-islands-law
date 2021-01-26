@@ -1,0 +1,3 @@
+Palma, 25 de enero de 2021.–La Presidenta, Francesca Lluch Armengol i Socias.–El Consejero de Transición Energética y Sectores Productivos, Juan Pedro Yllanes Suárez.–La Consejera de Hacienda y Relaciones Exteriores, Rosario Sánchez Grau.–El Consejero de Modelo Económico, Turismo y Trabajo, Iago Negueruela Vázquez.–La Consejera de Asuntos Sociales y Deportes, Fina Santiago Rodríguez.–La Consejera de Salud y Consumo, Patricia Gómez i Picard.–El Consejero de Medio Ambiente y Territorio, Miquel Mir Gual.
+Información relacionada
+El Decreto-ley 1/2021, de 25 de enero, ha sido convalidado por Acuerdo del Parlamento de Baleares publicado por Resolución de 25 de febrero de 2021. Ref. BOIB-i-2021-90104
