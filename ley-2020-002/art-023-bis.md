@@ -1,0 +1,5 @@
+Artículo 23 bis. Cobertura excepcional de las guardias del Servicio de Salud de las Illes Balears.
+1. Con carácter excepcional, todo el personal del Servicio de Salud de las Illes Balears, con independencia de su vinculación jurídica y de su categoría profesional, puede realizar guardias propias de su titulación académica, para garantizar la atención permanente y continuada.
+Cada gerencia puede organizar las guardias extraordinarias que se precisen por causa de especial necesidad, con objeto de garantizar la continuidad asistencial.
+2. La retribución por el concepto de guardias con carácter excepcional debe realizarse con cargo a los importes del complemento de atención continuada, de la categoría o especialidad profesional de personal estatutario que tiene atribuidas estas funciones, y la retribución no debe suponer ningún incremento respecto de la cuantía que perciben los profesionales que cubren las guardias con carácter ordinario.
+Se añade por la disposición final 1.2 del Decreto-ley 1/2021, de 25 de enero. Ref. BOE-A-2021-4805#df
