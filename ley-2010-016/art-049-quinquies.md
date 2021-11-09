@@ -9,4 +9,5 @@ d) Identificación de contactos de la persona usuaria que sean epidemiológicame
 e) Recepción, por la persona usuaria, de avisos sobre el riesgo efectivo en el que se encuentre por ser contacto epidemiológicamente relevante de una persona diagnosticada de la enfermedad transmisible.
 f) Proporcionar a la persona usuaria el apoyo digital de información o documentación individual relativa a sus circunstancias laborales y de localización geográfica u otras, con el fin de facilitar la aplicación de las medidas que adopten las autoridades competentes en la gestión de la crisis sanitaria, en la medida y en los términos que lo permitan las disposiciones o los actos que disciplinen estas medidas.
 Tanto en el desarrollo como en la puesta en marcha y en el funcionamiento de estos sistemas y aplicaciones y, posteriormente, en su desactivación, se debe garantizar el respeto necesario a la normativa vigente en materia de protección de datos y confidencialidad de las comunicaciones.
+Se modifica por el art. 1.4 de la Ley 2/2021, de 8 de noviembre. Ref. BOE-A-2021-19806
 Se añade por el art. 1.4 del Decreto-ley 5/2021, de 7 de mayo. Ref. BOE-A-2021-11617#ap
