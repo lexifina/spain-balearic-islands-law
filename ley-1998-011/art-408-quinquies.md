@@ -1,5 +1,6 @@
 Artículo 408 quinquies. Exenciones y bonificaciones.
-1. Quedan exentos del pago de la tasa los trámites relacionados con la puesta en servicio e inscripción de las instalaciones de producción eléctrica en régimen de autoconsumo mediante energías renovables hasta de 15 kW.
+1. Quedan exentos del pago de la tasa los trámites relacionados con la puesta en servicio e inscripción de las instalaciones de producción eléctrica en régimen de autoconsumo mediante energías renovables de hasta 15 kW. Esta exención no incluye las modificaciones, ampliaciones o correcciones de errores de instalaciones tramitadas.
 2. En los casos que se justifique que el trámite está relacionado con el inicio de una actividad empresarial o profesional podrá aplicarse una bonificación del 100% a la cuota tributaria a que se refiere el concepto 1 –salvo de los puntos 1.4, 1.5, 1.6.2, y 1.7–, del artículo 408 quater de esta ley.
 En caso de que sea aplicable la bonificación no será necesario presentar la declaración tributaria correspondiente, excepto en los casos en que la tramitación sea telemática y no se haya podido hacer el trámite correspondiente. En estos casos se pagará la tasa sin bonificar y posteriormente se podrá solicitar la devolución si se justifica que se trata del inicio de una actividad empresarial o profesional.
+Se modifica el apartado 1 por la disposición final 1.17 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
 Se añade por la disposición final 1.8 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665

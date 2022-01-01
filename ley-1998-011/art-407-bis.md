@@ -1,7 +1,8 @@
 Artículo 407 bis. Exenciones y bonificaciones.
-1. Quedan exentos del pago de la tasa los trámites relacionados con la puesta en servicio de las instalaciones de producción eléctrica en régimen de autoconsumo mediante energías renovables hasta 15 kW.
+1. Quedan exentos del pago de la tasa los trámites relacionados con la puesta en servicio de las instalaciones de producción eléctrica en régimen de autoconsumo mediante energías renovables de hasta 15 kW. Esta exención no incluye las modificaciones, ampliaciones o correcciones de errores de instalaciones tramitadas.
 2. En los casos que se justifique que el trámite está relacionado con el inicio de una actividad empresarial o profesional podrá aplicarse una bonificación del 100% a la cuota tributaria a los que se refieren los conceptos 3 –salvo los puntos 3.1.2, 3.2.2, 3.3.2 y 3.3.3–, 4 y 5 del artículo 407 de esta ley, salvo la modificación de la puesta en funcionamiento del concepto correspondiente al punto 5.
 En caso de que sea de aplicación la bonificación no será necesario presentar la correspondiente declaración tributaria, excepto en los casos en que la tramitación sea telemática y no se haya podido hacer el correspondiente trámite. En estos casos se pagará la tasa sin bonificar y posteriormente se podrá solicitar la devolución si se justifica que se trata del inicio de una actividad empresarial o profesional.
+Se modifica el apartado 1 por la disposición final 1.16 de la Ley 5/2021, de 28 de diciembre. Ref. BOE-A-2022-807
 Se modifica por la disposición final 1.6 de la Ley 3/2020, de 29 de diciembre. Ref. BOE-A-2021-1665
 Se modifica el apartado 1 por la disposición final 1.34 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
 Se modifica por la disposición final 1.16 de la Ley 12/2015, de 29 de diciembre. Ref. BOE-A-2016-824
