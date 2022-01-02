@@ -1,0 +1,9 @@
+Artículo primero. Modificación del Decreto ley 11/2020, de 10 de julio, por el que se establece un régimen sancionador específico para hacer frente a los incumplimientos de las disposiciones dictadas para paliar los efectos de la crisis ocasionada por la COVID-19.
+1. Se añade una nueva letra, la letra i), al artículo 3 del Decreto ley 11/2020, de 10 de julio, por el que se establece un régimen sancionador específico para hacer frente a los incumplimientos de las disposiciones dictadas para paliar los efectos de la crisis ocasionada por la COVID-19, con la siguiente redacción:
+«i) El incumplimiento de la obligación de comprobación de los requisitos y documentos de acceso en el interior de los establecimientos, locales y/o acontecimientos que determine en cada momento la autoridad sanitaria.»
+2. La letra g) del artículo 4 del Decreto ley 11/2020 mencionado queda modificada de la siguiente manera:
+«g) La realización de otras conductas u omisiones que infrinjan las obligaciones establecidas por el Estado o por la Comunidad Autónoma de las Illes Balears, para hacer frente a la crisis sanitaria ocasionada por la COVID-19, que produzcan un riesgo o un daño grave para la salud de la población.»
+3. Se añade una nueva letra, la letra k), al artículo 4 del Decreto ley 11/2020 mencionado con la siguiente redacción:
+«k) El incumplimiento de la obligación de comprobación de los requisitos y documentos de acceso en el interior de los establecimientos, locales y/o acontecimientos que determine en cada momento la autoridad sanitaria, cuando este no sea constitutivo de una infracción muy grave.»
+4. La letra e) del artículo 5 del Decreto ley 11/2020 mencionado queda modificada de la siguiente manera:
+«e) Cualquier otra infracción de las obligaciones establecidas por el Estado o por la Comunidad Autónoma de las Illes Balears, para hacer frente a la crisis sanitaria ocasionada por la COVID-19, y que no esté calificada como falta grave o muy grave.»
