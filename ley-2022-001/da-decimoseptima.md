@@ -1,0 +1,2 @@
+Disposición adicional decimoséptima. Plan de impulso de los colegios integrados de primaria y secundaria.
+En el plazo de un año contador desde la entrada en vigor de esta ley, el Gobierno de las Illes Balears impulsará un plan para la implantación progresiva de los colegios de educación infantil y primaria integrados con los de educación secundaria obligatoria (CEIPIESO) previstos en el artículo 107 de esta ley en todo el territorio.

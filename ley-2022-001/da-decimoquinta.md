@@ -1,0 +1,2 @@
+Disposición adicional decimoquinta. Colaboración con otros servicios públicos relacionados con los servicios educativos.
+Los diferentes departamentos y consejerías del Gobierno de las Illes Balears colaborarán para el desarrollo de servicios públicos relacionados con los servicios educativos, como son la prevención y la protección de la salud de la comunidad educativa, la atención sanitaria escolar, el desarrollo del plan autonómico de conciliación laboral y familiar y la respuesta asistencial a las necesidades específicas de los escolares vulnerables, entre otros.
