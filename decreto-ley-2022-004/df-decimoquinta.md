@@ -1,0 +1,10 @@
+Disposición final decimoquinta. Modificaciones de la Ley 18/2001, de 19 de diciembre, de parejas estables.
+1. Se modifica el apartado 2 del artículo 1 de la Ley 18/2001, de 19 de diciembre, de parejas estables, que queda redactado de la siguiente manera:
+«2. Para que les sea aplicable esta ley, los miembros de la pareja deberán cumplir los requisitos y las formalidades que se prevén, no estar bajo ningún impedimento que afecte a alguno de ellos o a su relación, e inscribirse voluntariamente en el Registro de Parejas Estables de las Illes Balears. La inscripción en este Registro tiene carácter constitutivo cuando alguno de los miembros está sometido al derecho civil de las Illes Balears, con la sumisión expresa de ambos al régimen que establece, y la ley les será de aplicación íntegramente, y tiene carácter declarativo cuando ninguno de los miembros esté sometido a él, supuesto en el que esta ley solo les será aplicable en cuanto al título I y también en cuanto al artículo 8 del título II en todo lo que afecte a la cancelación de la inscripción de la pareja que deriva de la extinción.»
+2. Se modifica el apartado 2 del artículo 2 de la mencionada Ley 18/2001, que queda redactado de la siguiente manera:
+«2. Son requisitos para poderse constituir en pareja estable:
+a) Tener ambas personas solicitantes vecindad administrativa en cualquier municipio de las Illes Balears.
+b) Acreditar en el momento de la solicitud, mediante el empadronamiento, un mínimo de un año de convivencia ininterrumpida de los solicitantes como pareja, en un domicilio común de las Illes Balears.»
+3. Se modifica el apartado b) del punto 1 del artículo 8 de la mencionada Ley 18/2001, que queda redactado de la siguiente manera:
+«b) La voluntad de uno de los miembros, notificada de manera fehaciente al otro. Esta notificación no es necesaria si la parte solicitante es víctima de violencia de género y el agresor es la pareja registrada.»
+4. Se suprime el punto tercero de la disposición final primera de la mencionada Ley 18/2001.

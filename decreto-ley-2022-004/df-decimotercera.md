@@ -1,0 +1,5 @@
+Disposición final decimotercera. Modificación de la Ley 5/2018, de 19 de junio, de la vivienda de las Illes Balears.
+Se añade un nuevo apartado, el 3, en la disposición transitoria tercera de la Ley 5/2018, de 19 de junio, de la vivienda de las Illes Balears, con la siguiente redacción:
+«3. Mientras no se desarrolle reglamentariamente la normativa específica autonómica en materia de precios máximos de venta y alquiler de las viviendas protegidas, por acuerdo del Consejo de Gobierno podrá aprobarse la actualización de los precios máximos de venta y alquiler establecidos en el apartado 1 de esta misma disposición.
+Esta actualización se acompañará de un informe técnico que determine y justifique el incremento de precios sobre la base de los costes efectivos de construcción de vivienda protegida en el ámbito de las Illes Balears.
+El mecanismo de actualización de precios deberá permitir también su rebaja en el caso de que se justifique la reducción de los costes de construcción, de manera que se ajusten al precio efectivo.»

@@ -1,0 +1,3 @@
+Palma, 30 de marzo de 2022.–La Presidenta, Francesca Lluch Armengol i Socias.–El Consejero de Transición Energética, Sectores Productivos y Memoria Democrática, Juan Pedro Yllanes Suárez.–La Consejera de Presidencia, Función Pública e Igualdad, Mercedes Garrido Rodríguez.–La Consejera de Hacienda y Relaciones Exteriores, Rosario Sánchez Grau.–La Consejera de Asuntos Sociales y Deportes, Fina Santiago Rodríguez.–El Consejero de Educación y Formación Profesional, Martí Xavier March i Cerdà.–El Consejero de Movilidad y Vivienda, Josep Marí i Ribas.
+Información relacionada
+El Decreto-ley 4/2022, de 30 de marzo, ha sido convalidado por Acuerdo del Parlamento de las Illes Balears, publicado por Resolución de 13 de abril de 2022. Ref. BOIB-i-2022-90118
