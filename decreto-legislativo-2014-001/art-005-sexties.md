@@ -1,0 +1,4 @@
+Artículo 5 sexties. Deducción por donaciones para paliar los efectos del conflicto de Ucrania sobre las personas.
+1. Durante el ejercicio fiscal de 2022 se establece una deducción del 50% del valor de los bienes o cuantías dinerarias de las donaciones efectuadas a entidades de las previstas en la Ley 49/2002, de 23 de diciembre, de régimen fiscal de las entidades sin finalidades lucrativas y de los incentivos fiscales al mecenazgo, que se destinen a actividades y programas para paliar los efectos sobre las personas generados por la invasión de Ucrania por parte del ejército ruso, con el límite de 150 euros.
+2. La efectividad de la donación se acreditará mediante la expedición, por parte de la entidad receptora de la donación, del certificado correspondiente.
+Se añade por la disposición final 2.12 del Decreto-ley 4/2022, de 30 de marzo de 2022. Ref. BOE-A-2022-9389#df-2

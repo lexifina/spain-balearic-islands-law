@@ -1,5 +1,6 @@
 Artículo 5 ter. Deducción autonómica por donaciones, cesiones de uso o contratos de comodato y convenios de colaboración, relativos al mecenazgo deportivo.
 1. Se establece una deducción del 15% de las cuantías en que se valoren las donaciones, las cesiones de uso o los contratos de comodato, y de las cuantías satisfechas en virtud de convenios de colaboración efectuados de acuerdo con lo dispuesto en la Ley 6/2015, de 30 de marzo, por la que se regula el mecenazgo deportivo y se establecen medidas tributarias.
 2. El límite de la deducción aplicable es de 600 euros por ejercicio. En caso de que la cesión de uso o el contrato de comodato tenga una duración inferior a un año, esta deducción se prorrateará en función del número de días del período anual. Si la duración es superior a un año, la deducción no se puede aplicar a más de tres ejercicios.
-3. La aplicación de esta deducción está condicionada a que la base imponible total del contribuyente no supere la cuantía de 12.500 euros en el caso de tributación individual y de 25.000 euros en el caso de tributación conjunta.
+3. La aplicación de esta deducción exige que la base imponible total del contribuyente no supere la cuantía de 13.750 euros en el caso de tributación individual y de 27.500 euros en el caso de tributación conjunta.
+Se modifica el apartado 3 por la disposición final 2.8 del Decreto-ley 4/2022, de 30 de marzo de 2022. Ref. BOE-A-2022-9389#df-2
 Se añade por la disposición final 1.1 de la Ley 6/2015, de 30 de marzo. Ref. BOE-A-2015-4791.

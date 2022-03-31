@@ -1,0 +1,4 @@
+Artículo 32 bis. Reducción por la adquisición de determinados vehículos.
+1. Cuando en la base imponible de una adquisición por causa de muerte que corresponda al cónyuge, a los ascendientes o a los descendientes del causante esté incluido el valor de un vehículo con clasificación ambiental de cero emisiones, para obtener la base liquidable se aplicará a la base imponible una reducción del 50% del valor del vehículo.
+2. Cuando en la base imponible de una adquisición por causa de muerte que corresponda al cónyuge, a los ascendientes o a los descendientes del causante esté incluido el valor de un vehículo con clasificación ambiental ECO, para obtener la base liquidable se aplicará a la base imponible una reducción del 25% del valor del vehículo.
+Se añade por la disposición final 2.14 del Decreto-ley 4/2022, de 30 de marzo de 2022. Ref. BOE-A-2022-9389#df-2

@@ -5,9 +5,10 @@ b) Servicio de custodia, servicio de comedor y actividades extraescolares de ni�
 c) Contratación laboral de una persona para cuidar del menor.
 2. Para poder aplicar esta deducción se tienen que cumplir los requisitos siguientes:
 a) Que los contribuyentes desarrollen actividades por cuenta ajena o por cuenta propia generadoras de rendimientos del trabajo o de rendimientos de actividades económicas.
-b) Que la base imponible total no supere el importe de 30.000 euros en el caso de tributación individual y de 48.000 euros en el de tributación conjunta.
+b) Que la base imponible total no supere el importe de 33.000 euros en el caso de tributación individual y de 52.800 euros en el de tributación conjunta.
 c) Que el pago de los gastos que dan derecho a la deducción se haga mediante tarjeta de crédito o de débito, transferencia bancaria, cheque nominativo o ingreso en cuentas de entidades de crédito.
 3. En el supuesto de deducción de los gastos de la contratación de una persona empleada, esta tiene que estar dada de alta en el régimen especial para empleados del hogar de la Seguridad Social.
 4. Cuando dos contribuyentes tengan derecho a la aplicación de esta deducción y opten por la declaración individual, se tiene que prorratear entre ellos por partes iguales.
 5. Si todos los descendientes o acogidos dejan de ser menores de seis años a lo largo del año, el límite máximo de la deducción se tiene que prorratear por la suma del número de días en qué los descendientes o acogidos hayan sido menores de seis años durante el año natural. También se tiene que prorratear de la misma forma el límite máximo de la deducción si los descendientes han nacido o han sido adoptados a lo largo del año, o si los menores han sido acogidos a lo largo del año.
+Se modifica la letra b) del apartado 2 por la disposición final 2.10 del Decreto-ley 4/2022, de 30 de marzo de 2022. Ref. BOE-A-2022-9389#df-2
 Se añade por la disposición final 2.3 de la Ley 14/2018, de 28 de diciembre. Ref. BOE-A-2019-996
