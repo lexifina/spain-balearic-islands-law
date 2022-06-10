@@ -1,0 +1,10 @@
+Artículo sexto. Modificaciones del Decreto 20/2019, de 15 de marzo, por el que se regula la bonificación en las tarifas de los servicios regulares de transporte marítimo interinsular para las personas residentes en la Comunidad Autónoma de las Illes Balears.
+1. El segundo párrafo del apartado 4 del artículo 2 del Decreto 20/2019, de 15 de marzo, por el que se regula la bonificación en las tarifas de los servicios regulares de transporte marítimo interinsular para las personas residentes en la Comunidad Autónoma de las Illes Balears, queda modificado de la siguiente manera:
+«Estas bonificaciones por residencia son complementarias y acumulativas con las bonificaciones por razón de familia numerosa o por razón de cualquier otro régimen, sin que en ningún caso puedan superar el 100% de la tarifa.»
+2. El artículo 3 del Decreto 20/2019 mencionado queda modificado de la siguiente manera:
+«Artículo 3. Cuantía de la bonificación por residencia.
+1. La cuantía de la bonificación general autonómica por residencia es como máximo del 25% de la tarifa correspondiente al trayecto y la acomodación de que se trate en cada caso, y hasta conseguir como máximo un 75% de bonificación por residencia después de la aplicación de la bonificación estatal.
+2. La cuantía de la bonificación específica autonómica por residencia para las personas residentes en Formentera tiene que ser:
+a) Como máximo del 14% de la tarifa correspondiente al trayecto y la acomodación de que se trate en cada caso, para las personas residentes objeto de la bonificación general, la cual, sumada a la bonificación del 25% que ya se recibe de la comunidad autónoma, supone una reducción tarifaria total a cargo de la comunidad autónoma de hasta el 39%.
+b) Como máximo hasta el 39% para las personas residentes no comunitarias no incluidas en el apartado 1 del artículo 2, que no son objeto de la bonificación general.
+En todo caso, la suma de las bonificaciones por residencia estatales y autonómicas no puede superar el 89% de la tarifa.»
