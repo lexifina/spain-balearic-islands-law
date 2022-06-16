@@ -1,0 +1,2 @@
+Disposición final vigesimotercera. Producción de efectos de determinadas disposiciones del Decreto Ley 4/2022, de 30 de marzo.
+Los apartados 1, 2, 4 y 6 de la disposición final sexta del Decreto Ley 4/2022, de 30 de marzo, por el que se adoptan medidas extraordinarias y urgentes para paliar la crisis económica y social producida por los efectos de la guerra en Ucrania, producirán efectos a partir del mismo día de la publicación de este decreto ley en el Boletín Oficial de las Illes Balears.

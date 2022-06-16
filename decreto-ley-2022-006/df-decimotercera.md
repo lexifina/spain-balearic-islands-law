@@ -1,0 +1,30 @@
+Disposición final decimotercera. Modificación del Decreto ley 6/2021, de 9 de julio, de modificación de la Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears.
+1. Se modifica la disposición transitoria cuarta del Decreto ley 6/2021, de 9 de julio, de modificación de la Ley 4/2013, de 17 de julio, de coordinación de las policías locales de las Illes Balears, que queda redactado de la siguiente manera:
+«Disposición transitoria cuarta. Agentes covid.
+Los ayuntamientos, cuando existan necesidades eventuales que así lo requieran y de conformidad con el Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de régimen local, pueden nombrar personal funcionario interino como agentes covid para complementar a la policía local en el ejercicio de las funciones que se indican en el apartado 1 de esta disposición. La duración de estos nombramientos no podrá prolongarse más allá del 31 de diciembre de 2022.
+1. Funciones de los agentes covid.
+Los agentes covid, en el ejercicio de sus funciones, tienen la consideración de agentes de la autoridad, subordinados al personal de los respectivos cuerpos de policía local, sin integrarse en estos. En los ayuntamientos que no cuenten con cuerpo de policía local estarán subordinados al alcalde.
+No pueden disponer de ningún tipo de arma y su uniformidad se tendrá que diferenciar claramente de la que sea propia de los cuerpos de policía local. No deberán llevar distintivos ni logotipos. Llevarán la leyenda "Agente covid".
+Sin perjuicio de otras funciones que puedan tener asignadas en los respectivos ayuntamientos y sin que puedan entenderse incluidas en ningún caso entre sus funciones las reservadas a las fuerzas y cuerpos de seguridad de acuerdo con lo que dispone la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad, las funciones que pueden ejercer los agentes covid son las siguientes:
+a) Denunciar el incumplimiento de las ordenanzas, los bandos y otras disposiciones y actas municipales dentro de su ámbito de competencia.
+b) Formular denuncias en el ejercicio de sus funciones, en su condición de agentes de la autoridad.
+c) Cualquier otra que les atribuya la legislación vigente.
+En cualquier caso, el ejercicio de sus funciones se llevará a cabo con el cumplimiento estricto de lo que dispone la Ley Orgánica 2/1986, de 13 de marzo, de Fuerzas y Cuerpos de Seguridad.
+2. Ámbito de actuación.
+El ámbito de actuación de los agentes covid será el del ayuntamiento al cual pertenecen, sin perjuicio de lo que dispone la legislación vigente en cada caso para los supuestos de catástrofe o calamidad pública.
+3. Organización y funcionamiento.
+1. Con carácter general, los agentes covid estarán sometidos a las mismas normas de organización y funcionamiento que el resto de los funcionarios del ayuntamiento.
+2. Donde exista cuerpo de policía local, dependerán orgánicamente y funcionalmente del personal de los respectivos cuerpos de policía local, y les serán aplicables las normas comunes de funcionamiento y, asimismo, los deberes y derechos que no sean exclusivos del personal sometido al estatuto policial establecido por el propio reglamento.
+4. Ingreso.
+1. Los puestos de personal funcionario denominados agentes covid no son puestos estructurales y serán ocupados por personal funcionario interino para la ejecución de programas de carácter temporal o por exceso o acumulación de tareas. La duración máxima será la que establece el artículo 10.1 del Texto refundido del Estatuto Básico del Empleado Público.
+2. Estos puestos serán ocupados por personal funcionario interino perteneciente al subgrupo de clasificación C1.
+3. La selección se realizará por el procedimiento de concurso.
+4. Se elaborarán dos bolsas de trabajo, que gestionará la Escuela Balear de Administración Pública:
+a) La primera bolsa, que será preferente, se elaborará con las personas aspirantes presentadas en cualquiera de los procesos selectivos de los últimos cinco años que, a pesar de no haber superado ningún ejercicio, acrediten la realización del curso básico de policía local o el curso básico de bomberos. La nota obtenida en el curso será la que determine el orden en la bolsa de trabajo.
+La Comisión de Valoración de la bolsa preferente estará presidida por la persona que proponga el director general de Emergencias del Gobierno de las Illes Balears, el secretario será un funcionario del cuerpo superior de la Escuela Balear de Administración Pública, y un vocal será designado por la Federación de Entidades Locales de las Illes Balears.
+b) La segunda bolsa, que será subsidiaria, se elaborará con las personas aspirantes presentadas en cualquiera de los procesos selectivos de policía local o de bomberos de los últimos cinco años que hayan superado algún ejercicio. El orden de prelación de la bolsa se determinará de acuerdo con la mayor puntuación lograda con la suma de la nota obtenida en los ejercicios superados.
+La Comisión de Valoración de la bolsa subsidiaria estará presidida por la persona que proponga el director general de Emergencias del Gobierno de las Illes Balears, el secretario será un funcionario, técnico superior del área jurídica del Instituto de Seguridad Pública de las Illes Balears, y tres vocales designados por la Federación de Entidades Locales de las Illes Balears entre el personal de los cuerpos de policía local de los ayuntamientos. Los miembros de la Comisión deberán tener dedicación plena durante el tiempo de la valoración, que se estima de un mes de duración.
+La resolución de la convocatoria determinará el plazo de vigencia, los requisitos y las condiciones en que se tiene que llevar a cabo la gestión de esta bolsa.
+5. Los servicios prestados en estas plazas de agentes covid serán un mérito en los procesos de personal funcionario interino de la categoría de policía local.
+5. Temporalidad.
+Esta categoría y los nombramientos derivados de esta disposición transitoria obligatoriamente se extinguirán el 31 de diciembre de 2022.»
