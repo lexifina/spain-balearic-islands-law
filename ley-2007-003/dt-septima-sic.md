@@ -1,0 +1,3 @@
+Disposición transitoria séptima [sic]. Permanencia en el puesto de trabajo de las personas que logran la condición de personal funcionario de carrera por sistema de estabilización.
+No obstante lo dispuesto en el artículo 53.2 de esta ley, las personas que logren la condición de personal funcionario de carrera por un sistema de estabilización deben permanecer al menos tres años en el puesto de trabajo, antes de poder participar en futuras convocatorias de provisión, ya sea en la misma o en diferentes consejerías.
+Se añade por la disposición final 1.26 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df

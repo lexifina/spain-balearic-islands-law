@@ -1,0 +1,3 @@
+Artículo 25 bis. Funciones del cuerpo de intervención y auditoría.
+Al cuerpo de intervención y auditoría le corresponden las funciones de dirección, programación y gestión de la contabilidad pública y la información contable de la Administración autonómica, la coordinación de la de los entes que integran el sector público autonómico, el desarrollo de la función interventora previa o posterior y el control financiero posterior y la auditoría interna de la gestión económico-financiera pública.
+Se añade por la disposición final 2.4 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df-2

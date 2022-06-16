@@ -1,0 +1,3 @@
+Disposición adicional decimonovena. Normas para las administraciones insulares y locales.
+Las normas que se aprueban mediante este decreto ley relativas al sistema de concurso abierto y permanente y al nombramiento provisional para la mejora de empleo son aplicables, sin perjuicio de la legislación de carácter básico y de la autonomía local e insular, a los consejos insulares y a las entidades locales, siempre que así lo acuerde el órgano competente de la administración pública insular o local correspondiente.»
+Se añade por la disposición final 1.25 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
