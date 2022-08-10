@@ -1,0 +1,2 @@
+Disposición derogatoria única. Derogación de la Ley 15/2006, de 17 de octubre, de archivos y patrimonio documental de las Illes Balears y otras normas.
+Quedan derogados la Ley 15/2006, de 17 de octubre, de archivos y patrimonio documental de las Illes Balears; el título VIII de la Ley 12/1998, de 21 de diciembre, del patrimonio histórico de las Illes Balears; y todas las normas de rango igual o inferior que sean incompatibles con esta ley, se opongan a ella o la contradigan.
