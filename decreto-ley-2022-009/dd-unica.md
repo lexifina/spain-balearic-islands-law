@@ -1,0 +1,2 @@
+Disposición derogatoria única. Normas que se derogan.
+Se derogan, con carácter general, todas las normas y disposiciones que se opongan a este decreto ley o que contradigan lo que en él se establece, y, en particular, quedan derogados los apartados 2 y 3 de la disposición transitoria octava y la disposición transitoria décima de la Ley 7/2013, de 26 de noviembre, de régimen jurídico de instalación, acceso y ejercicio de actividades en las Illes Balears.
