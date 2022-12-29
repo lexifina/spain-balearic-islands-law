@@ -1,6 +1,7 @@
 ANEXO I
 Cartografía
 En suplemento anexo del BOIB núm. 31 de 9 de marzo de 1991 se publican los planos correspondientes al anexo I, cartografía.
+Se modifica por la disposición final 2 del Decreto-ley 10/2022, de 27 de diciembre. Ref. BOE-A-2023-3623
 Se modifica por el art. 9.1 de la Ley 4/2008, de 14 de mayo. Ref. BOE-A-2008-9686.
 Se modifica por el art. único.1 de la Ley 1/2000, de 9 de marzo. Ref. BOE-A-2000-5834.
 Se modifica por el art. único.9 de la Ley 7/1992, de 23 de diciembre. Ref. BOE-A-1993-4521.
