@@ -1,0 +1,5 @@
+Artículo 3 quinquies. Deducción por obtención de subvenciones o ayudas para paliar el impacto provocado por la inflación durante el año 2023.
+1. Los contribuyentes que integren en la base imponible general del impuesto sobre la renta de las personas físicas el importe correspondiente a subvenciones o ayudas otorgadas por la comunidad autónoma de las Illes Balears que tengan por objeto paliar el impacto provocado por la inflación durante el año 2023 podrán aplicar una deducción en la cuota íntegra autonómica del impuesto, en los términos establecidos en los apartados siguientes.
+2. El importe de la deducción será el resultado de aplicar el tipo medio de gravamen autonómico sobre el importe de la subvención o ayuda integrada en la base liquidable autonómica.
+3. Las subvenciones o ayudas a que se refieren los apartados anteriores de este artículo no han de formar parte en ningún caso de los rendimientos de actividades económicas del contribuyente.
+Se añade por la disposición final 4.4 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-2980
