@@ -1,1 +1,0 @@
-Norma derogada, con efectos desde el 14 de agosto de 2022, excepto los títulos IV, salvo su capítulo I; y el VII por la disposición derogatoria única.a), en relación con la disposición transitoria 3 de la Ley 5/2022, de 8 de julio. Ref. BOE-A-2022-15289#dd
