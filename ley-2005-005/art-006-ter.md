@@ -1,0 +1,20 @@
+Artículo 6 ter. Procedimiento de elaboración.
+1. El procedimiento de elaboración de los instrumentos de planeamiento de los espacios de relevancia ambiental es el siguiente, sin perjuicio de las previsiones particulares, para cada caso, de esta ley:
+a) El inicio del procedimiento corresponde al consejero de Medio Ambiente y Territorio mediante resolución.
+Esta resolución debe publicarse en el "Butlletí Oficial de les Illes Balears" mediante un anuncio que contenga un extracto del contenido y que indique el sitio web en el que se puede acceder a la documentación. También debe ponerse a disposición de la ciudadanía a través de los medios telemáticos.
+b) La resolución de inicio debe ir acompañada de una memoria que debe contener, como mínimo, la siguiente información:
+– Los valores ambientales o de otro tipo que justifican o motivan el inicio del procedimiento.
+– La descripción del medio u otras características relevantes del espacio.
+– La delimitación del ámbito territorial objeto del instrumento, con su correspondiente cartografía.
+c) La resolución de inicio, junto con la memoria, debe someterse a un trámite de participación pública previa a la redacción de la propuesta de plan, de conformidad con lo que prevé el artículo 16 de la Ley 27/2006, de 18 de julio, por la que se regulan los derechos de acceso a la información, de participación pública y de acceso a la justicia en materia de medio ambiente, así como el artículo 6 de la Ley 4/2011, de 31 de marzo, de la buena administración y del buen gobierno de las Illes Balears.
+Esta participación se articulará por medio del portal web de transparencia del Gobierno de las Illes Balears y como mínimo en dos de los periódicos de mayor tirada de la isla correspondiente. Adicionalmente, se podrán articular otros medios de participación, telemáticos o no telemáticos.
+Los resultados de esta participación se tendrán en cuenta para elaborar el correspondiente plan.
+d) Una vez redactada la propuesta del plan o instrumento debe someterse a los siguientes trámites:
+– Audiencia de las personas interesadas durante un plazo de dos meses, que debe realizarse, según corresponda, directamente, mediante las entidades que las agrupen o las representen o mediante publicación en el "Butlletí Oficial de les Illes Balears" o medios telemáticos. Asimismo, se consultarán los intereses sociales e institucionales afectados y las asociaciones que persigan los principios y objetivos previstos en esta ley, en caso de no estar comprendidos en el supuesto anterior.
+– Consulta de las administraciones territoriales que, por razón de la materia, puedan verse afectadas por la iniciativa. En todo caso, deben consultarse los consejos insulares y ayuntamientos, cuando el plan les afecte. La consulta a los ayuntamientos puede realizarse directamente o por medio de las organizaciones representativas de estas entidades o de los órganos de participación de los que formen parte. Las administraciones territoriales consultadas deben pronunciarse en el plazo de dos meses.
+– Información pública durante un plazo de dos meses. A tal efecto, debe publicarse un anuncio en el "Butlletí Oficial de les Illes Balears" y debe ponerse a disposición de la ciudadanía a través de los medios telemáticos.
+Todas las publicaciones y notificaciones deben indicar, como mínimo, el sitio web en el que se puede acceder a la documentación y el plazo para hacer consideraciones.
+e) La versión resultante de la propuesta debe someterse al informe jurídico de la Secretaría General de la Consejería de Medio Ambiente y Territorio.
+f) La aprobación debe hacerse por decreto del Gobierno de las Illes Balears y debe publicarse en el "Butlletí Oficial de les Illes Balears".
+2. El procedimiento caduca si el instrumento de planeamiento no se aprueba transcurridos dos años a contar desde la fecha de publicación de la resolución de inicio. Sin embargo, el Consejo de Gobierno puede acordar, por causa justificada en el expediente, una prórroga de este plazo por un máximo de dos años.
+Se añade por el art. 2 de la Ley 1/2023, de 7 de febrero. Ref. BOE-A-2023-13668
