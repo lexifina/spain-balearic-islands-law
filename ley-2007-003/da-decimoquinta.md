@@ -1,3 +1,4 @@
 Disposición adicional decimoquinta. Integración de personal funcionario de carrera proveniente de otras administraciones que presta servicios de manera continuada en la Administración autonómica.
-Las personas que han sido removidas de un puesto de trabajo de libre designación, al amparo del artículo 92.2 de esta ley y que han continuado prestando servicios en la Administración autonómica en adscripción provisional, durante cinco años continuados o más, se integrarán en el cuerpo, la escala o la especialidad que corresponda, en atención al cuerpo, la escala, la subescala o la especialidad de origen y a las funciones desempeñadas en puestos de trabajo de la Administración de la Comunidad Autónoma de las Illes Balears.
+(Suprimida).
+Se suprime por la disposición final 4.2 de la Ley 6/2023, de 16 de marzo. Ref. BOE-A-2023-13763#df-4
 Se añade por la disposición final 1.22 del Decreto-ley 6/2022, de 13 de junio. Ref. BOE-A-2022-13798#df
