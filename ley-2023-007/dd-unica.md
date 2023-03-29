@@ -1,0 +1,3 @@
+Disposición derogatoria única. Derogación normativa.
+1. Quedan derogadas todas las disposiciones de rango igual o inferior que se opongan, contradigan o resulten incompatibles con lo que dispone esta ley, y, en particular, la Ley 3/1992, de 15 de julio, de comunidades baleares asentadas fuera del territorio de la comunidad autónoma, y la Orden del consejero de Presidencia, de 22 de diciembre de 1999, por la que se crea la Comisión de estudios sobre el hecho emigratorio de las Illes Balears.
+2. Mientras no se aprueben los reglamentos a que se refieren las letras a), b) y c) del apartado 2 de la disposición final primera de esta ley, se mantendrá en vigor el Decreto 129/1993, de 16 de diciembre, en la medida que no se oponga a lo que preceptúa esta ley ni la contradiga.
