@@ -1,0 +1,6 @@
+Artículo 36 bis. Bonificación autonómica en las adquisiciones de sujetos pasivos incluidos en el grupo III.
+1. En las adquisiciones por causa de muerte y, por asimilación, en los pactos sucesorios a que se refiere la Ley 8/2022, de 11 de noviembre, de sucesión voluntaria paccionada o contractual de las Illes Balears, en las que los sujetos pasivos por obligación personal de contribuir sean colaterales de segundo o tercer grado por consanguinidad del causante incluidos en el grupo III del artículo 21 de este Texto Refundido y no concurran con descendientes o adoptados del causante, o concurran con descendientes o adoptados del causante desheredados, se aplicará una bonificación del 50 % sobre la cuota íntegra corregida.
+Para el resto de sujetos pasivos del grupo III se aplicará una bonificación del 25 % sobre la cuota íntegra corregida.
+2. Para aplicar esta bonificación, en caso de que se adquieran bienes inmuebles, deberá consignarse en la correspondiente escritura pública el valor de los bienes inmuebles adquiridos, el cual no podrá superar en cada caso el valor real.
+3. Esta bonificación no eximirá de la obligación de presentar la correspondiente autoliquidación del impuesto.
+Se añade por el art. 4 del Decreto-ley 4/2023, de 18 de julio. Ref. BOE-A-2023-24416
