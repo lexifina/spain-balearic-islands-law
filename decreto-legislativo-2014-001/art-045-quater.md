@@ -1,0 +1,3 @@
+Artículo 45 quater. Reducción por excesos de adjudicación en adquisiciones por causa de muerte.
+Se establece una reducción del 100 % de la parte de la base imponible correspondiente a los excesos de adjudicación en adquisiciones inmobiliarias u otros bienes indivisibles por causa de muerte, incluidos los pactos sucesorios, de los sujetos pasivos de los grupos I, II y III, siempre que haya acuerdo de los sujetos pasivos en la partición de estos bienes y no sea posible que el exceso de adjudicación imputable al sujeto pasivo se compense con otros bienes del mismo caudal hereditario.
+Se añade por el art. 20 de la Ley 11/2023, de 23 de noviembre. Ref. BOE-A-2023-24913

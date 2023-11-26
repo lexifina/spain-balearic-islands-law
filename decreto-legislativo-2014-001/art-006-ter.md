@@ -1,9 +1,20 @@
-Artículo 6 ter. Deducción por acogida de personas desplazadas por el conflicto de Ucrania.
-1. Durante el ejercicio fiscal de 2022 se establece una deducción por la acogida de personas desplazadas desde Ucrania en los siguientes términos:
-a) El periodo mínimo de acogida para poder aplicar la deducción es de tres meses.
-b) El importe de la deducción por persona acogida es de 150 euros.
-c) El límite máximo de deducción por contribuyente es de 600 euros.
-d) Cuando dos contribuyentes tengan derecho a la aplicación de esta deducción y opten por la declaración individual, se prorratearán entre ellos, a partes iguales, tanto el importe como el límite máximo de la deducción.
-e) Entre las personas acogidas y las personas acogedoras no puede haber una relación de parentesco, ni por consanguinidad ni por afinidad, de hasta el segundo grado.
-f) La aplicación de esta deducción requiere la obtención de un certificado del órgano competente en la gestión y el control de estas acogidas, en el cual conste el número de personas acogidas y la duración de la acogida, de acuerdo con lo que disponga el Ministerio de Inclusión, Seguridad Social y Migraciones.
+Artículo 6 ter. Deducción por nacimiento.
+1. Por cada nacimiento de un hijo o una hija en el periodo impositivo que dé derecho a la aplicación del mínimo por descendientes previsto en el artículo 58 de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas y de modificación parcial de leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio, los contribuyentes podrán deducir de la cuota íntegra autonómica las siguientes cantidades:
+a) Por el primer hijo o hija: 800 euros.
+b) Por el segundo hijo o hija: 1.000 euros.
+c) Por el tercer hijo o hija: 1.200 euros.
+d) Por el cuarto hijo o hija y siguientes: 1.400 euros.
+2. A efectos de determinar el derecho a esta deducción y el número de orden del hijo nacido, se tendrán en cuenta los hijos que convivan con el contribuyente y para los cuales se pueda aplicar el mínimo por descendientes mencionado en el apartado anterior en la fecha de devengo del impuesto, y se computarán tanto los hijos naturales como los adoptivos.
+3. La aplicación de esta deducción requiere que se verifiquen los siguientes requisitos:
+a) Que el contribuyente haya sido residente fiscal en las Illes Balears el ejercicio anterior al del nacimiento.
+b) Que la base imponible total no supere el importe de 33.000 euros en el caso de tributación individual y de 52.800 euros en el caso de tributación conjunta.
+No obstante, en el caso de las familias numerosas o de las familias monoparentales previstas en el artículo 7.7 de la ley 8/2018, de 31 de julio, de apoyo a las familias, los límites de renta a que se refiere la letra b) anterior se incrementarán un 20 %.
+4. Cuando concurran dos contribuyentes con derecho a la deducción y no opten por la tributación conjunta, el importe se prorrateará entre estos a partes iguales.
+5. En el caso de que el número de hijos de cada contribuyente dé lugar a la aplicación de un importe diferente, ambos se aplicarán la deducción que corresponda en función del número de hijos preexistente. Si se da esta circunstancia y la declaración es conjunta, la deducción será la suma de la que correspondería a cada uno si la declaración fuera individual.
+6. Los contribuyentes con derecho a la aplicación de esta deducción podrán solicitar a la consejería competente en materia de hacienda, en los términos que se establezcan mediante una orden de la persona titular de la citada consejería, el abono anticipado de esta deducción, que será, si corresponde, objeto de regularización en el momento de presentar la declaración del impuesto.
+7. En el caso de que esta deducción concurra con otras deducciones autonómicas, esta se aplicará en primer lugar.
+Si hay insuficiencia de cuota, de forma que no se pueda aplicar esta deducción en la cuantía total, el contribuyente podrá solicitar a la consejería competente en materia de hacienda el abono de la diferencia entre la deducción aplicada a la declaración y el importe de la deducción que le corresponda, en los términos que se fijen mediante una orden de la persona titular de la citada consejería.
+8. Esta deducción será incompatible con la percepción de ayudas y prestaciones públicas concedidas u otorgadas por la Comunidad Autónoma de las Illes Balears por causa de nacimiento.
+9. La renta imputable al contribuyente que, en su caso, resulte de la deducción a que se refiere este artículo tendrá la consideración de prestación pública por nacimiento a los efectos del artículo 7.h) de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas.
+Se modifica por el art. 7 de la Ley 11/2023, de 23 de noviembre. Ref. BOE-A-2023-24913
 Se añade por la disposición final 2.11 del Decreto-ley 4/2022, de 30 de marzo de 2022. Ref. BOE-A-2022-9389#df-2

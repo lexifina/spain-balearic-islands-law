@@ -1,0 +1,3 @@
+Artículo 14 quinquies. Deducción aplicable a los excesos de adjudicación en adquisiciones por causa de muerte.
+Se establece una deducción del 100 % de la cuota correspondiente a los excesos de adjudicación que, por razón de la compensación con otros bienes integrantes del caudal hereditario, se produzcan en adquisiciones inmobiliarias u otros bienes indivisibles por causa de muerte, incluidos los pactos sucesorios, de los sujetos pasivos de los grupos I, II y III, siempre que haya acuerdo de los sujetos pasivos en la partición de los bienes.
+Se añade por el art. 11 de la Ley 11/2023, de 23 de noviembre. Ref. BOE-A-2023-24913
