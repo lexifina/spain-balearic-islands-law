@@ -1,9 +1,9 @@
 CAPÍTULO V [sic]
 Impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos
+Se deroga por la disposición derogatoria única.b) de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
 Se añade por la disposición final 4.24 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-2980
 Artículo 74 bis. Tipo de gravamen.
-1. Con carácter general, el tipo de gravamen del impuesto sobre el depósito de residuos en vertederos, la incineración y la coincineración de residuos es el regulado en el artículo 93 de la Ley 7/2022, de 8 de abril, de residuos y suelos contaminados.
-2. En el caso de residuos domésticos o municipales que procedan de entes locales que no lleven a cabo la recogida selectiva de la fracción orgánica y el pago por generación de la fracción rechazo de los residuos municipales a que se refiere el artículo 9 de la Ley 8/2019, de 19 de febrero, de residuos y suelos contaminados de las Illes Balears, siempre que el ámbito territorial al que se encuentre adscrito el sujeto pasivo disponga de las correspondientes instalaciones de tratamiento de la fracción orgánica recogida selectivamente, los tipos de gravamen a que se refiere el artículo 93 de la Ley 7/2022 mencionada, se incrementarán un 1 % en el año 2023, un 15 % en el año 2024 y un 30 % en el año 2025 y siguientes.
-3. A los efectos de lo dispuesto en el apartado anterior, se considera que no se cumplen los requisitos de recogida selectiva de materia orgánica y pago por generación de la fracción rechazo de los residuos municipales y por tanto debe aplicarse el gravamen incrementado, cuando no se den las dos circunstancias a la vez y para la totalidad de la población de hecho del municipio, siempre que el ámbito territorial al que se encuentre adscrito el sujeto pasivo disponga de instalaciones de tratamiento de la fracción orgánica recogida selectivamente.
-Las respectivas ordenanzas municipales deben contemplar la aplicación de los sistemas de pago por generación, al menos, sobre la fracción de rechazo de los residuos municipales, de forma que favorezca al ciudadano que genera menos cantidad.
+(Derogado).
+Se deroga por la disposición derogatoria única.b) de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
+Téngase en cuenta con respecto al Régimen de las declaraciones liquidaciones del impuesto señalado correspondientes al cuarto trimestre de 2023, la disposición transitora primera de la citada ley.
 Se añade por la disposición final 4.24 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-2980

@@ -10,14 +10,14 @@ La tasa se exige de acuerdo con las siguientes tarifas:
 – Expedición de certificado que acredita el dominio de determinadas habilidades correspondientes a un nivel: 8,00 euros.
 - Matrícula en un curso presencial cuatrimestral de catalán: 71,13 €.
 2. Alumnos de enseñanza libre:
-– Apertura de expediente: 21,00 euros.
-– Certificado académico: 8,00 euros.
-– Traslado de expediente: 8,00 euros.
-– Servicios generales: 10,00 euros.
-– Derechos de examen de la prueba de certificación de un nivel: 40,00 euros. Los derechos de examen permiten presentarse a las convocatorias de junio y de septiembre del año en el que se pagan estos derechos.
-– Expedición de certificado que acredita el dominio de determinadas habilidades correspondientes a un nivel: 8,00 euros.
-– Derechos de examen de la prueba de certificación oficial del conocimiento de las lenguas para los alumnos de enseñanza de Educación Secundaria inscritos en el Programa EOIES: 22,19 euros.
-– Derechos de examen de la prueba de certificación oficial del conocimiento de las lenguas para los alumnos del Programa EOI-CEPA: 23,07.
+– Apertura de expediente: 24,40 euros.
+– Certificado académico: 9,29 euros.
+– Traslado de expediente: 9,29 euros.
+– Servicios generales: 11,62 euros.
+– Derechos de examen de la prueba de certificación de un nivel (los derechos de examen permiten presentarse a las convocatorias de junio y de septiembre del año en que se pagan estos derechos): 46,49 euros.
+– Expedición del certificado que acredita el dominio de determinadas habilidades correspondientes a un nivel: 9,29 euros.
+– Derechos de examen de la prueba de certificación oficial del conocimiento de las lenguas para los alumnos de enseñanza de Educación Secundaria inscritos en el Programa EOIES y para los alumnos del Programa EOICEPA-FP: 23,25 euros.
+Se modifica el apartado 2 por la disposición final 1.2 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
 Se añade el último párrafo del apartado 2 por la disposición final 1.5 de la Ley 19/2019, de 30 de diciembre. Ref. BOE-A-2020-850
 Se modifica el último inciso por la disposición final 2.9 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
 Se modifica el apartado 1 por la disposición final 4.14 de la Ley 8/2013, de 23 de diciembre. Ref. BOE-A-2014-656
