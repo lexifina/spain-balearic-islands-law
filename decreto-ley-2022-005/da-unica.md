@@ -58,5 +58,5 @@ El usuario tiene derecho al transporte gratuito del equipaje.
 Los vehículos de sustitución por avería deben estar provistos del aparato taxímetro y otros elementos obligatorios incluidos en las respectivas ordenanzas municipales.
 12. Régimen sancionador y colaboración
 12.1 El régimen sancionador aplicable se establece en los artículos 89, 90, 91, 94, 95 y 96 de la Ley 4/2014, de 20 de junio, de transportes terrestres y movilidad sostenible de las Illes Balears, sección 4a, capítulo 4t, relativa a las sanciones y al procedimiento sancionador, así como el artículo 141.16 de la Ley 16/1987, de 30 de julio, de ordenación de los transportes terrestres.
-12.2 Los ayuntamientos remitirán al Consejo Insular de Ibiza las denuncias que efectúe la policía local sobre titulares de una licencia de taxi de municipios distintos al propio, así como las que se apliquen en servicios que superan el ámbito municipal.
 Téngase en cuenta que esta disposición puede ser modificada por decreto publicado únicamente en el Boletín Oficial de las Illes Balears, conforme se establece en la disposición final 7 de la presente norma.
+Se deroga el punto 12.2 por la disposición derogatoria de la Ley 1/2024, de 16 de febrero. Ref. BOE-A-2024-5884
