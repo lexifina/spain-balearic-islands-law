@@ -1,0 +1,1 @@
+Esta norma pasa a denominarse "Decreto-ley 1/2020, de 17 de enero, por el turismo responsable y la mejora de la calidad en zonas turísticas", según establece el art. 2.1 del Decreto-ley 2/2024, de 10 de mayo. Ref. BOE-A-2024-13580
