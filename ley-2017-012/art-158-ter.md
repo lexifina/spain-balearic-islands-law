@@ -1,0 +1,4 @@
+Artículo 158 ter. Concepto de entidades privadas de certificación urbanística.
+1. Se consideran entidades privadas de certificación urbanística las personas jurídicas que, actuando bajo su responsabilidad, cumplen los requisitos establecidos en el artículo 158 septies de esta ley y están debidamente acreditadas por la Entidad Nacional de Acreditación (ENAC) como entidades de tipo A mediante el sistema previsto en la norma UNO-EN ISO/IEC 17020 y autorizadas por el consejo insular correspondiente en su ámbito de actuación.
+2. Las entidades privadas de certificación urbanística tienen que tener carácter técnico y personalidad jurídica propia, disponer de los medios materiales, personales y financieros necesarios para ejercer adecuadamente las funciones recogidas en el artículo siguiente, y constituir la garantía patrimonial que a este efecto se determina en esta ley.
+Se añade por el art. 54.18 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a5-6

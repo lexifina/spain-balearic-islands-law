@@ -1,3 +1,5 @@
 Disposición transitoria única. Régimen transitorio.
 1. Este Decreto Legislativo y el texto refundido que aprueba se aplica a todas las evaluaciones ambientales que se inicien a partir de su entrada en vigor.
 2. Las declaraciones de impacto ambiental publicadas con anterioridad a la entrada en vigor de la Ley 12/2016 pierden vigencia y cesan en la producción de los efectos propios si no se ha comenzado la ejecución del proyecto o la actividad dentro del plazo máximo de seis años desde la entrada en vigor de dicha ley. En este caso, el promotor debe iniciar nuevamente el trámite de evaluación ambiental del proyecto con arreglo a este texto refundido.
+3. Las previsiones normativas que contiene el artículo 21 bis se deben aplicar a las declaraciones de impacto ambiental y a los informes de impacto ambiental, así como a las modificaciones correspondientes, publicadas y vigentes el día 29 de mayo de 2024.
+Se añade el apartado 3 por el art. 36.18 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a3-8

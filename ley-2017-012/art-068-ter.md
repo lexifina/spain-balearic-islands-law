@@ -1,0 +1,4 @@
+Artículo 68 ter. Régimen excepcional aplicable directamente a las edificaciones afectadas por riesgo de inundación.
+1. En los casos en los que, en virtud de una autorización o un informe de la Administración hidráulica relacionado con la aplicación de los planes de riesgo de inundación o de los estudios elaborados o validados por la Administración mencionada, se establezca, como medida correctora, la necesidad de elevar la cota de la edificación, se tiene que compensar la eventual pérdida de edificabilidad con una mayor altura del edificio.
+2. Los ayuntamientos tienen que introducir en su planeamiento urbanístico las adaptaciones que hagan falta por razón de lo que se establece en el apartado anterior de este artículo, en el momento de la primera revisión o modificación que aprueben de este planeamiento.
+Se añade por el art. 54.7 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a5-6

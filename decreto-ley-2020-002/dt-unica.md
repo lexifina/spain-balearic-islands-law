@@ -1,2 +1,0 @@
-Disposición transitoria única. Proyectos aprobados.
-Los proyectos ya aprobados por el Consejo de Gobierno o por la Comisión Técnica cuando entre en vigor este Decreto Ley se consideran también como permitidos, pero quedan limitados a una ampliación de espacios máxima de un 10 % de la superficie actualmente empleada o de la aprobada en el proyecto, siempre que esta ampliación no supere las determinaciones de edificabilidad en la parcela previstas en el plan especial.
