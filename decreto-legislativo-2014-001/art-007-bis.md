@@ -1,4 +1,7 @@
 Artículo 7 bis. Deducción para el fomento de la autoocupación.
 Los contribuyentes que causen alta por primera vez en el Censo de Empresarios, Profesionales y Retenedores, previsto en el Real decreto 1065/2007, de 27 de julio, por el que se aprueba el Reglamento General de las actuaciones y los procedimientos de gestión e inspección tributaria y de desarrollo de las normas comunes de los procedimientos de aplicación de los tributos, podrán aplicar una deducción en la cuota íntegra del impuesto sobre la renta de las personas físicas de 1.000 euros.
 La deducción se practicará en el período impositivo en que se produzca el alta en el citado censo y serán requisitos necesarios para su aplicación que la actividad se desarrolle principalmente en el territorio de la comunidad autónoma de las Illes Balears y que el contribuyente se mantenga en este censo durante al menos un año desde el alta.
+En caso de tributación conjunta, la deducción mencionada en el párrafo anterior se aplicará íntegramente por cada uno de los miembros de la unidad familiar que, en su caso, generen el derecho en el mismo periodo impositivo.
+Para poder aplicarse esta deducción, la base imponible total del contribuyente no puede superar el importe de 33.000 euros en el caso de tributación individual y de 52.800 euros en el de tributación conjunta.
+Se añaden dos nuevos párrafos por la disposición final 11.5 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#df-11
 Se añade por la disposición final 2.11 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569

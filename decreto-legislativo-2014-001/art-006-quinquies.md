@@ -1,7 +1,16 @@
-Artículo 6 quinquies. Deducción por gastos relativos a los ascendentes mayores de sesenta y cinco años.
-1. Se establece una deducción del 40 %, con un límite de 3.600 euros, del importe anual satisfecho por los gastos derivados de la prestación de los siguientes servicios a ascendentes mayores de sesenta y cinco años:
-a) Estancias de ascendentes mayores de sesenta y cinco años en centros de día.
-b) Servicio de custodia, servicio de comedor y actividades de ascendentes mayores de sesenta y cinco años en los centros de día.
-c) Contratación laboral de una persona para cuidar del ascendente mayor de sesenta y cinco años.
-2. En el supuesto de deducción de los gastos de la contratación de una persona empleada, esta debe estar dada de alta en la Seguridad Social.
+Artículo 6 quinquies. Deducción por determinados gastos relativos a personas mayores de 65 años o a personas con discapacidad.
+1. Se establece una deducción en la cuota íntegra autonómica por la cuantía correspondiente al 40 %, con un límite de 660 euros, de los gastos satisfechos durante el ejercicio por razón de la prestación de los servicios siguientes al contribuyente o a cada uno de los ascendientes del contribuyente mayores en ambos casos de 65 años:
+a) Estancias en residencias o centros de día.
+b) Servicio de custodia, servicio de comedor y actividades en los centros de día.
+c) Contratación laboral de una persona para cuidar de la persona mayor de 65 años o con discapacidad.
+2. Para poder aplicar esta deducción se cumplirán los siguientes requisitos:
+a) La base imponible total del contribuyente no puede superar el importe de 33.000 euros en el caso de tributación individual y de 52.800 euros en el de tributación conjunta.
+b) El pago de los gastos que dan derecho a la deducción se hará mediante tarjeta de crédito o de débito, transferencia bancaria, cheque nominativo o ingreso en cuentas de entidades de crédito.
+c) En el caso de deducción de los gastos de la contratación laboral de una persona, esta tiene que estar dada de alta en la Seguridad Social.
+3. Los ascendientes a cargo a que hacen referencia los apartados anteriores tienen que darán lugar al derecho de los contribuyentes a aplicar el mínimo por ascendientes que prevé el artículo 59 de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas y modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio.
+Cuando, de acuerdo con el mencionado precepto legal, dos o más contribuyentes tengan derecho a aplicar esta deducción respecto de ascendientes comunes, cada uno de los contribuyentes se podrá aplicar la deducción íntegramente.
+4. La deducción regulada en este artículo también es aplicable a los contribuyentes con un grado de discapacidad reconocido del 33 % o superior o que tengan a cargo personas con un grado de discapacidad reconocido del 33 % o superior, siempre que se verifiquen los requisitos establecidos en las diversas letras de los apartados 1 y 2 y los contribuyentes tengan derecho a aplicar cualesquiera de los componentes del mínimo por discapacidad que prevé el artículo 60 de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas y modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio.
+5. Cuando dos contribuyentes tengan derecho a aplicar esta deducción respecto de descendientes comunes a su cargo y opten por la declaración individual, se prorrateará entre los contribuyentes por partes iguales.
+6. En todo caso, la deducción regulada en este artículo es incompatible con la deducción por gastos relativos a los descendientes o acogidos menores de seis años por motivos de conciliación regulada en el artículo 6 bis de este texto refundido.
+Se modifica por la disposición final 11.3 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#df-11
 Se añade por la disposición final 2.10 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569

@@ -1,0 +1,8 @@
+Artículo 6 sexties. Deducción por gastos derivados de la esclerosis lateral amiotrófica (ELA).
+1. Se establece una deducción en la cuota íntegra autonómica por la cuantía correspondiente al cien por cien de los gastos satisfechos durante el ejercicio derivados de la esclerosis lateral amiotrófica del contribuyente, o de los descendientes o de los ascendientes del contribuyente a cargo de este, con un límite máximo de 3.500 euros.
+A estos efectos, solo se pueden tener en cuenta los descendientes y los ascendientes del contribuyente que den derecho a aplicar el mínimo por descendientes o por ascendientes que regulan los artículos 58 y 59 de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas y modificación parcial de las leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio.
+2. En todo caso, la aplicación de esta deducción exige que la base imponible total no supere el importe de 84.480 euros en el caso de tributación conjunta y de 52.800 euros en el caso de tributación individual.
+3. Los gastos que dan derecho a la deducción se justificarán mediante las facturas o los documentos equivalentes correspondientes, que se mantendrán a disposición de la administración tributaria.
+4. No se integran en la base de esta deducción las primas de seguros de salud ni el resto de gastos que no lleven causa de la esclerosis lateral amiotrófica.
+Sin perjuicio de lo anterior, esta deducción es compatible con la deducción regulada en el artículo 6 quinquies de este texto refundido respecto de determinados gastos relativos a personas mayores de 65 años o a personas con discapacidad.
+Se añade por la disposición final 11.4 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#df-11
