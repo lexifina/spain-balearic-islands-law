@@ -1,3 +1,4 @@
 Disposición adicional decimonovena. Modificación de los sistemas de constitución de las bolsas.
 Se faculta a cada una de las administraciones adheridas a la Mesa de Negociación de las Administraciones Públicas de las Illes Balears para Reducir la Temporalidad en el Empleo Público, con la negociación sindical previa en su ámbito respectivo, a aprobar mediante un acuerdo del órgano competente una modificación de los sistemas de constitución de las bolsas previstas en las bases reguladoras de las correspondientes convocatorias que regulan el proceso de estabilización por concurso oposición para cubrir plazas de personal funcionario y plazas de personal laboral.
+Se modifica por el art. 41.2 de Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a4-3
 Se añade por el art. 41.1 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a4-3

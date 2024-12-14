@@ -1,0 +1,3 @@
+Disposición adicional vigesimotercera. Especificidades para la mejora energética de los edificios de viviendas.
+Para favorecer la mejora energética de los edificios de viviendas con una antigüedad superior a treinta años, siempre y cuando no estén en situación de fuera de ordenación, quedan excluidos del cumplimiento de parámetros urbanísticos municipales, establecidos en el planeamiento municipal, los proyectos de mejora energética ejecutados con el Sistema de Aislamiento Térmico Exterior, únicamente en lo que hace referencia al conjunto de materiales aislantes, adhesivos y morteros para el exterior de la fachada a partir de la primera planta.
+Se añade por el art. 54.33 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a5-6

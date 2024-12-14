@@ -4,17 +4,18 @@ a) Cumplir y mantener vigentes los requisitos que sirvieron de base para su auto
 b) Cumplir adecuadamente las funciones de emisión de certificados de conformidad urbanística.
 c) Garantizar la confidencialidad de la información que obtengan en el ejercicio de sus funciones y cumplir la normativa de aplicación en materia de protección de datos de carácter personal.
 d) No subcontratar actuaciones vinculadas al ejercicio de sus funciones de acuerdo con el certificado de acreditación.
-e) Entregar una copia de todos los certificados que emitan, así como cualquier otra información que les sea requerida, a la Administración o al órgano competente en materia de autorización.
+e) Entregar una copia de todos los certificados que emitan, así como cualquier otra información que les sea requerida, a la administración o al órgano competente en materia de autorización.
 f) Disponer de procedimientos específicos para tratar las reclamaciones que presenten los clientes por sus actividades, así como contar con un archivo de todas las actuaciones que estén relacionadas.
 g) Tarifar las actuaciones respetando el límite mínimo y máximo y el régimen de pago fijado para el consejo insular respectivo.
 h) Registrar y conservar durante un periodo de siete años los expedientes tramitados y los certificados emitidos.
 i) Permitir el acceso a las instalaciones y las oficinas a la entidad de acreditación y al personal competente del consejo insular.
-j) Dar una información correcta a los ciudadanos en general, y en particular a los clientes, sobre sus funciones, así como de la prestación de los servicios como entidad privada de certificación. En concreto, las entidades tienen que informar a las personas interesadas, de forma individualizada, sobre las siguientes cuestiones:
-1.ª El régimen de intervención administrativa al que se encuentra sujeta la actuación pretendida, tramitación que, si procede, corresponde y plazos legales.
-2.ª La documentación que tiene que aportar con carácter general, y la documentación, si procede, específica determinante para justificar pretensiones basadas en situaciones precedentes, o la documentación de que tenga que disponer para hacer la actuación urbanística pretendida.
+j) Dar una información correcta a los ciudadanos en general, y en particular a los clientes, sobre sus funciones, así como de la prestación de los servicios como entidad privada de certificación. En concreto, las entidades informarán a las personas interesadas, de forma individualizada, sobre las siguientes cuestiones:
+1.ª El régimen de intervención administrativa al que se encuentra sujeta la actuación pretendida, la tramitación que, si procede, corresponde y los plazos legales.
+2.ª La documentación que aportará con carácter general, y la documentación, si procede, específica determinante para justificar pretensiones basadas en situaciones precedentes, o la documentación de que tenga que disponer para hacer la actuación urbanística pretendida.
 3.ª La existencia, si es el caso, de exigencias técnicas determinantes que hagan inviable la actuación y el marco normativo aplicable.
 4.ª Los precios, las tasas y los impuestos, así como la forma, el momento y la cuantía del pago.
 5.ª El procedimiento para presentar quejas y reclamaciones.
 6.ª El acceso electrónico, si procede, a la información sobre el estado de la tramitación de la solicitud.
 k) Cualquier otra que sea impuesta por la normativa sectorial que les sea aplicable.
+Se modifica por el art. 54.24 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a5-6
 Se añade por el art. 54.18 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a5-6

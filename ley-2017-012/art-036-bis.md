@@ -1,7 +1,8 @@
-Artículo 36 bis. El plan general en municipios de hasta 10.000 habitantes.
-1. Los municipios con una población de hasta 10.000 habitantes pueden formular y aprobar inicial y provisionalmente un único plan general que incluya la ordenación urbanística tanto estructural como detallada en los términos de los apartados siguientes, sin necesidad de disponer de un plan de ordenación detallada.
+Artículo 36 bis. El plan general en municipios de hasta 30.000 habitantes.
+1. Los municipios con una población de hasta 30.000 habitantes pueden formular y aprobar inicial y provisionalmente un único plan general que incluya la ordenación urbanística tanto estructural como detallada en los términos de los apartados siguientes, sin necesidad de disponer de un plan de ordenación detallada.
 2. En el suelo urbano y en el suelo rústico, el plan general único establece las determinaciones de carácter estructural que regula el artículo 37 de esta ley para los planes generales y las determinaciones que regulan los apartados 1 y 3 del artículo 42 para los planes de ordenación detallada.
 3. Si prevé ámbitos de suelo urbanizable, el plan general único puede optar bien para establecer únicamente las determinaciones de carácter estructural que para esta clase de suelo prevé el artículo 37 de esta ley, y diferir en este caso la regulación detallada en el plan parcial de cada sector, bien para incluir acumulativamente la regulación urbanística detallada de los sectores que estime conveniente.
 4. El plan general a que se refiere este artículo contiene las determinaciones urbanísticas y está integrado por la documentación que prevén los artículos 34 a 42 de esta ley, con las modulaciones o adaptaciones necesarias que deriven de su objeto y finalidad.
 Las reglas de formulación, tramitación y aprobación definitiva son las previstas en esta ley para los planes generales municipales.
+Se modifica por el art. 54.4 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a5-6
 Se añade por el art. 54.3 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a5-6

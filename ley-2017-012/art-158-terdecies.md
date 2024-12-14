@@ -1,6 +1,7 @@
-Artículo 158 terdecies. Fijación de precios y publicidad.
-1. Las entidades privadas de certificación urbanística tienen que fijar anualmente los precios que tienen que percibir por el ejercicio de sus funciones.
-Estos precios se tienen que comunicar al órgano competente en materia de urbanismo del consejo insular respectivo que se determine según el Reglamento orgánico, con una antelación mínima de dos meses a la finalización del año natural anterior, para publicarlos en el "Boletín Oficial de las Illes Balears".
-2. El órgano del consejo insular respectivo que se determine de acuerdo con el Reglamento orgánico tiene que establecer y actualizar anualmente el importe mínimo y máximo de los precios a que hace referencia el apartado 1, en función de los costes del servicio y de su evolución.
-El importe máximo de los precios y el régimen de pago se tienen que fijar el tercer trimestre del año natural anterior a su aplicación.
+Artículo 158 terdecies. Fijación de precios.
+1. Las entidades privadas de certificación urbanística fijarán anualmente los precios a percibir por el ejercicio de sus funciones.
+Estos precios se comunicarán al órgano competente en materia de urbanismo del consejo insular respectivo que se determine de acuerdo con las normas de organización correspondientes, con una antelación mínima de dos meses a la finalización del año natural anterior.
+2. El órgano del consejo insular respectivo que se determine de acuerdo con las normas de organización correspondientes puede establecer un importe mínimo y máximo de los precios a que hace referencia el apartado 1 anterior, en función de los costes del servicio y de su evolución.
+En este caso, estos importes y el régimen de pago se fijarán el tercer trimestre del año natural anterior a su aplicación y se publicarán en el "Butlletí Oficial de les Illes Balears".
+Se modifica por el art. 54.24 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720#a5-6
 Se añade por el art. 54.18 del Decreto-ley 3/2024, de 24 de mayo. Ref. BOE-A-2024-16940#a5-6

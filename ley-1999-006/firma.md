@@ -4,8 +4,8 @@ MIGUEL RAMIS SOCIAS, | JAUME MATAS I PALOU,
 Consejero de Medio Ambiente, Ordenación del Territorio i Litoral | Presidente
 ANEXO I
 Matriz de ordenación del suelo rústico
- | Sector primari | Sector secundari | Equipaments | Altres
-Actividades extensivas | Actividades intensives | Activitats complementàries | Industria transformación agraria | Industria general | Sin construcción | Resto equipamientos | Actividades extractivas | Infraestructuras | Vivienda unifamiliar aislada | Protecció n y educación ambiental
+ | Sector primario | Sector secundario | Equipamientos | Otros
+Actividades extensivas | Actividades intensivas | Actividades complementarias | Industria transformación agraria | Industria general | Sin construcción | Resto de equipamientos | Actividades extractivas | Infraestructuras | Vivienda unifamiliar aislada | Protección y educación ambiental
 Transformación y venta directa de los productos de la propia explotación agraria | Resto de actividades complementarias
 AANP | 1 | 2 | 2-3 | 2-3 | 2-3 | 3 | 2-3 | 3 | 3 | 2-3 | 3 | 2
 ANEI | 1 | 2 | 2 | 2 | 2-3 | 3 | 2 | 3 | 2-3 | 2 | 3 | 1
@@ -28,27 +28,27 @@ AT. Área de Transición.
 SRG. Suelo Rústico de Régimen General.
 Regulación de los usos:
 1. Admitido sin perjuicio del cumplimiento de la normativa específica.
-2. Condicionado según establece el Plan Territorial Insular. (2).
-2-3 Prohibido con las excepciones que establece el Plan Territorial Insular. En el caso de vivienda unifamiliar aislada se entenderá que el uso es condicionado hasta que el Plan Territorial Insular establezca las excepciones correspondientes (2).
+2. Condicionado según establece el Plan Territorial Insular. (2)
+2-3 Prohibido con las excepciones que establece el Plan Territorial Insular. En el caso de vivienda unifamiliar aislada se entenderá que el uso es condicionado hasta que el Plan Territorial Insular establezca las excepciones correspondientes. (2)
 3. Prohibido.
 Las determinaciones de los usos de esta matriz tienen el carácter de nivel de protección mínima del suelo rústico, y se pueden incrementar por los instrumentos de ordenación territorial y de planeamiento urbanístico.
 Normas específicas:
 (1) Los usos ubicados en las áreas de prevención de riesgos solo se pueden autorizar con el informe previo favorable de la administración competente en materia de medio ambiente. Quedan exceptuados del citado informe preceptivo las APR de erosión y las de contaminación o vulnerabilidad de acuíferos.
 A efectos de la autorización de nuevas viviendas en suelo rústico en APR, la parcela mínima será la correspondiente a la calificación del suelo rústico subyacente, y si no fuera conocida, la correspondiente al suelo rústico colindante. Si fueran varias las calificaciones de suelos rústicos colindantes, se aplicará la más restrictiva.
 Asimismo:
-a) En las áreas de prevención de riesgos de incendios, cuando se destinen a usos o actividades que supongan viviendas deberán incorporar medidas de seguridad vial para garantizar el acceso de personas y vehículos, depósitos de aguas para una primera situación de emergencia, así como actuaciones en la vegetación en un radio de 30 metros alrededor de las edificaciones para reducir la carga de combustible, y se les aplicará el régimen de usos previstos a la categoría de suelo que se correspondería en ausencia de este riesgo de incendio.
+a) En las áreas de prevención de riesgos de incendios, cuando se destinen a usos o actividades que supongan viviendas, deberán incorporar medidas de seguridad vial para garantizar el acceso de personas y vehículos, depósitos de aguas para una primera situación de emergencia, así como actuaciones en la vegetación en un radio de 30 metros alrededor de las edificaciones para reducir la carga de combustible, y se les aplicará el régimen de usos previstos a la categoría de suelo que se correspondería en ausencia de este riesgo de incendio.
 b) En las áreas de prevención de riesgos de erosión:
 a. Se deberán estabilizar los taludes de excavación mediante muros de contención o bancales.
 b. Los bancales y paredes secas, existentes o de nueva creación, se deberán mantener en buen estado de conservación.
 c. La deforestación deberá ser la estrictamente necesaria para la ejecución de la obra.
 c) En las áreas de prevención de riesgos de vulnerabilidad de acuíferos:
-a. El sistema de tratamiento de las aguas residuales deberá cumplir con lo establecido en el Plan Hidrológico de las Islas Baleares.
+a. El sistema de tratamiento de las aguas residuales deberá cumplir con lo establecido en el Plan Hidrológico de las Illes Balears.
 b. Durante la ejecución de las obras se deberán adoptar las máximas precauciones para evitar el vertido de substancias contaminantes, incluidas las derivadas del mantenimiento de las maquinarias.
 Para la autorización de usos, obras o actividades del sector primario se atenderá a la regulación de usos del suelo subyacente, sin perjuicio de tener que disponer, en su caso, de un informe favorable o la autorización de la administración competente a efectos de prevenir el riesgo.
-(2) A los efectos de la aplicación transitoria de esta Matriz, en relación al sector primario, se entienden incluidos los usos a que se refiere la Ley 12/2014, de 16 de diciembre, agraria de las Islas Baleares así como la Ley 19/1995, de 4 de julio, de modernización de las explotaciones agrarias, aunque no estén previstos en los instrumentos de planeamiento general.
-(3) El uso condicionado en el sector primario, excepto la columna «resto de actividades complementarias», sólo afectará a los proyectos que supongan nuevas construcciones o ampliación de las existentes, y los cambios de uso cuando el uso autorizado y lo que se propone no se encuentren, ambos, incluidos en las columnas afectadas por esta norma específica. A estos efectos, la legalización de edificios en situación de fuera de ordenación se equipara al supuesto de nuevas construcciones. El resto de actuaciones tendrán la consideración de usos admitidos.
+(2) A los efectos de la aplicación transitoria de esta matriz, en relación al sector primario, se entienden incluidos los usos a los que se refiere la Ley 12/2014, de 16 de diciembre, agraria de las Illes Balears, así como la Ley 19/1995, de 4 de julio, de modernización de las explotaciones agrarias, aunque no estén previstos en los instrumentos de planeamiento general.
+(3) El uso condicionado en el sector primario, excepto la columna «resto de actividades complementarias», solo afectará a los proyectos que supongan nuevas construcciones o ampliación de las existentes, y los cambios de uso cuando el uso autorizado y lo que se propone no se encuentren, ambos, incluidos en las columnas afectadas por esta norma específica. A estos efectos, la legalización de edificios en situación de fuera de ordenación se equipara al supuesto de nuevas construcciones. El resto de actuaciones tendrán la consideración de usos admitidos.
 Los instrumentos de ordenación específica para cada categoría de suelo, de conformidad con la Ley agraria, podrán determinar el carácter de uso admitido, condicionado o prohibido de los usos agrarios del sector primario, con preferencia sobre aquello previsto en esta matriz o en las de los planes territoriales insulares.
-(4) En las zonas de alto valor agrario, incluidas, por lo tanto, las AIA, el uso de vivienda unifamiliar aislada sólo será autorizable cuando la vivienda sea anexa a explotación agraria.
+(4) En las zonas de alto valor agrario, incluidas, por lo tanto, las AIA, el uso de vivienda unifamiliar aislada solo será autorizable cuando la vivienda sea anexa a explotación agraria.
 DEFINICIÓN DE LAS ACTIVIDADES REGULADAS EN LA MATRIZ DE ORDENACIÓN DEL SUELO RÚSTICO
 A) Protección y educación ambiental
 Son las actividades propias de la protección y la educación ambiental.
@@ -104,6 +104,7 @@ a) Que se ubiquen en edificaciones existentes que se hubieran destinado a la act
 b) Que no se emplacen en ANEI de alto nivel de protección ni en Área de Prevención de Riesgo de Inundación.
 c) Que sean gestionados por administraciones públicas o entidades sin ánimo de lucro y estén destinados a la realización de actividades de tiempo libre educativo para niños, niñas y jóvenes, con el fin de facilitar la convivencia, el alojamiento, la formación o la utilización adecuada del tiempo libre. En el caso de las entidades sin ánimo de lucro, se tendrá que contar con el reconocimiento de una administración pública con competencias en materia de infancia, juventud, tiempo libre educativo, servicios sociales o medio ambiente, para llevar a cabo el servicio de tiempo libre educativo o de educación ambiental. Esta administración tendrá que inscribir la instalación en el censo que corresponda y se hará responsable de regular y velar por el cumplimiento de las condiciones de ejercicio, sin perjuicio de las competencias concurrentes.
 La consideración del uso admitido en ningún caso puede suponer la construcción de nuevas edificaciones ni la ampliación de las existentes. Únicamente se podrán llevar a cabo las actuaciones de mantenimiento y mejora imprescindibles para adecuar las instalaciones a las exigencias propias de la legislación sectorial que les afecte, quedando sometidas en cualquier caso a intervención administrativa preventiva a través de los instrumentos de la licencia urbanística o comunicación previa, según corresponda.
+Se modifica la matriz por la disposición final 12 de la Ley 7/2024, de 11 de diciembre, Ref. BOE-A-2025-720#df-12 y el art. 12 del Decreto-ley 5/2024, de 13 de diciembre, Ref. BOE-A-2025-721, publicados, respectivamente, en los BOIB núm. 162 y núm. 163, el día 13 de diciembre de 2024.
 Se modifica el apartado G) de la definición por la disposición final 4 de la Ley 10/2022, de 23 de diciembre. Ref. BOE-A-2023-2979#df-4
 Se modifica por la disposición final 1.2 de la Ley 3/2019, de 31 de enero. Ref. BOE-A-2019-3911#df
 Se modifica el apartado G) de la definición por la disposición adicional 17 de la Ley 5/2018, de 19 de junio. Ref. BOE-A-2018-9774#da-17
