@@ -2,14 +2,6 @@ Por tanto, ordeno que todos los ciudadanos guarden esta Ley y que los Tribunales
 Palma, 17 de mayo de 2002.–El Consejero de Economía, Comercio e Industria, Pere Sampol i Mas.–El Presidente, Francesc Antich i Oliver.
 ANEXO
 Denominación del fichero: Registro de población de las Illes Balears
-a) Descripción: este fichero contiene los datos personales de nombre, apellidos, domicilio, sexo y fecha de nacimiento, agregados territorialmente por islas, que constan en los padrones municipales de habitantes y en el censo electoral, obtenidos de los ficheros del Instituto Nacional de Estadística. Igualmente se considerarán, si procede, los datos correspondientes a dispositivos electrónicos o a la dirección electrónica.
-b) Finalidad y usos previstos: comunicación de los órganos de la Administración del Gobierno de las Illes Balears, de los consejos insulares y de otras administraciones públicas, con los titulares de los datos con residencia en las Illes Balears, en el marco de las relaciones jurídico-públicas derivadas del ejercicio de sus competencias, para aquellos asuntos en los que la residencia o el domicilio sean datos relevantes, de conformidad con el apartado 2 de la disposición adicional segunda de la Ley Orgánica 15/1999, de 13 de diciembre, de protección de datos de carácter personal.
-c) Personas o colectivos sobre los que se pretende obtener datos: residentes inscritos en los padrones municipales de habitantes de todos los ayuntamientos de las Illes Balears y del censo electoral.
-d) Procedencia de los datos: Instituto Nacional de Estadística.
-e) Procedimiento de recogida de datos: transferencia de datos a través de ficheros mediante la entrega periódica de copias actualizadas que el Instituto Nacional de Estadística hará al Instituto de Estadística de las Illes Balears.
-f) Estructura básica del fichero y tipo de datos: datos actualizados, como mínimo, a 1 de enero de cada año de los vecinos y vecinas inscritos en los padrones municipales de habitantes y en el censo electoral con la siguiente información: apellidos, nombre, domicilio, sexo y fecha de nacimiento.
-g) Cesión de datos y previsión de transferencias de datos a terceros países: se ceden a los órganos de la Administración del Gobierno de las Illes Balears, de los consejos insulares y de otras administraciones públicas de las Illes Balears que lo soliciten, cuando les sean necesarios para ejercer sus competencias y exclusivamente para asuntos en los que la residencia o el domicilio sean datos relevantes, de acuerdo con lo que se pueda establecer en normas de rango de ley; no se prevén transferencias internacionales.
-h) Órgano administrativo responsable: Instituto de Estadística de las Illes Balears.
-i) Los derechos de acceso, rectificación, cancelación y oposición en relación con los datos que consten en el Registro: pueden ejercerse ante el responsable del fichero, que es el IBESTAT.
-j) Medidas de seguridad y nivel exigible: las de nivel básico.
+(Derogado)
+Se deroga por la disposición derogatoria única.d) de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
 Se añade por el art. único.16 de la Ley 5/2017, de 25 de julio. Ref. BOE-A-2017-10496
