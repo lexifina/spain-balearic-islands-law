@@ -1,0 +1,4 @@
+Artículo 20 bis. Particularidades de la evaluación ambiental estratégica de los proyectos residenciales estratégicos.
+Los proyectos residenciales estratégicos estarán sometidos a evaluación ambiental estratégica simplificada. No obstante, dado que estos proyectos incluyen tanto la parte de planificación como la parte de proyecto, con la evaluación ambiental estratégica se evaluarán conjuntamente también los aspectos propios del proyecto.
+A estos efectos, el contenido del documento ambiental que deberá elaborar el promotor, además de la información especificada en el artículo 29.1 de la Ley 21/2013, de 9 de diciembre, de evaluación ambiental, deberá incorporar también el contenido especificado en el artículo 45.1 de dicha ley.
+Se añade por la disposición adicional 1 del Decreto-ley 3/2025, de 14 de marzo. Ref. BOE-A-2025-10211
