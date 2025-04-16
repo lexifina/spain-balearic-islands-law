@@ -1,0 +1,4 @@
+Artículo 114 bis. Colaboración interadministrativa en las tareas de inspección turística.
+Las administraciones turísticas insulares competentes pueden subscribir los instrumentos jurídicos adecuados con la Administración del Estado o los ayuntamientos de su ámbito insular para que la Policía Nacional, la Guardia Civil o la Policía Local puedan colaborar materialmente en las tareas de inspección turística.
+En el marco de los referidos instrumentos, se tiene que incluir una referencia específica al intercambio de información entre las administraciones que conduzca a la detección de conductas ilícitas y a la identificación de los responsables, a los únicos efectos de incorporar estos datos a los expedientes sancionadores que se tramiten por presunta infracción de la normativa turística.
+Se añaden por el art. 2.10 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462

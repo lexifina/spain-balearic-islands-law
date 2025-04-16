@@ -1,6 +1,9 @@
-Disposición adicional decimocuarta.
-En caso de que las personas titulares de los establecimientos turísticos que hubieran adquirido las plazas turísticas de manera onerosa, los quieran dar de baja definitiva de manera voluntaria y tengan intención de transmitir las plazas turísticas a un tercero, tienen que comunicar, como mínimo veinte días antes de la baja, esta intención a la administración turística, periodo durante el cual esta o el organismo gestor de plazas puede ejercer el derecho de tanteo.
-Asimismo, la administración tiene el plazo de treinta días para ejercer el derecho de retracto sobre la venta, desde el momento de la obligada comunicación de la baja definitiva.
-Sin baja definitiva, la transmisión de plazas no tiene virtualidad a los efectos de la administración turística.
+Disposición adicional decimocuarta. Transmisión de plazas turísticas.
+1. En el caso de que las personas propietarias de los establecimientos turísticos, sean alojamientos turísticos, o sean viviendas objeto de comercialización turística, que hayan adquirido las plazas turísticas de manera onerosa y no provisional, quieran darlas de baja definitiva de manera voluntaria y tengan intención de transmitir las plazas turísticas a una tercera persona, tienen que comunicarlo a la Administración turística en el momento de proceder a la baja.
+La nueva persona propietaria de las plazas dispondrá del plazo de tres meses des de la fecha de la citada baja para presentar a la Administración turística el documento acreditativo de la adquisición.
+El periodo máximo para presentar declaraciones responsables de inicio de actividad o comunicaciones de ampliación para hacer uso de estas plazas ha de ser de tres años cuando se refiera a un establecimiento de alojamiento turístico o de seis meses cuando se refiera a una vivienda comercializada turísticamente, computado desde la baja definitiva.
+2. En el caso de transmisión de plazas entre viviendas de un mismo propietario, este debe comunicar este supuesto a la administración turística en el momento de proceder a la baja definitiva, y dispondrá de seis meses para presentar la nueva declaración responsable de inicio de actividad turística, que deberá respetar la normativa vigente.
+3. En caso de que no se cumplan estos plazos, salvo causa justificada no imputable al interesado, las plazas pasarán a integrar las bolsas de plazas, de conformidad con lo que dispone el artículo 91.
+Se modifica por el art. 2.23 del Decreto-ley 4/2025, de 11 de abril. Ref. BOE-A-2025-14462
 Se modifica por el art. 1.13 de la Ley 6/2018, de 22 de junio. Ref. BOE-A-2018-9775
 Se modifica por el art. único.29 de la Ley 6/2017, de 31 de julio. Ref. BOE-A-2017-10539
