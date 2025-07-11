@@ -1,0 +1,2 @@
+Disposición transitoria única. Funciones ejecutivas.
+Las funciones ejecutivas atribuidas en esta ley al Gobierno o a la Administración de la comunidad autónoma de las Illes Balears se entenderán referidas a los respectivos consejos insulares una vez aprobados los correspondientes decretos de traspaso a que se refiere el artículo 70 del Estatuto de Autonomía de las Illes Balears, siempre que no hayan sido objeto de reserva en el marco de lo que disponen los artículos 69 y 72.2 del mismo Estatuto.
