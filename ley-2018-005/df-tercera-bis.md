@@ -1,0 +1,3 @@
+Disposición final tercera bis.
+En las promociones de viviendas sujetas a algún régimen de protección pública, tanto de titularidad pública como privada, en las que sea necesaria la construcción de más de una planta sótano para cumplir con la reserva mínima obligatoria de aparcamiento para uso residencial exigida por el planeamiento, el ayuntamiento podrá exonerar la necesidad de ejecución de más de una planta sótano, por razones de viabilidad económica, naturaleza del subsuelo u otras que debidamente queden justificadas, habiendo en todo caso de destinar el mayor número de plazas de aparcamiento que sea posible en esta única planta.
+Se añade por la disposición final 6.4 de la Ley 4/2025, de 18 de julio. Ref. BOE-A-2025-22026#df-6
