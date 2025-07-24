@@ -1,0 +1,35 @@
+Disposición final decimoséptima. Modificación de la Ley 3/2007, de 27 de marzo, de la función pública de la comunidad autónoma de las Illes Balears.
+1. La letra d) del artículo 30 de la Ley 3/2007, de 27 de marzo, de la función pública de la comunidad autónoma de las Illes Balears, queda modificada de la siguiente manera:
+«d) Nivel exigido de conocimiento de la lengua catalana, en los términos establecidos reglamentariamente.
+Se exceptúa de esta exigencia al personal estatutario y laboral sanitario del Servicio de Salud de las Illes Balears y de los entes públicos adscritos a este servicio, cuyo requisito de acceso sea una titulación de la rama sanitaria. Respecto a este personal, el conocimiento de la lengua catalana no tendrá en ningún caso el carácter o la condición de requisito para el ingreso, la provisión o la ocupación de puestos de trabajo o desempeño de funciones en aquel servicio o en los entes públicos adscritos al mismo. Así, en relación con este personal, el conocimiento de la lengua catalana tendrá la condición de mérito, en los términos que se determinen reglamentariamente.»
+2. La letra f) del apartado 1 del artículo 50 de la citada Ley 3/2007 queda modificada de la siguiente manera:
+«f) Acreditar el conocimiento de la lengua catalana que se determine reglamentariamente, respetando el principio de proporcionalidad y adecuación entre el nivel de exigencia y las funciones correspondientes, y sin perjuicio de lo que dispone la letra d) del artículo 30 de esta ley.»
+3. La letra b) del apartado 1 del artículo 80 de la citada Ley 3/2007 queda modificada de la siguiente manera:
+«b) Los requisitos exigidos para su ocupación, incluido el nivel de conocimientos de la lengua catalana, en su caso.»
+4. El apartado 3 del artículo 96 de la citada Ley 3/2007 queda modificado de la siguiente manera:
+«3. El personal funcionario a que se refiere el apartado anterior que no pueda acreditar el nivel mínimo exigido de conocimiento de la lengua catalana quedará obligado a conseguirlo y acreditarlo en los términos que se establezcan reglamentariamente.»
+5. El apartado 2 del artículo 113 de la citada Ley 3/2007 queda modificado de la siguiente manera:
+«2. El reingreso podrá efectuarse por adjudicación de un puesto de trabajo con carácter provisional, condicionado a las necesidades del servicio y en los términos que se establezcan reglamentariamente, siempre y cuando la persona interesada cumpla con los requisitos de ocupación del puesto, salvo, en su caso, el nivel de conocimientos de la lengua catalana del puesto de trabajo.»
+6. La disposición adicional decimocuarta de la citada Ley 3/2007 queda modificada de la siguiente manera:
+«Disposición adicional decimocuarta. Capacitación lingüística para el reingreso en adscripción provisional del personal funcionario de carrera.
+Para el reingreso en adscripción provisional, el personal funcionario de carrera que no tenga reserva de un puesto de trabajo, previsto en el artículo 113.2 de esta ley, deberá acreditar el nivel de conocimiento de la lengua catalana exigido en el momento del ingreso al cuerpo, escala o especialidad en el que reingrese.»
+7. La disposición adicional decimoquinta de la citada Ley 3/2007 queda modificada de la siguiente manera:
+«Disposición adicional decimoquinta. Conocimientos de lengua catalana del personal estatutario de gestión y servicios del Servicio de Salud de las Illes Balears y del personal laboral no sanitario de los entes públicos adscritos a este servicio.
+1. El conocimiento de la lengua catalana será un requisito para acceder a la condición de personal estatutario y laboral no sanitario del Servicio de Salud de las Illes Balears y de los entes adscritos a este servicio.
+Así mismo, será un requisito exigible para ocupar plazas en puestos de trabajo en estos organismos.
+De acuerdo con ello, para el ingreso y la ocupación de las plazas y los puestos de trabajo del Servicio de Salud o de sus entes adscritos, este personal deberá acreditar los siguientes conocimientos de la lengua catalana:
+a) Personal estatutario de gestión y servicios:
+Grupo | Conocimientos de lengua catalana
+A1 | B2
+A2 | B2
+C1 | B2
+C2 | B1
+Agrupaciones profesionales | A2
+Con carácter particular, las normas de creación de categorías profesionales de personal estatutario de gestión y servicios podrán establecer como requisito para el ingreso y la ocupación un nivel de conocimientos de la lengua catalana superior a los establecidos con carácter general en este apartado cuando las características especiales de sus funciones así lo demanden.
+b) Respecto al personal laboral no sanitario del Servicio de Salud de las Illes Balears y de los entes públicos adscritos a este servicio, los niveles de conocimientos de la lengua catalana exigibles serán los establecidos en la normativa de la Administración de la comunidad autónoma de las Illes Balears que resulte de aplicación al personal laboral de esta administración.
+2. La acreditación de niveles de conocimientos de la lengua catalana superiores a los exigidos en el apartado anterior será mérito de necesaria consideración, de conformidad con el baremo que se establezca en las bases y en las convocatorias de todos los procedimientos de selección y provisión.
+3. Excepcionalmente, cuando la prestación del servicio pueda resultar afectada por la carencia o insuficiencia de profesionales, las convocatorias de selección y movilidad de determinadas categorías de personal estatutario o laboral podrán eximir de los requisitos de conocimientos de la lengua catalana exigidos por esta disposición, oído el órgano competente en materia de planificación de recursos humanos del Servicio de Salud de las Illes Balears o de la entidad correspondiente, que emitirá un informe preceptivo sobre la vigencia y la extensión de la citada exención.»
+8. La disposición transitoria novena de la citada Ley 3/2007 queda modificada de la siguiente manera:
+«Disposición transitoria novena. Previsiones específicas para la acreditación de la capacitación lingüística en los procedimientos de movilidad.
+1. El personal estatutario fijo de gestión y servicios que no proceda del Servicio de Salud de las Illes Balears y que participe en un procedimiento de movilidad, si no puede acreditar el nivel de conocimientos de la lengua catalana correspondiente a la plaza o puesto de trabajo al que opte, quedará obligado a obtenerlo y acreditarlo en un plazo máximo de dos años a contar a partir de la fecha de ocupación de la plaza o puesto de trabajo en el Servicio de Salud de las Illes Balears.
+2. Igualmente, el personal estatutario de gestión y servicios que se vea obligado a participar en un proceso de movilidad, por encontrarse en situación de reingreso provisional, si no puede acreditar el nivel mínimo de conocimientos de la lengua catalana que se regula en esta ley, quedará obligado a obtenerlo y acreditarlo en un plazo máximo de dos años a contar a partir de la fecha en que ocupe la plaza o puesto de trabajo en el Servicio de Salud de las Illes Balears.»

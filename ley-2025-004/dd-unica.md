@@ -1,0 +1,8 @@
+Disposición derogatoria única. Normas que se derogan.
+1. Quedan derogadas todas las disposiciones de igual o inferior rango que se opongan, contradigan o resulten incompatibles con lo que dispone esta ley y, concretamente:
+a) La letra c) del apartado 4 del artículo 12 del texto refundido de la Ley de evaluación ambiental de las Illes Balears, aprobado por el Decreto legislativo 1/2020, de 28 de agosto.
+b) El artículo 7 del Decreto ley 5/2024, de 13 de diciembre, por el que se modifican varias normas del ordenamiento jurídico de las Illes Balears en materia de espacios naturales, fomento, agricultura, educación, ocupación pública, turismo, urbanismo y vivienda.
+c) La letra d) de la disposición derogatoria única del Decreto ley 5/2024, de 13 de diciembre, por el que se modifican varias normas del ordenamiento jurídico de las Illes Balears en materia de espacios naturales, fomento, agricultura, educación, ocupación pública, turismo, urbanismo y vivienda.
+d) Las disposiciones finales primera y segunda del Decreto ley 5/2025, de 16 de mayo, de medidas extraordinarias y urgentes en materia de capitalidad de Palma e Eivissa, de Menorca Reserva de Biosfera y de transporte interinsular de residuos de Formentera a Eivissa.
+e) Las disposiciones finales cuarta y quinta de la Ley 2/2025, de 18 de junio, de medidas urgentes para la protección de las personas y el medio natural en el ámbito de la comunidad autónoma de las Illes Balears en cuanto a determinadas explotaciones ganaderas intensivas de aves de corral.
+2. Queda derogado el Decreto ley 3/2025, de 14 de marzo, de actuaciones urgentes destinadas a la obtención de suelo mediante proyectos residenciales estratégicos en el municipio de Palma.
