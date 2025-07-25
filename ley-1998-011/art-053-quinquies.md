@@ -1,0 +1,3 @@
+Artículo 53 quinquies. Devengo y pago.
+La tasa se devenga cuando se presenta la solicitud correspondiente, de acuerdo con lo dispuesto en el artículo 10.1.b) de la Ley 2/1997, de 3 de junio, de tasas de la comunidad autónoma de las Illes Balears. El pago de la tasa se hará mediante el ingreso de la autoliquidación correspondiente, que se adjunta a la solicitud. No procede ninguna devolución de la tasa en los supuestos de denegación de la autorización o cuando el informe concluya que no es necesaria autorización o informe vinculante.
+Se añade por la disposición final 1.3 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028

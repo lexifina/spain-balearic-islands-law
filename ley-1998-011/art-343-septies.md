@@ -8,17 +8,17 @@ Constituirá el hecho imponible de la presente tasa la prestación de servicios,
 Son sujetos pasivos de esta tasa las personas físicas, jurídicas y las entidades a que se refiere el artículo 35.4 de la Ley 58/2003, de 17 de diciembre, general tributaria, que soliciten la autorización correspondiente para la realización de las actividades a que se refiere el hecho imponible.
 3. Cuantía.
 1. La cuota tributaria de esta tasa se fija de acuerdo con las siguientes tarifas:
-Concepto | Euros/día
+Concepto | Euros/dia
 A. Anclaje del 1 de octubre al 30 de abril: | 
-A.1 Boya blanca (para embarcaciones de 12 metros o menos de eslora) | 8,88
-A.2 Boya amarilla (para embarcaciones de más de 12 y hasta 15 metros de eslora) | 14,25
-A.3 Boya naranja (para embarcaciones de más de 15 y hasta 20 metros de eslora) | 24,85
-A.4 Boya roja (para embarcaciones de más de 20 y hasta 35 metros de eslora) | 76,35
+A.1 Boya blanca (para embarcaciones de 12 metros o menos de eslora) | 9,30
+A.2 Boya amarilla (para embarcaciones de más de 12 y hasta 15 metros de eslora) | 20,00
+A.3 Boya naranja (para embarcaciones de más de 15 y hasta 20 metros de eslora) | 35,00
+A.4 Boya roja (para embarcaciones de más de 20 y hasta 35 metros de eslora) | 105,00
 B. Anclaje del 1 de mayo al 30 de septiembre: | 
-B.1 Boya blanca (para embarcaciones de 12 metros o menos de eslora) | 17,75
-B.2 Boya amarilla (para embarcaciones de más de 12 y hasta 15 metros de eslora) | 28,40
-B.3 Boya naranja (para embarcaciones de más de 15 y hasta 20 metros de eslora) | 64,83
-B.4 Boya roja (para embarcaciones de más de 20 y hasta 35 metros de eslora) | 199,11
+B.1 Boya blanca (para embarcaciones de 12 metros o menos de eslora) | 18,60
+B.2 Boya amarilla (para embarcaciones de más de 12 y hasta 15 metros de eslora) | 40,00
+B.3 Boya naranja (para embarcaciones de más de 15 y hasta 20 metros de eslora) | 90,00
+B.4 Boya roja (para embarcaciones de más de 20 y hasta 35 metros de eslora) | 275,00
 2. En el caso de que se reserve una boya de capacidad superior a la eslora de la embarcación, el importe de la tarifa será el correspondiente a la boya objeto de la reserva.
 Excepcionalmente, y de acuerdo con los criterios que fije el órgano gestor de los sistemas de anclaje, podrá otorgarse una autorización especial, previa justificación, para embarcaciones de más de 35 metros de eslora. En este caso, la tarifa aplicable será la máxima, es decir, la tarifa establecida en los puntos A.4 y B.4 del apartado 1 anterior.
 4. Devengo y pago.
@@ -27,6 +27,7 @@ Excepcionalmente, y de acuerdo con los criterios que fije el órgano gestor de l
 5. Devolución.
 La cancelación de la reserva, cuando se realice con una antelación superior a una hora respecto de la hora de inicio de la ocupación autorizada, implicará la devolución del 50 % del importe de la cuota tributaria. Dicha cancelación se realizará por vía telemática, con indicación de todos los datos que, a tal efecto, establezca el órgano gestor de los sistemas de anclaje.
 Las cancelaciones de las reservas que no verifiquen todas las condiciones a que se refiere el párrafo anterior no darán lugar a ningún tipo de devolución de la correspondiente tasa.
+Se modifica el apartado 3.1 por la disposición final 1.11 de la Ley 6/2025, de 23 de julio. Ref. BOE-A-2025-22028
 Se modifica el apartado 3.1 por la disposición final 2.19 de la Ley 18/2016, de 29 de diciembre. Ref. BOE-A-2017-558
 Se modifican los apartados 1 y 5 por la disposición final 1.17 de la Ley 13/2014, de 29 de diciembre. Ref. BOE-A-2015-1059
 Se añade por la disposición final 2.2 de la Ley 12/2012, de 26 de septiembre. Ref. BOE-A-2012-14022
