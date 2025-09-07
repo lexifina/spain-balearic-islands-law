@@ -1,1 +1,2 @@
+Norma derogada, con efectos de 7 de septiembre de 2025, por la disposición derogatoria única.b) del Decreto-ley 6/2025, de 5 de septiembre. Ref. BOIB-i-2025-90220
 Esta norma pasa a denominarse "Decreto ley 1/2018, de 19 de enero, de medidas urgentes para la mejora y/o la ampliación de la red de equipamientos públicos de usos educativos, de investigación, sanitarios o sociales de la comunidad autónoma de las Illes Balears", según establece la disposición final 2.1 de la Ley 7/2022, de 5 de agosto. Ref. BOE-A-2022-15291#df-2
