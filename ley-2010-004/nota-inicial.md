@@ -1,1 +1,0 @@
-Téngase en cuenta que se deja sin efecto la derogación efectuada por la disposición derogatoria única.a) del Decreto-ley 6/2025, de 5 de septiembre, Ref. BOIB-i-2025-90220, por Resolución de 2 de octubre de 2025, del Parlamento de las Illes Balears, por la que se publica el acuerdo de derogación del citado Decreto-ley. Ref. BOIB-i-2025-90242

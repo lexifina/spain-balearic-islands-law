@@ -1,2 +1,0 @@
-Se deja sin efecto la derogación efectuada por la disposición derogatoria única.c) del Decreto-ley 6/2025, de 5 de septiembre, Ref. BOIB-i-2025-90220, por Resolución de 2 de octubre de 2025, del Parlamento de las Illes Balears por la que se publica el acuerdo de derogación del citado Decreto-ley. Ref. BOIB-i-2025-90242
-El presente Decreto-ley se entiende tácitamente sustituido, con efectos de 3 de abril de 2019, por la Ley 14/2019, de 29 de marzo, de proyectos industriales estratégicos de las Illes Balears. Ref. BOE-A-2019-6699
