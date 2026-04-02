@@ -1,10 +1,10 @@
 Artículo 3 quater. Deducción temporal para compensar el incremento del coste de los préstamos o créditos hipotecarios con tipo de interés variable.
-1. Para los ejercicios fiscales de 2022, 2023 y 2024, se establece una deducción por el coste de los intereses abonados por los contribuyentes en contratos de préstamos o créditos con garantía hipotecaria y con tipo de interés variable subscritos para la financiación de la adquisición de vivienda, con las siguientes condiciones:
-1.ª El inmueble para cuya adquisición se haya constituido la hipoteca será la vivienda habitual del contribuyente.
-2.ª El importe de la deducción será la diferencia entre los intereses abonados el año correspondiente a la liquidación del impuesto y los intereses abonados en 2021.
-3.ª En todo caso, la deducción tendrá un límite máximo de 250 euros por contribuyente en cuanto a la liquidación del ejercicio de 2022 y de 400 euros por contribuyente en cuanto a cada una de las liquidaciones de los ejercicios de 2023 y 2024.
+1. Para el ejercicio fiscal de 2026, se establece una deducción por el coste de los intereses abonados por los contribuyentes en contratos de préstamos o créditos con garantía hipotecaria y con tipo de interés variable suscritos para financiar la adquisición de vivienda, con las condiciones siguientes:
+1.ª El inmueble para cuya adquisición se haya constituido la hipoteca es la vivienda habitual del contribuyente.
+2.ª El importe de la deducción es la diferencia entre los intereses abonados el año 2026 y los intereses abonados el 2025, con el límite máximo de 400 euros por contribuyente.
 2. Esta deducción será incompatible con la deducción estatal por inversión en vivienda habitual a que se refiere la disposición transitoria decimoctava de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas y de modificación parcial de leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio.
 3. El incremento del coste a que se refiere el apartado 1 debe justificarse mediante un certificado bancario, el cual debe mantenerse a disposición de la administración tributaria.
 4. En todo caso, la aplicación de esta deducción exige que la base imponible total no supere el importe de 52.800 euros en el caso de tributación conjunta y de 33.000 euros en el caso de tributación individual, así como la justificación documental, mediante las facturas o los documentos equivalentes correspondientes, los cuales deben mantenerse a disposición de la administración tributaria.
+Se modifica el apartado 1 por la disposición final 1.1 del Decreto-ley 1/2026, de 1 de abril. Ref. BOE-A-2026-9525
 Se modifican los apartados 1 y 2 por el art. 3 de la Ley 11/2023, de 23 de noviembre. Ref. BOE-A-2023-24913
 Se añade por la disposición final 4.3 de la Ley 11/2022, de 28 de diciembre. Ref. BOE-A-2023-2980
