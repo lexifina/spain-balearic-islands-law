@@ -12,7 +12,9 @@ i) El artículo 17 de la Ley 4/2011, de 31 de marzo, de la buena administración
 j) Los apartados 5 y 6 del artículo 22 del texto refundido de la Ley de evaluación ambiental de las Illes Balears, aprobado por el Decreto legislativo 1/2020, de 28 de agosto.
 k) La letra c) del apartado 1 del artículo 2 del Decreto 37/2014, de 8 de agosto, regulador del sistema de compensación económica destinado a los ayuntamientos y a las entidades locales menores de las Illes Balears que abonen a sus miembros electos retribuciones para ejercer los cargos en régimen de dedicación exclusiva o parcial al servicio de la gestión pública local.
 l) Las letras c) y g) del apartado 1 del artículo 3 de la Orden de la Consejera de Hacienda y Administraciones Públicas, de 22 de diciembre de 2016, por la cual se regula la estructura organizativa y funcional de la Agencia Tributaria de las Islas Baleares.
-m) (Derogada)
+m) La disposición final segunda del Decreto-Ley 5/2023, de 28 de agosto, de medidas en el ámbito educativo y en el sanitario.
+Téngase en cuenta que se declara inconstitucional y nula la disposición derogatoria única.d) del Decreto-ley 5/2024, de 13 de diciembre, que derogaba la letra m) de esta disposición, por Sentencia del TC 28/2026, de 25 de marzo. Ref. BOE-A-2026-9593
 n) La Ley 4/2016, de 6 de abril, de medidas de capacitación lingüística para la recuperación del uso del catalán en el ámbito de la función pública, en todo aquello que se oponga, contradiga o resulte incompatible con el contenido de la presente ley.
 o) El Decreto ley 3/2024, de 24 de mayo, de medidas urgentes de simplificación y racionalización administrativas de las administraciones públicas de las Islas Baleares.
+Se declara inconstitucional y nula la disposición derogatoria única.d) del Decreto-ley 5/2024, de 13 de diciembre, que derogaba la letra m) de esta disposición, por Sentencia del TC 28/2026, de 25 de marzo. Ref. BOE-A-2026-9593
 Queda derogada la letra m) según establece la disposición derogatoria única.d) del Decreto-ley 5/2024, de 13 de diciembre. Ref. BOE-A-2025-721, publicado en el BOIB núm. 163, el día 13 de diciembre de 2024.
