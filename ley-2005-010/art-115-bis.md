@@ -1,0 +1,15 @@
+Artículo 115 bis. Embarcaciones, vehículos y objetos abandonados en zonas portuarias de gestión directa.
+1. Corresponde a Puertos de las Illes Balears la propiedad de las embarcaciones, los vehículos y otros bienes abandonados en la zona de servicio del puerto, previa declaración adoptada de acuerdo con esta ley.
+2. A efectos de este artículo se consideran abandonados:
+a) Las embarcaciones, los vehículos y cualquier otro artefacto, mercancía u objeto que no tengan matrícula o los datos suficientes para la identificación de sus propietarios o consignatarios, que se encuentren en zona de servicio portuario sin la preceptiva autorización.
+b) Las embarcaciones, los vehículos y los objetos que permanezcan más de seis meses en la zona de servicio del puerto sin ninguna actividad apreciable exteriormente o sin que sus titulares hayan abonado las tasas o tarifas correspondientes.
+3. La declaración de abandono exigirá la tramitación del siguiente procedimiento:
+a) Se incoará de oficio por acuerdo de la Vicepresidencia Ejecutiva de Puertos de las Illes Balears.
+b) Anteriormente en el acuerdo de incoación, el órgano competente de Puertos emitirá informe con las circunstancias del caso concreto para determinar la concurrencia de las causas previstas en esta ley.
+c) El acuerdo se notificará al propietario titular, al armador o al consignatario o, si procede, se publicará en el "Butlletí Oficial de les Illes Balears". En este acuerdo se indicará al interesado que dispone de un plazo de quince días para efectuar alegaciones y proponer la práctica de todas las pruebas que considere conveniente.
+d) El órgano instructor del procedimiento de Puertos de las Illes Balears podrá solicitar los informes que considere necesarios para la resolución del procedimiento.
+e) La resolución del procedimiento de declaración de abandono de embarcaciones, vehículos y objetos, corresponderá al vicepresidente ejecutivo de Puertos de las Illes Balears.
+f) De la resolución de inicio del procedimiento y de la resolución de la declaración de abandono se informará al Consejo de Administración de Puertos de las Illes Balears.
+4. Una vez declarado el abandono, se procederá a la venta del bien en subasta pública si de su valoración pericial se desprende que mantiene valor económico, salvo que sea procedente su destrucción. La cantidad que se obtenga por la alienación, el desguace o la destrucción de los objetos, vehículos o materiales abandonados, deducidos los gastos originados y las deudas existentes, quedará a disposición de quienes acrediten su titularidad o legítima posesión, durante el plazo de un año.
+5. Cuando los bienes señalados anteriormente tengan la consideración de residuo conforme a lo dispuesto en la Ley 8/2019, de 19 de febrero, de residuos y suelos contaminantes de las Illes Balears, no será necesaria la tramitación del expediente previsto en este artículo y podrán ser retirados previo informe emitido por la administración competente.
+Se añade por el art. único.13 de la Ley 3/2026, de 27 de mayo. Ref. BOE-A-2026-13575
