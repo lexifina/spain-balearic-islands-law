@@ -1,9 +1,9 @@
 Artículo 6 quater. Deducción por adopción.
 1. Por cada adopción en el periodo impositivo de un hijo o una hija que dé derecho a la aplicación del mínimo por descendientes previsto en el artículo 58 de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas y de modificación parcial de leyes de los impuestos sobre sociedades, sobre la renta de no residentes y sobre el patrimonio, los contribuyentes podrán deducir de la cuota íntegra autonómica las siguientes cantidades:
-a) Por el primer hijo o hija: 800 euros.
-b) Por el segundo hijo o hija: 1.000 euros.
-c) Por el tercer hijo o hija: 1.200 euros.
-d) Por el cuarto hijo o hija y siguientes: 1.400 euros.
+a) Por el primer hijo o hija: 900 euros.
+b) Por el segundo hijo o hija: 1.200 euros.
+c) Por el tercer hijo o hija: 1.500 euros.
+d) Por el cuarto hijo o hija y siguientes: 1.800 euros.
 La aplicación de estas deducciones no puede dar como resultado una cuota líquida negativa, sin perjuicio de lo que prevén los apartados 6 y 9 de este artículo.
 2. A efectos de determinar el derecho a esta deducción y el número de orden del hijo adoptado, se tendrán en cuenta los hijos que convivan con el contribuyente y para los cuales se pueda aplicar el mínimo por descendentes mencionado en el apartado anterior en la fecha de devengo del impuesto, y se computarán tanto los hijos naturales como los adoptivos.
 3. Cuando concurran dos contribuyentes con derecho a la deducción y no opten por la tributación conjunta, el importe se prorrateará entre estos a partes iguales.
@@ -17,5 +17,6 @@ Si hay insuficiencia de cuota, de manera que no se pueda aplicar esta deducción
 8. Esta deducción no es aplicable en el caso de la adopción del hijo del cónyuge o de la pareja de hecho.
 Asimismo, esta deducción es incompatible con la percepción de ayudas y prestaciones públicas concedidas u otorgadas por la comunidad autónoma de las Illes Balears por causa de nacimiento.
 9. La renta imputable al contribuyente que pueda resultar de lo que prevé el apartado 6 de este artículo tiene la consideración de prestación pública por adopción a los efectos del artículo 7.h) de la Ley 35/2006, de 28 de noviembre, del impuesto sobre la renta de las personas físicas.
+Se modifica el apartado 1 por la disposición final 67.12 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-67
 Se modifican los apartados 1, 4, 6, 8 y 9 por la disposición final 2.6 a 9 de la Ley 12/2023, de 29 de diciembre. Ref. BOE-A-2024-1569
 Se añade por el art. 8 de la Ley 11/2023, de 23 de noviembre. Ref. BOE-A-2023-24913

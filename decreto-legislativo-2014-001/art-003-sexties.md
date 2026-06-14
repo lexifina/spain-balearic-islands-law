@@ -1,0 +1,3 @@
+Artículo 3 sexties. Deducción por las ayudas recibidas por las personas afectadas por la talidomida en España durante el periodo 1950-1985.
+A partir del ejercicio fiscal de 2023, cuando el contribuyente integre en la base imponible general del impuesto el importe correspondiente a la ayuda pública destinada a las personas afectadas por la talidomida en España durante el periodo 1950-1985, podrá aplicar una deducción en la cuota íntegra autonómica, consistente en el importe resultante de aplicar el tipo medio de gravamen al importe de la ayuda pública a la base liquidable.
+Se añade por la disposición final 67.2 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-67

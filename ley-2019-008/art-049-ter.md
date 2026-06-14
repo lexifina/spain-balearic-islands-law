@@ -1,0 +1,6 @@
+Artículo 49 ter. Sistema de garantías.
+1. La consejería competente en materia de residuos está facultada para supervisar las actuaciones de las entidades colaboradoras en el ejercicio de las funciones reconocidas en este capítulo.
+2. Las personas afectadas por las actuaciones de las entidades colaboradoras pueden presentar reclamaciones en caso de incumplimiento de sus obligaciones.
+En caso de resolución desfavorable o de falta de resolución, las personas afectadas pueden trasladar la reclamación ante el órgano competente en materia de habilitación.
+3. El incumplimiento de las obligaciones a que están sujetas las entidades habilitadas o su personal técnico faculta a la consejería competente en materia de residuos para acordar la suspensión temporal o la retirada definitiva de la habilitación a la entidad o, si procede, al personal técnico responsable, de acuerdo con lo que prevé el título IV de la Ley 7/2024, de 11 de diciembre, de medidas urgentes de simplificación de las administraciones públicas de las Illes Balears, y sin perjuicio del régimen sancionador que establece esta ley y, en su caso, otras leyes sectoriales.
+Se añade por la disposición final 2.4 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-2

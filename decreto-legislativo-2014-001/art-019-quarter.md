@@ -1,0 +1,12 @@
+Artículo 19 quater. Bonificación autonómica en escrituras notariales que documenten la adquisición de la primera vivienda habitual para jóvenes menores de treinta años o personas con discapacidad.
+1. A las primeras copias de escrituras que documenten la transmisión de bienes inmuebles que deban constituir la primera vivienda habitual de jóvenes menores de treinta años, o de personas con un grado de discapacidad igual o superior al 33 %, se aplicará una bonificación del 100 % de la cuota tributaria, siempre que concurran los siguientes requisitos:
+a) El adquiriente debe tener su residencia habitual en las Illes Balears durante al menos los tres años inmediatamente anteriores a la fecha de la adquisición.
+b) La vivienda debe ser la primera vivienda respecto de la que adquiera, en un porcentaje igual o superior al 50 %, la plena propiedad.
+c) El adquiriente no puede ser titular o cotitular en un porcentaje igual o superior al 50 % de ningún otro derecho de propiedad plena o de uso o disfrute respecto de ninguna otra vivienda.
+d) La vivienda adquirida deberá alcanzar el carácter de habitual de acuerdo con la definición y los requisitos establecidos en cada momento por la normativa reguladora del impuesto sobre la renta de las personas físicas.
+e) El valor real o declarado –si este es superior– de la vivienda no podrá ser superior a 270.151,20 euros.
+f) La base imponible total por el impuesto sobre la renta de las personas físicas del contribuyente correspondiente al último periodo impositivo cuyo plazo de declaración haya finalizado, no podrá ser superior a 52.800 euros en el caso de tributación individual o a 84.480 euros en el caso de tributación conjunta.
+g) El adquiriente tiene que haber contratado con una entidad financiera un préstamo con garantía hipotecaria por un importe igual o superior al 60 % del valor de tasación de la vivienda.
+2. El incumplimiento de los requisitos establecidos en la letra d) del apartado anterior implica la pérdida sobrevenida del beneficio fiscal, y el contribuyente deberá presentar una autoliquidación complementaria en el periodo de un mes a contar desde la fecha en que se produzca el incumplimiento e ingresar, junto con la cuota que resulte de aplicar la tarifa a que se refiere el artículo 15 de este texto refundido, los correspondientes intereses de demora.
+3. Esta bonificación no exime de la obligación de presentar la correspondiente autoliquidación del impuesto.
+Se añade por la disposición final 67.7 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-67

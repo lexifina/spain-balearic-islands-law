@@ -1,0 +1,3 @@
+Artículo 19 quinquies. Bonificación autonómica en escrituras notariales que documenten la adquisición de viviendas de precio tasado y de precio limitado (VPL).
+En las primeras copias de escrituras que documenten la transmisión de bienes inmuebles que tengan la calificación de vivienda de precio tasado a que se refiere el artículo 1.4 de la Ley 5/2008, de 14 de mayo, de actuaciones urgentes destinadas a la obtención de suelo para viviendas de protección pública, o de vivienda de precio limitado (VPL) a que refiere el artículo 2 de la Ley 3/2024, de 3 de mayo, de medidas urgentes en materia de vivienda, se aplicará una bonificación del 50 % de la cuota tributaria.
+Se añade por la disposición final 67.8 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-67

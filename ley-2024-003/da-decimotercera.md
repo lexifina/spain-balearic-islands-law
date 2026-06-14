@@ -72,11 +72,7 @@ i) Informar sobre la normativa en materia de cuantías dadas a cuenta por adquis
 8.2 Los agentes que prestan servicios exclusivamente por vía electrónica o telemática dispondrán de una dirección postal accesible en el territorio de las Illes Balears.
 8.3 En estos establecimientos, o en la dirección postal de la persona que preste los servicios por vía electrónica, se atenderán las consultas, quejas y reclamaciones de las personas consumidoras y usuarias en relación con los servicios de los agentes inmobiliarios.
 8.4 Tiene que constar el distintivo y el número de inscripción en el Registro oficial de agentes inmobiliarios de las Illes Balears de forma visible. Los agentes inmobiliarios incorporarán el número de inscripción en el Registro oficial de agentes inmobiliarios de las Illes Balears en toda la publicidad de sus actividades. Mientras no se disponga de este número, se admitirá la incorporación del número de registro de entrada otorgado cuando se presentó la declaración responsable en un registro público.
-9. Requisitos de capacitación y actuación profesional.
-9.1 Los agentes inmobiliarios tendrán y harán pública la capacitación profesional que sea requerida legal o reglamentariamente para ejercer la actividad.
-9.2 Los agentes inmobiliarios cumplirán las obligaciones y los principios de actuación que establece la legislación vigente y los códigos profesionales de conducta que les sean aplicables.
-9.3 En el caso de personas jurídicas, debe cumplir los dos requisitos al menos una de las personas administradoras o, en su caso, uno de los miembros integrantes del consejo de administración de la sociedad, y también la persona responsable del establecimiento abierto al público.
-9.4 Las personas físicas y jurídicas no deben tener antecedentes penales por delitos cometidos en el ejercicio de la actividad inmobiliaria.
+9. (Sin contenido)
 10. Requisitos de solvencia.
 10.1 Los agentes inmobiliarios dispondrán de garantías y seguros en las condiciones establecidas en los puntos 11 a 16 de la presente disposición.
 10.2 Las cuantías de la garantía y del seguro de responsabilidad civil podrán actualizarse mediante una resolución motivada del consejero competente en materia de vivienda.
@@ -96,6 +92,19 @@ Los agentes inmobiliarios dispondrán de una póliza de seguros de responsabilid
 16.1 El seguro de responsabilidad civil se podrá contratar directa o colectivamente a través de los colegios profesionales regulados en la Ley 10/1998, de 14 de diciembre, de colegios profesionales de las Illes Balears, o a través de las asociaciones profesionales o empresariales correspondientes. Se aceptarán las pólizas de seguros constituidas por entidades aseguradoras establecidas en España, y también las constituidas por otras entidades aseguradoras establecidas en el resto de estados miembros de la Unión Europea. El capital mínimo por asegurado en las Illes Balears se fija en un mínimo de 100.000 euros por siniestro y 600.000 euros por año.
 16.2 Las cuantías de la garantía y del seguro de responsabilidad civil podrán ser actualizadas por una resolución del consejero de Vivienda, Territorio y Movilidad, según los indicadores de que disponga la consejería competente en materia de vivienda sobre la variación del mercado de seguros en materia de responsabilidad y garantías.
 16.3 Las garantías y los seguros que establece esta ley no serán aplicables a las operaciones de mediación inmobiliarias iniciadas antes de su entrada en vigor. La fecha de la nota de encargo determinará el inicio de las operaciones.
-17. Libertad de establecimiento y libre prestación de servicios de los agentes inmobiliarios.
-El ejercicio de la actividad de los agentes inmobiliarios es libre, sin más limitaciones que el cumplimiento de la legislación vigente que sea aplicable, de forma que cualquier persona interesada en la prestación de servicios relacionados con la actividad de agente inmobiliario podrá establecerse en las Illes Balears, previa presentación de la declaración responsable o de la comunicación y la obtención de la oportuna habilitación, si procede, en los términos legal o reglamentariamente previstos.
+17. Contenido de la nota por encargo:
+17.1 La disposición adicional tercera de la Ley 5/2018, de 19 de junio, de la vivienda de las Illes Balears, establece la necesidad de subscribir una nota por encargo entre los profesionales y los usuarios del servicio.
+17.2 La nota por encargo a que hace referencia la Ley 5/2018, ya citada, debe contener, como mínimo, los extremos que establece este punto, con independencia de cualquier otra estipulación pactada libremente entre las partes.
+17.3 La nota por encargo tiene que diferenciar de manera clara en su texto los contenidos mínimos y otras estipulaciones pactadas libremente entre las partes.
+17.4 El contenido mínimo de la nota por encargo incluirá:
+a) Los datos personales de quien contrate los servicios, que son los mínimos necesarios para cumplir la finalidad del tratamiento, y título que lo habilita.
+b) Agente inmobiliario a quien se encarguen los servicios, nombre y domicilio. Si procede, el nombre de la empresa en la cual interviene, el domicilio de esta y el CIF. Tiene que constar el número de registro en el Registro oficial de agentes inmobiliarios de las Illes Balears o el de su solicitud, en caso de tratarse de un agente inscrito en el Registro oficial.
+c) Identificación del inmueble a que hace referencia el encargo, con la identificación registral y la referencia catastral.
+d) Operación que se encarga, con indicación expresa de si se otorga con carácter de exclusiva.
+e) Plazo para el cual se otorga el encargo, fecha de inicio y finalización del mismo o, en el caso de ser indefinido, hasta su revocación, haciendo constar este hecho y el mecanismo adecuado de comunicación.
+f) Precio o renta que solicita la persona que encarga los servicios por la operación encomendada.
+g) Honorarios que tiene que percibir el agente inmobiliario por su intervención, con el desglose de los impuestos que deben repercutir sobre estos, así como la forma de pago de las cantidades referidas.
+h) Datos de la póliza del seguro de responsabilidad civil y del seguro o póliza de caución o fianza, que garantice la devolución de las cantidades entregadas a cuenta directamente del agente inmobiliario.
+17.5 La consejería competente en materia de vivienda publicará un modelo de nota por encargo en las dos lenguas cooficiales, en formato editable y no editable, disponible en todo momento para su descarga desde la página web de la consejería.
+Se deja sin contenido el apartado 9 y se modifica el 17 por la disposición final 27.2 y 3 de la Ley 4/2026, de 11 de junio. Ref. BOE-A-2026-15579#df-27
 Se modifican los apartados 3 y 7 por la disposición final 8.3 a 5 de la Ley 7/2024, de 11 de diciembre. Ref. BOE-A-2025-720
