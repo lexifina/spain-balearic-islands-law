@@ -1,0 +1,8 @@
+Disposición final vigesimosegunda. Modificaciones del Decreto ley 4/2025, de 11 de abril, contra la oferta ilegal, de medidas transitorias para la oferta, y para la calidad turística de las Illes Balears.
+1. La disposición adicional segunda del Decreto ley 4/2025, de 11 de abril, contra la oferta ilegal, de medidas transitorias para la oferta, y para la calidad turística de las Illes Balears, queda modificada de la siguiente forma:
+«Disposición adicional segunda. Prohibición relativa a viviendas plurifamiliares.
+A partir de la entrada en vigor de esta norma, no se permite en todo el ámbito de las Illes Balears la presentación de nuevas declaraciones responsables de inicio de actividad relativas a viviendas sometidas al régimen de propiedad horizontal, excepto las tipologías de viviendas adosadas, de viviendas emparejadas y de viviendas unifamiliares aisladas cuando estas últimas compartan parcela con otras edificaciones.
+Quedan excluidas de esta prohibición las viviendas que puedan ser objeto de comercialización turística en la modalidad de alquiler de vivienda principal.»
+2. Se introduce un nuevo apartado, el apartado 7, en la disposición transitoria segunda del citado Decreto ley 4/2025, con la siguiente redacción:
+«7. Se reserva un 25 % de las plazas de que disponga la bolsa temporal de plazas de alojamientos turísticos para ser destinadas a alojamientos que se implanten en edificios que sean bienes de interés cultural o catalogados y estén situados en una zona clasificada como urbana o rústica.
+Por resolución del consejero insular competente en materia de turismo o por acuerdo del órgano gestor de plazas, se podrá modificar este porcentaje.»

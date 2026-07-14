@@ -1,0 +1,3 @@
+Disposición final vigesimonovena. Modificación de la Ley 5/2008, de 14 de mayo, de actuaciones urgentes destinadas a la obtención de suelo para viviendas de protección pública.
+Se añade un párrafo al apartado 4 del artículo 1 de la Ley 5/2008, de 14 de mayo, de actuaciones urgentes destinadas a la obtención de suelo para viviendas de protección pública, con la siguiente redacción:
+«Todos los contratos de compraventa y de alquiler serán visados por la dirección general competente en materia de vivienda para comprobar el cumplimiento de los requisitos de acceso y el resto de condiciones establecidas en la normativa reguladora de las viviendas de precio tasado.»
