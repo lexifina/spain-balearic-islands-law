@@ -1,1 +1,2 @@
+Téngase en cuenta que se suspende la vigencia y aplicación de la Ley 1/2026, de 24 de marzo, Ref. BOE-A-2026-7969, que derogaba la presente norma, desde el 9 de junio de 2026, para las partes del proceso, y desde el 17 de julio de 2026 para los terceros, por providencia del TC de 7 de julio de 2026, que admite a trámite el recurso de inconstitucionalidad nº 4344-2026. Ref. BOE-A-2026-15573
 Norma derogada, con efectos de 26 de marzo de 2026, por el art. 1.1 de la Ley 1/2026, de 24 de marzo. Ref. BOE-A-2026-7969
