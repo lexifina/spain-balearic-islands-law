@@ -1,15 +1,15 @@
 # Ley 4/2005, de 29 de abril, sobre drogodependencias y otras adicciones en las Illes Balears.
 
-Ley 4/2005, de 29 de abril · 1 versions, from 2005-07-10 (latest in force: 2005-07-10) · <https://www.boe.es/buscar/act.php?id=BOE-A-2005-9061>
+Ley 4/2005, de 29 de abril · 2 versions, from 2005-07-10 (latest in force: 2026-08-12) · <https://www.boe.es/buscar/act.php?id=BOE-A-2005-9061>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
 | Artículo 1 | [art-001.md](art-001.md) | 0 |  |
-| Artículo 2 | [art-002.md](art-002.md) | 0 |  |
+| Artículo 2 | [art-002.md](art-002.md) | 1 | 2026-08-12 |
 | Artículo 3 | [art-003.md](art-003.md) | 0 |  |
 | Artículo 4 | [art-004.md](art-004.md) | 0 |  |
 | Artículo 5 | [art-005.md](art-005.md) | 0 |  |
-| Artículo 6 | [art-006.md](art-006.md) | 0 |  |
+| Artículo 6 | [art-006.md](art-006.md) | 1 | 2026-08-12 |
 | Artículo 7 | [art-007.md](art-007.md) | 0 |  |
 | Artículo 8 | [art-008.md](art-008.md) | 0 |  |
 | Artículo 9 | [art-009.md](art-009.md) | 0 |  |
@@ -30,7 +30,7 @@ Ley 4/2005, de 29 de abril · 1 versions, from 2005-07-10 (latest in force: 2005
 | Artículo 24 | [art-024.md](art-024.md) | 0 |  |
 | Artículo 25 | [art-025.md](art-025.md) | 0 |  |
 | Artículo 26 | [art-026.md](art-026.md) | 0 |  |
-| Artículo 27 | [art-027.md](art-027.md) | 0 |  |
+| Artículo 27 | [art-027.md](art-027.md) | 1 | 2026-08-12 |
 | Artículo 28 | [art-028.md](art-028.md) | 0 |  |
 | Artículo 29 | [art-029.md](art-029.md) | 0 |  |
 | Artículo 30 | [art-030.md](art-030.md) | 0 |  |
@@ -58,7 +58,7 @@ Ley 4/2005, de 29 de abril · 1 versions, from 2005-07-10 (latest in force: 2005
 | Artículo 52 | [art-052.md](art-052.md) | 0 |  |
 | Artículo 53 | [art-053.md](art-053.md) | 0 |  |
 | Artículo 54 | [art-054.md](art-054.md) | 0 |  |
-| Artículo 55 | [art-055.md](art-055.md) | 0 |  |
+| Artículo 55 | [art-055.md](art-055.md) | 1 | 2026-08-12 |
 | Artículo 56 | [art-056.md](art-056.md) | 0 |  |
 | Artículo 57 | [art-057.md](art-057.md) | 0 |  |
 | Artículo 58 | [art-058.md](art-058.md) | 0 |  |

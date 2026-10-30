@@ -2574,6 +2574,12 @@
      "units": 47,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7873",
      "sha256": "6c435108dbab05e702d9497c5cd6241f1937cd9c3a9384955db802e41680e553"
+    },
+    {
+     "from": "2026-08-12",
+     "units": 50,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2003-7873",
+     "sha256": "122f6088211c9762e5d6ce6c2a044394744b5b8653d9dbc8b2b0d5a376360eec"
     }
    ]
   },
@@ -2922,6 +2928,12 @@
      "units": 70,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-9061",
      "sha256": "39855db77ad1215d96102eb2fed45b9a102e036f007168297137e2af7a6edb1c"
+    },
+    {
+     "from": "2026-08-12",
+     "units": 70,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2005-9061",
+     "sha256": "3cee235a8f47d58e8757d319b836740a650b4fd6b61154e8dea0b9e2e74a9c57"
     }
    ]
   },
@@ -10348,6 +10360,50 @@
      "units": 0,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2026-487",
      "sha256": "f17bee13755586bc8f2c79c39ae5ccf9ab5e9a55dae984e1c491d8af17104125"
+    }
+   ]
+  },
+  {
+   "slug": "ley-2016-005",
+   "short": "Ley 5/2016, de 13 de abril",
+   "title": "Ley 5/2016, de 13 de abril, de la renta social garantizada.",
+   "url": "https://www.boe.es/buscar/act.php?id=BOE-A-2016-4178",
+   "versions": [
+    {
+     "from": "2016-05-14",
+     "units": 39,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4178",
+     "sha256": "12f31f5ecff68fc2205e6e549149a94d99ea2c4cfee74d931721a9be6a876a11"
+    },
+    {
+     "from": "2017-01-01",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4178",
+     "sha256": "12f31f5ecff68fc2205e6e549149a94d99ea2c4cfee74d931721a9be6a876a11"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4178",
+     "sha256": "12f31f5ecff68fc2205e6e549149a94d99ea2c4cfee74d931721a9be6a876a11"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 40,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4178",
+     "sha256": "12f31f5ecff68fc2205e6e549149a94d99ea2c4cfee74d931721a9be6a876a11"
+    },
+    {
+     "from": "2020-06-17",
+     "units": 41,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4178",
+     "sha256": "12f31f5ecff68fc2205e6e549149a94d99ea2c4cfee74d931721a9be6a876a11"
+    },
+    {
+     "from": "2020-06-18",
+     "units": 0,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2016-4178",
+     "sha256": "12f31f5ecff68fc2205e6e549149a94d99ea2c4cfee74d931721a9be6a876a11"
     }
    ]
   }

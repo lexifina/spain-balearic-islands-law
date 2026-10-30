@@ -10,7 +10,7 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 
 ## What this repository holds
 
-264 norms with 1373 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 38 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
+265 norms with 1381 versions so far: the Estatuto de Autonomía first, then the laws, decree-laws and legislative decrees in force that the BOE consolidates, oldest first, added in parts of about 50. 39 of them are repealed norms the BOE consolidates: their whole history is kept, and their last commit removes the text on the day the repeal took effect, credited to the repealing norm. Regulations are not included (the BOE consolidates no autonomic decrees or orders).
 
 | Folder | Norm | Versions | History | BOE last updated |
 | --- | --- | ---: | --- | --- |
@@ -77,7 +77,6 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2002-003/` | Ley 3/2002, de 17 de mayo, de Estadística de las Illes Balears. | 4 | as first published, then each change: 29 May 2002 to 1 January 2025 | 2025-12-18 |
 | `ley-2002-004/` | Ley 4/2002, de 4 de junio, de Tasas por Inspecciones y Controles Sanitarios de los Productos Pesqueros Destinados al Consumo Humano. | 1 | as first published: 14 June 2002 | 2025-12-18 |
 | `ley-2002-008/` | Ley 8/2002, de 26 de septiembre, de creación del Colegio de Educadoras y Educadores Sociales de las Illes Balears. | 1 | as first published: 9 October 2002 | 2025-12-18 |
-| `ley-2003-002/` | Ley 2/2003, de 20 de marzo, de organización institucional del sistema universitario de las Illes Balears. | 3 | as first published, then each change: 30 March 2003 to 1 May 2026 | 2026-08-13 |
 | `ley-2003-003/` | Ley 3/2003, de 26 de marzo, de Régimen Jurídico de la Administración de la Comunidad Autónoma de las Illes Balears. | 12 | as first published, then each change: 3 July 2003 to 19 December 2021 | 2026-09-11 |
 | `ley-2003-004/` | Ley 4/2003, de 26 de marzo, de Museos de las Illes Balears. | 2 | as first published, then each change: 4 April 2003 to 28 July 2006 | 2025-12-18 |
 | `ley-2003-005/` | Ley 5/2003, de 4 de abril, de Salud de las Illes Balears. | 21 | as first published, then each change: 23 April 2003 to 14 June 2026 | 2026-07-17 |
@@ -86,7 +85,6 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `ley-2004-004/` | Ley 4/2004, de 2 de abril, de la Sindicatura de Cuentas de las Illes Balears. | 3 | as first published, then each change: 11 April 2004 to 19 April 2024 | 2025-12-18 |
 | `ley-2004-005/` | Ley 5/2004, de 20 de diciembre, de creación del Colegio Oficial de Guías Turísticos de las Illes Balears. | 3 | as first published, then each change: 26 December 2004 to 20 October 2020 | 2025-12-18 |
 | `ley-2005-003/` | Ley 3/2005, de 20 de abril, de protección del medio nocturno de las Illes Balears. | 2 | as first published, then each change: 29 April 2005 to 2 May 2019 | 2025-12-18 |
-| `ley-2005-004/` | Ley 4/2005, de 29 de abril, sobre drogodependencias y otras adicciones en las Illes Balears. | 1 | as first published: 10 July 2005 | 2026-08-11 |
 | `ley-2005-005/` | Ley 5/2005, de 26 de mayo, para la conservación de los espacios de relevancia ambiental (LECO). | 16 | as first published, then each change: 5 June 2005 to 14 June 2026 | 2026-07-20 |
 | `ley-2005-010/` | Ley 10/2005 de 21 de junio, de puertos de las Illes Balears. | 11 | oldest version available, then each change: 3 July 2005 to 31 May 2026 | 2026-06-23 |
 | `ley-2005-011/` | Ley 11/2005, de 7 de diciembre, de medidas específicas y tributarias para las islas de Ibiza y Formentera, en materia de ordenación territorial, urbanismo y turismo. | 4 | as first published, then each change: 16 December 2005 to 1 January 2018 | 2025-12-18 |
@@ -278,6 +276,9 @@ Basado en datos de la Agencia Estatal Boletín Oficial del Estado (<https://www.
 | `decreto-ley-2024-003/` | Decreto-ley 3/2024, de 24 de mayo, de medidas urgentes de simplificación y racionalización administrativas de las administraciones públicas de las Illes Balears. | 2 | as first published, then each change: 29 May 2024 to 14 December 2024; **repealed** 14 December 2024 by Ley 7/2024, de 11 de diciembre (BOE-A-2025-720) | 2026-02-20 |
 | `decreto-ley-2025-003/` | Decreto-ley 3/2025, de 14 de marzo, de actuaciones urgentes destinadas a la obtención de suelo mediante proyectos residenciales estratégicos en el municipio de Palma. | 2 | as first published, then each change: 15 March 2025 to 24 July 2025; **repealed** 24 July 2025 by Ley 4/2025, de 18 de julio (BOE-A-2025-22026) | 2026-02-20 |
 | `decreto-ley-2025-008/` | Decreto-ley 8/2025, de 5 de diciembre, de medidas urgentes para acelerar proyectos estratégicos que contribuyan a la transformación económica de las Illes Balears. | 2 | as first published, then each change: 7 December 2025 to 14 June 2026; **repealed** 14 June 2026 by Ley 4/2026, de 11 de junio (BOE-A-2026-15579) | 2026-10-30 |
+| `ley-2016-005/` | Ley 5/2016, de 13 de abril, de la renta social garantizada. | 6 | as first published, then each change: 14 May 2016 to 18 June 2020; **repealed** 18 June 2020 by Decreto-ley 10/2020, de 12 de junio (BOE-A-2020-8013) | 2026-01-15 |
+| `ley-2003-002/` | Ley 2/2003, de 20 de marzo, de organización institucional del sistema universitario de las Illes Balears. | 4 | as first published, then each change: 30 March 2003 to 12 August 2026 | 2026-11-05 |
+| `ley-2005-004/` | Ley 4/2005, de 29 de abril, sobre drogodependencias y otras adicciones en las Illes Balears. | 2 | as first published, then each change: 10 July 2005 to 12 August 2026 | 2026-11-05 |
 
 ## Source
 

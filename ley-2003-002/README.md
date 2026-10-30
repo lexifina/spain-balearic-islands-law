@@ -1,6 +1,6 @@
 # Ley 2/2003, de 20 de marzo, de organización institucional del sistema universitario de las Illes Balears.
 
-Ley 2/2003, de 20 de marzo · 3 versions, from 2003-03-30 (latest in force: 2026-05-01) · <https://www.boe.es/buscar/act.php?id=BOE-A-2003-7873>
+Ley 2/2003, de 20 de marzo · 4 versions, from 2003-03-30 (latest in force: 2026-08-12) · <https://www.boe.es/buscar/act.php?id=BOE-A-2003-7873>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -44,6 +44,9 @@ Ley 2/2003, de 20 de marzo · 3 versions, from 2003-03-30 (latest in force: 2026
 | Disposición adicional quinta | [da-05.md](da-05.md) | 0 |  |
 | Disposición adicional sexta | [da-06.md](da-06.md) | 0 |  |
 | Disposición adicional séptima | [da-07.md](da-07.md) | 1 | 2026-05-01 |
+| Disposición adicional octava | [da-08.md](da-08.md) | 1 | 2026-08-12 |
+| Disposición adicional novena | [da-09.md](da-09.md) | 1 | 2026-08-12 |
+| Disposición adicional décima | [da-10.md](da-10.md) | 1 | 2026-08-12 |
 | Disposición derogatoria única | [dd-unica.md](dd-unica.md) | 0 |  |
 | Disposición final primera | [df-01.md](df-01.md) | 0 |  |
 | Disposición final segunda | [df-02.md](df-02.md) | 0 |  |

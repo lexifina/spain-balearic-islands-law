@@ -77,7 +77,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2002-003` | Ley 3/2002, de 17 de mayo, de Estadística de las Illes Balears. | 4 | 2002-05-29 to 2025-01-01 |
 | `ley-2002-004` | Ley 4/2002, de 4 de junio, de Tasas por Inspecciones y Controles Sanitarios de los Productos Pesqueros Destinados al Consumo Humano. | 1 | 2002-06-14 to 2002-06-14 |
 | `ley-2002-008` | Ley 8/2002, de 26 de septiembre, de creación del Colegio de Educadoras y Educadores Sociales de las Illes Balears. | 1 | 2002-10-09 to 2002-10-09 |
-| `ley-2003-002` | Ley 2/2003, de 20 de marzo, de organización institucional del sistema universitario de las Illes Balears. | 3 | 2003-03-30 to 2026-05-01 |
+| `ley-2003-002` | Ley 2/2003, de 20 de marzo, de organización institucional del sistema universitario de las Illes Balears. | 4 | 2003-03-30 to 2026-08-12 |
 | `ley-2003-003` | Ley 3/2003, de 26 de marzo, de Régimen Jurídico de la Administración de la Comunidad Autónoma de las Illes Balears. | 12 | 2003-07-03 to 2021-12-19 |
 | `ley-2003-004` | Ley 4/2003, de 26 de marzo, de Museos de las Illes Balears. | 2 | 2003-04-04 to 2006-07-28 |
 | `ley-2003-005` | Ley 5/2003, de 4 de abril, de Salud de las Illes Balears. | 21 | 2003-04-23 to 2026-06-14 |
@@ -86,7 +86,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `ley-2004-004` | Ley 4/2004, de 2 de abril, de la Sindicatura de Cuentas de las Illes Balears. | 3 | 2004-04-11 to 2024-04-19 |
 | `ley-2004-005` | Ley 5/2004, de 20 de diciembre, de creación del Colegio Oficial de Guías Turísticos de las Illes Balears. | 3 | 2004-12-26 to 2020-10-20 |
 | `ley-2005-003` | Ley 3/2005, de 20 de abril, de protección del medio nocturno de las Illes Balears. | 2 | 2005-04-29 to 2019-05-02 |
-| `ley-2005-004` | Ley 4/2005, de 29 de abril, sobre drogodependencias y otras adicciones en las Illes Balears. | 1 | 2005-07-10 to 2005-07-10 |
+| `ley-2005-004` | Ley 4/2005, de 29 de abril, sobre drogodependencias y otras adicciones en las Illes Balears. | 2 | 2005-07-10 to 2026-08-12 |
 | `ley-2005-005` | Ley 5/2005, de 26 de mayo, para la conservación de los espacios de relevancia ambiental (LECO). | 16 | 2005-06-05 to 2026-06-14 |
 | `ley-2005-010` | Ley 10/2005 de 21 de junio, de puertos de las Illes Balears. | 11 | 2005-07-03 to 2026-05-31 |
 | `ley-2005-011` | Ley 11/2005, de 7 de diciembre, de medidas específicas y tributarias para las islas de Ibiza y Formentera, en materia de ordenación territorial, urbanismo y turismo. | 4 | 2005-12-16 to 2018-01-01 |
@@ -278,20 +278,21 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `decreto-ley-2024-003` | Decreto-ley 3/2024, de 24 de mayo, de medidas urgentes de simplificación y racionalización administrativas de las administraciones públicas de las Illes Balears. | 2 | 2024-05-29 to 2024-12-14 |
 | `decreto-ley-2025-003` | Decreto-ley 3/2025, de 14 de marzo, de actuaciones urgentes destinadas a la obtención de suelo mediante proyectos residenciales estratégicos en el municipio de Palma. | 2 | 2025-03-15 to 2025-07-24 |
 | `decreto-ley-2025-008` | Decreto-ley 8/2025, de 5 de diciembre, de medidas urgentes para acelerar proyectos estratégicos que contribuyan a la transformación económica de las Illes Balears. | 2 | 2025-12-07 to 2026-06-14 |
+| `ley-2016-005` | Ley 5/2016, de 13 de abril, de la renta social garantizada. | 6 | 2016-05-14 to 2020-06-18 |
 
-The build made 606 commits:
+The build made 614 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 264 | first version of an act |
-| 341 | one law on its in-force day |
+| 265 | first version of an act |
+| 348 | one law on its in-force day |
 | 1 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-10-30.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 469 laws in the record.
-- 1818 tags.
+- 472 laws in the record.
+- 1829 tags.
 
 ## Dates
 
@@ -303,13 +304,13 @@ When a law gives no date of its own, the default rule applies: Each version take
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `64673f2934b4c8cb540d10f7828a9e74fe1a46543d644e03c3816ddc5537f233` (38159481 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `a4faa25af85facb64b956b372f6b528aafdd7ec1`, `check.py` `3d00541d258745461ab52b1b0cb4e1716a27a95d`, `on.py` `644a6c0857fbcc72562032b58d57aa113fee0641`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Corpus: sha256 `7954904902d192369ce3f0fe8c7eb105760824ccf7270ac5e08d8a3c04b5aad9` (38414718 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
-1373 versions of 264 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -323,6 +324,8 @@ No second build of this corpus has been compared yet.
 - Included: the Estatuto de Autonomía (an Estatal Ley Orgánica), then the unit's Autonómico norms the BOE consolidates and marks as not exhausted (vigencia_agotada N), oldest first.
 - An act's first commit is its first publication when every block of its earliest version comes from the act itself; otherwise it is the oldest version the BOE holds, naming the norms in it.
 - Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms whose force ran out without a repeal (vigencia agotada), annulled norms, and repealed norms whose BOE record is not consistent (no repeal day, no single repeal note, or text versions on or after the repeal day) are left out.
+- Repealed norms: the unit's Autonómico norms the BOE consolidates and marks as repealed as a whole (estatus_derogacion S) are included with their whole consolidated history. Their last commit removes every file on the day the repeal took effect (the BOE's fecha_derogacion), credited to the repealing norm the BOE names on its repeal note ("Norma derogada, con efectos ...") and in its "SE DEROGA" reference; the note itself is that commit's reason, not a version. Norms repealed (or found) after the first capture follow the same rule. When the BOE's three records do not all agree, a norm is still included if its metadata marks it repealed with a fecha_derogacion and no text changes on or after that day: the repeal day is that fecha_derogacion, and the repealer is the one norm named on that day's repeal note, or, with no note that day, the only SE DEROGA reference. Norms whose force ran out without a repeal (vigencia agotada) and annulled norms are left out.
+- Updates: when the BOE updates the consolidated text of a published norm, its published versions stay as they are and the newer versions are appended, each dated by its fecha_vigencia; a norm the BOE has since repealed ends with a commit that removes its text on the fecha_derogacion, credited to the repealing norm, and keeps that repeal in its record. An update that would change a version already published is held for review, never applied.
 
 ## What AI did and did not do
 
