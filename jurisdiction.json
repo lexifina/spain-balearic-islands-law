@@ -1,0 +1,11 @@
+{
+  "path": "es-ib",
+  "code": "ES-IB",
+  "name": "Balearic Islands",
+  "level": "autonomous community",
+  "parent": "es",
+  "repo": "https://github.com/lexifina/spain-balearic-islands-law",
+  "build": "built: statute of autonomy and laws (264 norms, 1373 versions) from BOE legislación consolidada",
+  "language": "es",
+  "sources": 1
+}
