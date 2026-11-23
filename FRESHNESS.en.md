@@ -4,12 +4,13 @@
 
 [Español](FRESHNESS.md)
 
-How global-law measures how current every country is: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). For Spain:
+How global-law measures how current every country is: [global-law FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md). For Balearic Islands:
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/balearic-islands/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-23 01:08 UTC**.
-- Acts held here: 265; current at the source: 257; changed at the source since the version held here: 8; no longer at the source: 0.
-- Not published: 10 (changed at the source since the version held here: 8, the source has not published its text yet: 2); with no reason: 0.
+- The official source last read and every act held here checked against it: **2026-11-23 13:50 UTC**.
+- Acts held here: 265; current at the source: 265; changed at the source since the version held here: 0; no longer at the source: 0.
+- Compared with the source in this read: 16 of the 265 acts held here; the others were not compared in this read (see the check's note).
+- Not published: 2 (the source has not published its text yet: 2); with no reason: 0.
 
 In detail: [monitoring/](monitoring/README.en.md). For programs: [data/checks/latest.json](data/checks/latest.json).
