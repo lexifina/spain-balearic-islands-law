@@ -1,16 +1,14 @@
 {
- "generated": "2026-11-26T06:33:44Z",
+ "generated": "2026-11-27T06:33:44Z",
  "latest": {
   "boe-autonomico|spain/balearic-islands/acts": {
    "attempt": 1,
    "audit": {
     "examples": [
-     "BOE-A-1997-3983: 0 of 40 blocks of the page not found here; 4638 of 33318 letters here not on the page as such",
-     "BOE-A-1998-10998: 6 of 77 blocks of the page not found here; 2050 of 48714 letters here not on the page as such",
-     "BOE-A-1999-11707: 1 of 168 blocks of the page not found here; 132 of 119960 letters here not on the page as such"
+     "BOE-A-1999-2944: 1 of 880 blocks of the page not found here; 22327 of 522080 letters here not on the page as such"
     ],
-    "match_neither": 3,
-    "match_new": 5,
+    "match_neither": 1,
+    "match_new": 7,
     "match_old": 0,
     "method": "the BOE's consolidated-text page (www.boe.es/buscar/act.php?id=<id>, HTML, the text as the BOE publishes it for readers) read for norms published or read this check, and compared with the files at the tip, letters and digits: every block of the page found in the files, and at most 3% of the files' letters not on the page as such (heading blocks the XML keeps and the page no longer shows)",
     "sampled": 8,
@@ -19,34 +17,41 @@
    "census": {
     "awaiting_text": 2,
     "checked": 10,
-    "current": 265,
+    "current": 263,
     "gone": 0,
     "held": 265,
     "listed_without_text": 0,
     "newest_at_source": "BOE-A-2026-15579",
     "newest_in_repo": "BOE-A-2026-15579",
     "out_of_scope": 0,
-    "pending": 0,
+    "pending": 2,
     "repo": 265,
     "source_in_scope": 265
    },
-   "check_id": "es-boe-autonomico-20261126T061934Z",
-   "commits": null,
+   "check_id": "es-boe-autonomico-20261127T061907Z",
+   "commits": {
+    "count": 2,
+    "from": "992c756612927c04e949bfe1ddfaa70ee940447f",
+    "to": "2ee952b1d5f9a140717b6407cb65b6fa6008573f"
+   },
    "corpus": "spain/balearic-islands/acts",
    "error": null,
-   "finished": "2026-11-26T06:20:22Z",
+   "finished": "2026-11-27T06:20:02Z",
    "flags": [
     {
-     "detail": "3 of 8 read again by a second route disagree",
+     "detail": "1 of 8 read again by a second route disagree",
      "flag": "audit-disagrees"
     }
    ],
    "gap": 2,
-   "note": "the BOE's list of 12482 consolidated norms (8858 Estatal, 3624 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261126T052734Z); this repository's data run to 2026-11-05",
+   "note": "the BOE's list of 12485 consolidated norms (8860 Estatal, 3625 Autonómico) was read once at 05:27 UTC for the 20 Spanish corpora (check es-boe-estatal-20261127T052756Z); this repository's data run to 2026-11-05",
    "outcome": "changed",
    "published": {
     "added": [],
-    "changed": [],
+    "changed": [
+     "BOE-A-2018-6405",
+     "BOIB-i-2005-90013"
+    ],
     "removed": []
    },
    "requests": 29,
@@ -60,9 +65,9 @@
     ],
     "removed": []
    },
-   "snapshot": "2026-11-25T14:14:13Z",
+   "snapshot": "2026-11-26T13:04:42Z",
    "source": "boe-autonomico",
-   "started": "2026-11-26T06:19:34Z",
+   "started": "2026-11-27T06:19:07Z",
    "unexplained": 0,
    "verify": {
     "cycle_days": 30,

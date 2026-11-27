@@ -8,8 +8,8 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### BOE consolidated legislation, autonomous communities (open data) · `spain/balearic-islands/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-26 06:20 UTC**.
-- Acts held here: 265; current at the source: 265; changed at the source since the version held here: 0; no longer at the source: 0.
+- The official source last read and every act held here checked against it: **2026-11-27 06:20 UTC**.
+- Acts held here: 265; current at the source: 263; changed at the source since the version held here: 2; no longer at the source: 0.
 - Compared with the source in this read: 10 of the 265 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 2 (the source has not published its text yet: 2); with no reason: 0.
 
