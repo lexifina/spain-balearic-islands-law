@@ -1,6 +1,6 @@
 # Ley 2/2018, de 13 de abril, de memoria y reconocimiento democráticos de las Illes Balears.
 
-Ley 2/2018, de 13 de abril · 3 versions, from 2018-04-20 (latest in force: 2026-07-17) · <https://www.boe.es/buscar/act.php?id=BOE-A-2018-6405>
+Ley 2/2018, de 13 de abril · 4 versions, from 2018-04-20 (latest in force: 2026-11-25) · <https://www.boe.es/buscar/act.php?id=BOE-A-2018-6405>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -55,5 +55,5 @@ Ley 2/2018, de 13 de abril · 3 versions, from 2018-04-20 (latest in force: 2026
 | Disposición final tercera | [df-03.md](df-03.md) | 0 |  |
 | Disposición final cuarta | [df-04.md](df-04.md) | 0 |  |
 | [firma] | [firma.md](firma.md) | 0 |  |
-| Nota inicial | [nota-inicial.md](nota-inicial.md) | 2 | 2026-07-17 |
+| Nota inicial | [nota-inicial.md](nota-inicial.md) | 3 | 2026-11-25 |
 | [preambulo] | [preambulo.md](preambulo.md) | 0 |  |

@@ -1,6 +1,6 @@
 # Decreto Legislativo 2/2005, de 28 de diciembre, por el que se aprueba el texto refundido de la Ley de subvenciones.
 
-Decreto Legislativo 2/2005, de 28 de diciembre · 22 versions, from 2006-01-01 (latest in force: 2026-07-17) · <https://www.boe.es/buscar/act.php?id=BOIB-i-2005-90013>
+Decreto Legislativo 2/2005, de 28 de diciembre · 23 versions, from 2006-01-01 (latest in force: 2026-11-25) · <https://www.boe.es/buscar/act.php?id=BOIB-i-2005-90013>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -13,7 +13,7 @@ Decreto Legislativo 2/2005, de 28 de diciembre · 22 versions, from 2006-01-01 (
 | Artículo 7 | [art-007.md](art-007.md) | 2 | 2013-01-01 |
 | Artículo 8 | [art-008.md](art-008.md) | 2 | 2013-01-01 |
 | Artículo 9 | [art-009.md](art-009.md) | 0 |  |
-| Artículo 10 | [art-010.md](art-010.md) | 6 | 2026-07-17 |
+| Artículo 10 | [art-010.md](art-010.md) | 7 | 2026-11-25 |
 | Artículo 11 | [art-011.md](art-011.md) | 2 | 2013-01-01 |
 | Artículo 12 | [art-012.md](art-012.md) | 4 | 2022-03-31 |
 | Artículo 13 | [art-013.md](art-013.md) | 3 | 2024-12-14 |

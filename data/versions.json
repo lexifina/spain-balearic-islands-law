@@ -3284,6 +3284,12 @@
      "units": 77,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOIB-i-2005-90013",
      "sha256": "0b0a13e7bf0e608af991704e699efc7474181a400a0608b348a396273d710a58"
+    },
+    {
+     "from": "2026-11-25",
+     "units": 77,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOIB-i-2005-90013",
+     "sha256": "151abb298d5ed4bf9ddb242eb341a522d03cdbb08dda400ee57995cc405d634e"
     }
    ]
   },
@@ -7054,6 +7060,12 @@
      "units": 53,
      "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-6405",
      "sha256": "d0938662077de342b126e2459f06c24fd9a28c95f65b1c48dabf401a983ff7cf"
+    },
+    {
+     "from": "2026-11-25",
+     "units": 53,
+     "source_url": "https://www.boe.es/datosabiertos/api/legislacion-consolidada/id/BOE-A-2018-6405",
+     "sha256": "5a7c6294822f12c8eae5fdf295754f358428f9982e4879b270eb8c600850c6cc"
     }
    ]
   },
