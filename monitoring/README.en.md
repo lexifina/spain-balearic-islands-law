@@ -6,18 +6,19 @@
 
 How global-law monitors every country: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). This page is the same for Balearic Islands only: every time an official source is read, when, and what came of it (acts added, changed and removed). The machine-readable form is [data/checks/](../data/checks/) (JSON Lines, schema `lexifina-check/1`), in `git log` as `Kind: check` commits, and month by month in [checks/](checks/).
 
-**Last check:** 2026-11-27 06:20 UTC, BOE consolidated legislation, autonomous communities (open data): 29 addresses read; 0 added, 2 changed, 0 removed; changes found; 2 not published, 0 of them with no reason. Flags: `audit-disagrees`.
+**Last check:** 2026-11-28 06:22 UTC, BOE consolidated legislation, autonomous communities (open data): 27 addresses read; 0 added, 0 changed, 0 removed; no change; 2 not published, 0 of them with no reason. Flags: `audit-disagrees`.
 
 ## Sources
 
 | Source | Folders | How often | Last successful check | Last result | State |
 | --- | --- | --- | --- | --- | --- |
-| [BOE consolidated legislation, autonomous communities (open data)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | daily | 2026-11-27 06:20 UTC | changes found | watched |
+| [BOE consolidated legislation, autonomous communities (open data)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | daily | 2026-11-28 06:22 UTC | no change | watched |
 
 ## The last 30 days
 
 | Started (UTC) | Source | Read | Added | Changed | Removed | Not published (no reason) | Result | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 06:21](checks/2026-11.md#es-boe-autonomico-20261128t062128z) | boe-autonomico | 27 | 0 | 0 | 0 | 2 (0) | no change `audit-disagrees` | — |
 | [2026-11-27 06:19](checks/2026-11.md#es-boe-autonomico-20261127t061907z) | boe-autonomico | 29 | 0 | 2 | 0 | 2 (0) | changes found `audit-disagrees` | [2](https://github.com/lexifina/spain-balearic-islands-law/compare/992c75661292...2ee952b1d5f9) |
 | [2026-11-26 06:19](checks/2026-11.md#es-boe-autonomico-20261126t061934z) | boe-autonomico | 29 | 0 | 2 | 0 | 2 (0) | changes found `audit-disagrees` | — |
 | [2026-11-25 06:15](checks/2026-11.md#es-boe-autonomico-20261125t061517z) | boe-autonomico | 27 | 0 | 0 | 0 | 2 (0) | no change `audit-disagrees` | — |

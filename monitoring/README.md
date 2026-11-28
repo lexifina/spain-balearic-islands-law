@@ -6,18 +6,19 @@
 
 Cómo supervisa global-law todos los países: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Esta página hace lo mismo solo para Illes Balears: cada vez que se lee una fuente oficial, cuándo y qué resultó (normas añadidas, modificadas y retiradas). La forma legible por máquina está en [data/checks/](../data/checks/) (JSON Lines, esquema `lexifina-check/1`), en `git log` como commits `Kind: check`, y mes a mes en [checks/](checks/).
 
-**Última comprobación:** 2026-11-27 06:20 UTC, Legislación consolidada del BOE, comunidades autónomas (datos abiertos): 29 direcciones leídas; 0 añadidas, 2 modificadas, 0 retiradas; cambios encontrados; 2 sin publicar, 0 de ellas sin motivo. Avisos: `audit-disagrees`.
+**Última comprobación:** 2026-11-28 06:22 UTC, Legislación consolidada del BOE, comunidades autónomas (datos abiertos): 27 direcciones leídas; 0 añadidas, 0 modificadas, 0 retiradas; sin cambios; 2 sin publicar, 0 de ellas sin motivo. Avisos: `audit-disagrees`.
 
 ## Fuentes
 
 | Fuente | Carpetas | Frecuencia | Última comprobación correcta | Último resultado | Estado |
 | --- | --- | --- | --- | --- | --- |
-| [Legislación consolidada del BOE, comunidades autónomas (datos abiertos)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | diaria | 2026-11-27 06:20 UTC | cambios encontrados | vigilada |
+| [Legislación consolidada del BOE, comunidades autónomas (datos abiertos)](https://www.boe.es/datosabiertos/api/api.php) | `estatuto-de-autonomia/`, `ley-*/`, `decreto-ley-*/`, `decreto-legislativo-*/`, `…` | diaria | 2026-11-28 06:22 UTC | sin cambios | vigilada |
 
 ## Los últimos 30 días
 
 | Inicio (UTC) | Fuente | Leídas | Añadidas | Modificadas | Retiradas | Sin publicar (sin motivo) | Resultado | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 06:21](checks/2026-11.md#es-boe-autonomico-20261128t062128z) | boe-autonomico | 27 | 0 | 0 | 0 | 2 (0) | sin cambios `audit-disagrees` | — |
 | [2026-11-27 06:19](checks/2026-11.md#es-boe-autonomico-20261127t061907z) | boe-autonomico | 29 | 0 | 2 | 0 | 2 (0) | cambios encontrados `audit-disagrees` | [2](https://github.com/lexifina/spain-balearic-islands-law/compare/992c75661292...2ee952b1d5f9) |
 | [2026-11-26 06:19](checks/2026-11.md#es-boe-autonomico-20261126t061934z) | boe-autonomico | 29 | 0 | 2 | 0 | 2 (0) | cambios encontrados `audit-disagrees` | — |
 | [2026-11-25 06:15](checks/2026-11.md#es-boe-autonomico-20261125t061517z) | boe-autonomico | 27 | 0 | 0 | 0 | 2 (0) | sin cambios `audit-disagrees` | — |
